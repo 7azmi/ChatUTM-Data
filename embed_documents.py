@@ -79,17 +79,18 @@ def update_chromadb(new_files, modified_files, deleted_files, vector_store):
         )
 
 def log_changes(new_files, modified_files, deleted_files):
-    """Log changes to the console."""
-    print("Embedding Summary:")
-    print(f"- New Files: {len(new_files)}")
+    """Log changes to the console with emojis for better readability."""
+    print("📌 **Embedding Summary**:")
+    print(f"🟢 **New Files** ({len(new_files)})")
     for file in new_files:
-        print(f"  + {file}")
-    print(f"- Modified Files: {len(modified_files)}")
+        print(f"   ➕ {file}")
+    print(f"🟡 **Modified Files** ({len(modified_files)})")
     for file in modified_files:
-        print(f"  * {file}")
-    print(f"- Deleted Files: {len(deleted_files)}")
+        print(f"   ✏️ {file}")
+    print(f"🔴 **Deleted Files** ({len(deleted_files)})")
     for file in deleted_files:
-        print(f"  - {file}")
+        print(f"   ❌ {file}")
+
 
 # Initialize ChromaDB
 vector_store = Chroma(persist_directory="./chroma_data", embedding_function=OpenAIEmbeddings())
