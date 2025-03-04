@@ -1,7 +1,6 @@
 from langchain_community.document_loaders import TextLoader
-from langchain_openai import OpenAIEmbeddings, OpenAI
+from langchain_openai import OpenAIEmbeddings
 from langchain_community.vectorstores import Chroma
-from langchain.chains import RetrievalQA
 from langchain.text_splitter import CharacterTextSplitter
 from dotenv import load_dotenv
 import os
@@ -30,21 +29,4 @@ vector_store = Chroma.from_documents(
     persist_directory="./chroma_data"  # Directory to store embeddings
 )
 
-# Step 5: Retrieve Documents
-retriever = vector_store.as_retriever()
-
-# Step 6: Generate Response
-qa_chain = RetrievalQA.from_chain_type(
-    llm=OpenAI(),
-    chain_type="stuff",
-    retriever=retriever,
-    return_source_documents=True
-)
-
-# Query the system
-query = "What is the main topic of the document?"
-response = qa_chain.invoke({"query": query})
-
-# Print the response
-print("Answer:", response["result"])
-print("Source Documents:", response["source_documents"])
+print("Documents have been embedded and stored in ChromaDB.")
