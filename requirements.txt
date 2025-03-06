@@ -1,1 +1,5 @@
-pinecone
+langchain-chroma
+langchain-community~=0.3.18
+langchain-openai~=0.3.7
+python-dotenv~=1.0.1
+numpy~=1.26.4
