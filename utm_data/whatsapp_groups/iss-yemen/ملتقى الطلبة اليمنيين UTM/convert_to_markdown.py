@@ -11,19 +11,16 @@ client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))  # Use your OpenAI API key
 
 # System message with the long prompt
 SYSTEM_PROMPT = """
-You are a helpful assistant. Extract useful question-answer conversations from the following chat history and format them in Markdown. 
-Focus on extracting only meaningful and relevant question-answer pairs or discussions that provide actionable or informative content, mostly academic or related to student life in university.
-Ignore messages with missing or irrelevant information (e.g., deleted messages, media omissions, security updates, daily announcements, casual greetings, or non-informative exchanges).
+You are a helpful assistant. Extract meaningful question-answer pairs or discussions from the chat history, focusing on academic or university-related topics. Format the output in Markdown following these rules:
 
-**Formatting Rules**:
 1. **Direct Question-Answer Pairs**:
-   - If a conversation consists of a direct question and a clear answer, format it concisely as:
+   - Format as:
      ### [Topic/Subject]
      - **Question**: [Exact question text]
      - **Answer**: [Exact answer text, including links if provided] *(Timestamp)*
 
 2. **Opinions & Responses**:
-   - If multiple users provide varied opinions or responses to a question, structure it as:
+   - Format as:
      ### [Topic/Subject]
      - **Inquiry**: [Exact question or topic]
      - **Opinions & Responses**:
@@ -31,11 +28,10 @@ Ignore messages with missing or irrelevant information (e.g., deleted messages, 
        - [Username 2]: [Response 2, including links if provided] *(Timestamp)*
 
 3. **General Rules**:
-   - Do not include summaries, additional comments, or irrelevant content.
-   - Generate multiple markdown sections inside the file so that they can be split smoothly using Python.
-   - Do not add a global title like "# ChatUTM Conversations" or any overarching headers.
-   - Output raw Markdown text only. Do not wrap the output in "```markdown" or any other code block syntax.
-   - Ensure links are included in the output when they are part of the response.
+   - Ignore casual greetings, announcements, media omissions, or non-informative exchanges.
+   - Ignore requests for filling out forms.
+   - Output raw Markdown text only, without overarching headers or code block syntax.
+   - Split content into multiple Markdown sections for easy processing.
 """
 
 # Function to call the OpenAI API
@@ -91,7 +87,7 @@ def process_single_file(file_path):
 # Main execution
 if __name__ == "__main__":
     # Specify the path to a single chat file
-    chat_file = "2024/06.txt"  # Replace with your file path
+    chat_file = "2024/12.txt"  # Replace with your file path
     if os.path.exists(chat_file):
         process_single_file(chat_file)
     else:
