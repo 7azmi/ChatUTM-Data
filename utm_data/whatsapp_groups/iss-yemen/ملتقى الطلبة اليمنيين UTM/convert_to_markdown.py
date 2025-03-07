@@ -84,11 +84,22 @@ def process_single_file(file_path):
 
     print(f"Converted {file_path} -> {md_file_path}")
 
+# Function to process all files in a folder
+def process_folder(folder_path):
+    # Check if the folder exists
+    if not os.path.exists(folder_path):
+        print(f"Folder not found: {folder_path}")
+        return
+
+    # Iterate over all files in the folder
+    for file_name in os.listdir(folder_path):
+        file_path = os.path.join(folder_path, file_name)
+        # Process only .txt files
+        if file_name.endswith(".txt"):
+            process_single_file(file_path)
+
 # Main execution
 if __name__ == "__main__":
-    # Specify the path to a single chat file
-    chat_file = "2024/12.txt"  # Replace with your file path
-    if os.path.exists(chat_file):
-        process_single_file(chat_file)
-    else:
-        print(f"File not found: {chat_file}")
+    # Specify the path to the folder containing chat files
+    chat_folder = "2022/"  # Replace with your folder path
+    process_folder(chat_folder)
