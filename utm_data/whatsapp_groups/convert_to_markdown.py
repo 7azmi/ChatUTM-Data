@@ -101,5 +101,5 @@ def process_folder(folder_path):
 # Main execution
 if __name__ == "__main__":
     # Specify the path to the folder containing chat files
-    chat_folder = "2022/"  # Replace with your folder path
+    chat_folder = "../2022/"  # Replace with your folder path
     process_folder(chat_folder)
