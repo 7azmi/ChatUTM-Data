@@ -6,13 +6,13 @@ from openai import OpenAI
 # Load environment variables
 load_dotenv()
 
-# Initialize DeepSeek client
-client = OpenAI(api_key=os.getenv('DEEPSEEK_API_KEY'), base_url="https://api.deepseek.com")
+# Initialize OpenAI client
+client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))  # Use your OpenAI API key
 
 # System message with the long prompt
 SYSTEM_PROMPT = """
 You are a helpful assistant. Extract useful question-answer conversations from the following chat history and format them in Markdown. 
-Focus on extracting only meaningful and relevant question-answer pairs or discussions that provide actionable or informative content. 
+Focus on extracting only meaningful and relevant question-answer pairs or discussions that provide actionable or informative content, mostly academic or related to student life in university.
 Ignore messages with missing or irrelevant information (e.g., deleted messages, media omissions, security updates, daily announcements, casual greetings, or non-informative exchanges).
 
 **Formatting Rules**:
@@ -38,16 +38,16 @@ Ignore messages with missing or irrelevant information (e.g., deleted messages, 
    - Output raw Markdown text only. Do not wrap the output in "```markdown" or any other code block syntax.
 """
 
-# Function to call the DeepSeek API
-def call_deepseek_api(chat_text):
+# Function to call the OpenAI API
+def call_openai_api(chat_text):
     try:
         response = client.chat.completions.create(
-            model="deepseek-chat",
+            model="gpt-4o-mini",  # Use GPT-4 Turbo
             messages=[
                 {"role": "system", "content": SYSTEM_PROMPT},
                 {"role": "user", "content": chat_text},
             ],
-            max_tokens=4096,
+            max_tokens=4096,  # Adjust based on your needs
             stream=False
         )
         return response.choices[0].message.content
@@ -56,7 +56,7 @@ def call_deepseek_api(chat_text):
         return ""
 
 # Function to split text into manageable chunks
-def chunk_text(text, max_lines=400, overlap=10):
+def chunk_text(text, max_lines=250, overlap=10):
     lines = text.splitlines()  # Split text into lines
     chunks = []
     for i in range(0, len(lines), max_lines - overlap):
@@ -78,7 +78,7 @@ def process_single_file(file_path):
     md_content = ""
     for i, chunk in enumerate(chunks):
         print(f"Processing chunk {i + 1}/{len(chunks)}...")
-        md_content += call_deepseek_api(chunk) + "\n"
+        md_content += call_openai_api(chunk) + "\n"
         time.sleep(1)  # Avoid rate limits
 
     # Write the output to a Markdown file
@@ -91,7 +91,7 @@ def process_single_file(file_path):
 # Main execution
 if __name__ == "__main__":
     # Specify the path to a single chat file
-    chat_file = "2025/01.txt"  # Replace with your file path
+    chat_file = "2024/01.txt"  # Replace with your file path
     if os.path.exists(chat_file):
         process_single_file(chat_file)
     else:
