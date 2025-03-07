@@ -20,22 +20,22 @@ Ignore messages with missing or irrelevant information (e.g., deleted messages, 
    - If a conversation consists of a direct question and a clear answer, format it concisely as:
      ### [Topic/Subject]
      - **Question**: [Exact question text]
-     - **Answer**: [Exact answer text]
-     - **Timestamp**: [Timestamp of the question]
+     - **Answer**: [Exact answer text, including links if provided] *(Timestamp)*
 
 2. **Opinions & Responses**:
    - If multiple users provide varied opinions or responses to a question, structure it as:
      ### [Topic/Subject]
      - **Inquiry**: [Exact question or topic]
      - **Opinions & Responses**:
-       - [Username 1]: [Response 1] *(Timestamp)*
-       - [Username 2]: [Response 2] *(Timestamp)*
+       - [Username 1]: [Response 1, including links if provided] *(Timestamp)*
+       - [Username 2]: [Response 2, including links if provided] *(Timestamp)*
 
 3. **General Rules**:
    - Do not include summaries, additional comments, or irrelevant content.
    - Generate multiple markdown sections inside the file so that they can be split smoothly using Python.
    - Do not add a global title like "# ChatUTM Conversations" or any overarching headers.
    - Output raw Markdown text only. Do not wrap the output in "```markdown" or any other code block syntax.
+   - Ensure links are included in the output when they are part of the response.
 """
 
 # Function to call the OpenAI API
@@ -91,7 +91,7 @@ def process_single_file(file_path):
 # Main execution
 if __name__ == "__main__":
     # Specify the path to a single chat file
-    chat_file = "2024/01.txt"  # Replace with your file path
+    chat_file = "2024/06.txt"  # Replace with your file path
     if os.path.exists(chat_file):
         process_single_file(chat_file)
     else:
