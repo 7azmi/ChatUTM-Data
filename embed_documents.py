@@ -7,6 +7,7 @@ from langchain_community.document_loaders import TextLoader
 from langchain_openai import OpenAIEmbeddings
 from langchain_chroma import Chroma
 from langchain.text_splitter import CharacterTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 load_dotenv()
 
@@ -53,9 +54,11 @@ def detect_changes(directory, metadata_file):
 
 def update_chromadb(new_files, modified_files, deleted_files, vector_store):
     """Update ChromaDB with new, modified, and deleted files."""
-    embeddings = OpenAIEmbeddings()
-    text_splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
-
+    embeddings = OpenAIEmbeddings(model="text-embedding-3-small")  # Use the new model
+    text_splitter = RecursiveCharacterTextSplitter(
+        chunk_size=1000,
+        chunk_overlap=200
+    )
     # DELETE embeddings for modified & deleted files
     files_to_remove = deleted_files + modified_files  # Remove old versions before adding new ones
     if files_to_remove:
@@ -92,8 +95,8 @@ def log_changes(new_files, modified_files, deleted_files):
         print(f"   ❌ {file}")
 
 
-# Initialize ChromaDB
-vector_store = Chroma(persist_directory="./chroma_data", embedding_function=OpenAIEmbeddings())
+# Initialize ChromaDB with the new embeddings
+vector_store = Chroma(persist_directory="./chroma_data", embedding_function=OpenAIEmbeddings(model="text-embedding-3-small"))
 
 # Detect changes
 new_files, modified_files, deleted_files, current_hashes = detect_changes(directory, metadata_file)
