@@ -1,105 +1,109 @@
 import os
+import csv
 import time
+import requests
 from dotenv import load_dotenv
-from openai import OpenAI
+from io import StringIO
 
 # Load environment variables
-load_dotenv()
+load_dotenv('.env')
 
-# Initialize OpenAI client
-client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))  # Use your OpenAI API key
+# DeepSeek API setup
+api_key = os.getenv('DEEPSEEK_API_KEY')
+if not api_key:
+    raise ValueError("DEEPSEEK_API_KEY is missing from .env file")
 
-# System message with the long prompt
+API_URL = "https://api.deepseek.com/chat/completions"
+
 SYSTEM_PROMPT = """
-You are a helpful assistant. Extract meaningful question-answer pairs or discussions from the chat history, focusing on academic or university-related topics. Format the output in Markdown following these rules:
+You are an assistant extracting structured question-answer pairs from WhatsApp chats.
 
-1. **Direct Question-Answer Pairs**:
-   - Format as:
-     ### [Topic/Subject]
-     - **Question**: [Exact question text]
-     - **Answer**: [Exact answer text, including links if provided] *(Timestamp)*
+CSV Format:
+Timestamp,User,Question/Message,Answer/Response
 
-2. **Opinions & Responses**:
-   - Format as:
-     ### [Topic/Subject]
-     - **Inquiry**: [Exact question or topic]
-     - **Opinions & Responses**:
-       - [Username 1]: [Response 1, including links if provided] *(Timestamp)*
-       - [Username 2]: [Response 2, including links if provided] *(Timestamp)*
-
-3. **General Rules**:
-   - Ignore casual greetings, announcements, media omissions, or non-informative exchanges.
-   - Ignore requests for filling out forms.
-   - Output raw Markdown text only, without overarching headers or code block syntax.
-   - Split content into multiple Markdown sections for easy processing.
+- Include all clear questions and their respective answers.
+- Exclude greetings, announcements, security notifications, media omitted messages, and casual chatter.
+- Output should strictly follow CSV format provided above.
 """
 
-# Function to call the OpenAI API
-def call_openai_api(chat_text):
-    try:
-        response = client.chat.completions.create(
-            model="gpt-4o-mini",  # Use GPT-4 Turbo
-            messages=[
-                {"role": "system", "content": SYSTEM_PROMPT},
-                {"role": "user", "content": chat_text},
-            ],
-            max_tokens=4096,  # Adjust based on your needs
-            stream=False
-        )
-        return response.choices[0].message.content
-    except Exception as e:
-        print(f"API Error: {e}")
-        return ""
+def call_deepseek_api(chat_text):
+    headers = {
+        "Content-Type": "application/json",
+        "Authorization": f"Bearer {api_key}",
+    }
 
-# Function to split text into manageable chunks
+    payload = {
+        "model": "deepseek-chat",
+        "messages": [
+            {"role": "system", "content": SYSTEM_PROMPT},
+            {"role": "user", "content": chat_text},
+        ],
+        "max_tokens": 4096,
+    }
+
+    response = requests.post(API_URL, headers=headers, json=payload)
+    if response.status_code == 200:
+        return response.json()['choices'][0]['message']['content']
+    else:
+        raise Exception(f"API Error: {response.status_code} - {response.text}")
+
 def chunk_text(text, max_lines=250, overlap=10):
-    lines = text.splitlines()  # Split text into lines
+    lines = text.splitlines()
     chunks = []
     for i in range(0, len(lines), max_lines - overlap):
-        chunk = "\n".join(lines[i:i + max_lines])  # Join lines into a chunk
-        chunks.append(chunk)
+        chunks.append("\n".join(lines[i:i + max_lines]))
     return chunks
 
-# Function to process a single chat file with chunking
-def process_single_file(file_path):
-    # Read the chat history from the file
-    with open(file_path, "r", encoding="utf-8") as f:
-        chat_text = f.read()
+def parse_response_to_csv(api_response):
+    csv_rows = []
+    reader = csv.reader(StringIO(api_response.strip()))
+    for row in reader:
+        if len(row) == 4 and row[0] != "Timestamp":
+            csv_rows.append(row)
+    return csv_rows
 
-    # Split the chat text into chunks
+def clean_chat_text(text):
+    cleaned_lines = []
+    for line in text.splitlines():
+        if ("security code" in line or "<Media omitted>" in line 
+            or line.strip().endswith("changed. Tap to learn more.")
+            or "This message was deleted" in line):
+            continue
+        cleaned_lines.append(line)
+    return "\n".join(cleaned_lines)
+
+def process_chat_to_csv(chat_file):
+    print(f"Processing {chat_file}")
+    with open(chat_file, "r", encoding="utf-8") as file:
+        chat_text = file.read()
+
+    chat_text = clean_chat_text(chat_text)
     chunks = chunk_text(chat_text)
-    print(f"Processing file: {file_path} (split into {len(chunks)} chunks)")
+    all_rows = []
 
-    # Process each chunk and collect the results
-    md_content = ""
-    for i, chunk in enumerate(chunks):
-        print(f"Processing chunk {i + 1}/{len(chunks)}...")
-        md_content += call_openai_api(chunk) + "\n"
-        time.sleep(1)  # Avoid rate limits
+    for idx, chunk in enumerate(chunks):
+        print(f"Processing chunk {idx + 1}/{len(chunks)}...")
+        api_response = call_deepseek_api(chunk)
+        rows = parse_response_to_csv(api_response)
+        all_rows.extend(rows)
+        time.sleep(1)  # Avoid API rate limits
 
-    # Write the output to a Markdown file
-    md_file_path = file_path.replace(".txt", ".md")
-    with open(md_file_path, "w", encoding="utf-8") as md_file:
-        md_file.write(md_content)
+    csv_file = chat_file.replace('.txt', '.csv')
+    with open(csv_file, "w", encoding="utf-8", newline="") as csv_out:
+        writer = csv.writer(csv_out)
+        writer.writerow(["Timestamp", "User", "Question/Message", "Answer/Response"])
+        writer.writerows(all_rows)
 
-    print(f"Converted {file_path} -> {md_file_path}")
+    print(f"CSV file saved: {csv_file}")
 
-# Function to process all files in a folder
 def process_folder(folder_path):
-    # Check if the folder exists
-    if not os.path.exists(folder_path):
-        print(f"Folder not found: {folder_path}")
-        return
-
-    # Iterate over all files in the folder
-    for file_name in os.listdir(folder_path):
-        file_path = os.path.join(folder_path, file_name)
-        # Process only .txt files
-        if file_name.endswith(".txt"):
-            process_single_file(file_path)
+    for root, _, files in os.walk(folder_path):
+        for file in files:
+            if file.endswith(".txt"):
+                chat_file = os.path.join(root, file)
+                process_chat_to_csv(chat_file)
 
 # Main execution
 if __name__ == "__main__":
-    # Specify the path to the folder containing chat files
-    chat_folder = "../2022/"  # Replace with your folder path
+    chat_folder = r"C:\Users\fares\ChatUTM-Data\utm_data\whatsapp_groups\iss-yemen\ysag\Chemical\2022"
     process_folder(chat_folder)
