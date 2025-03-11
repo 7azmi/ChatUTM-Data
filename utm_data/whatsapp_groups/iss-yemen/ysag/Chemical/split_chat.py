@@ -82,5 +82,5 @@ def split_chat_by_month(input_file):
 
 # Main function
 if __name__ == "__main__":
-    input_file = '../_chat.txt'  # Replace with your actual file name
+    input_file = 'https://vscode.dev/github/7azmi/ChatUTM-Data/blob/chemical-chat/utm_data/whatsapp_groups/iss-yemen/ysag/Chemical/chemical.txt'  # Replace with your actual file name
     split_chat_by_month(input_file)
