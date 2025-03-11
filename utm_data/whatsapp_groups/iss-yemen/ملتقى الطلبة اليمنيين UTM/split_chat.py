@@ -5,11 +5,11 @@ import os
 
 # Function to extract the date from a chat line
 def extract_date(line):
-    date_match = re.match(r'(\d{1,2}/\d{1,2}/\d{2}), (\d{1,2}:\d{2})\s*([APap][Mm])', line)
+    date_match = re.match(r'\[(\d{2})/(\d{2})/(\d{4}), (\d{1,2}):(\d{2}):(\d{2})\s*([APap][Mm])\]', line)
     if date_match:
-        date_str = date_match.group(1)
+        day, month, year = date_match.group(1), date_match.group(2), date_match.group(3)
         try:
-            return datetime.strptime(date_str, '%m/%d/%y')
+            return datetime.strptime(f"{year}-{month}-{day}", '%Y-%m-%d')
         except ValueError:
             print(f"Warning: Invalid date format in line: {line.strip()}")
     return None
@@ -68,5 +68,5 @@ def split_chat_by_month(input_file):
     print(f"Total lines across all files: {total_lines}")
 
 if __name__ == "__main__":
-    input_file = 'computing.txt'  # Replace with actual file name
+    input_file = 'issyemen.txt'  # Replace with actual file name
     split_chat_by_month(input_file)
