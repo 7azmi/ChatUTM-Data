@@ -1,0 +1,69 @@
+topic,category,question,answer,keywords,timestamp
+Attendance Report Request,Academic,من وين اجيب ال attendance?,مكتب الكلية,"['attendance', 'college office']",2023-01-01
+Visa Renewal Process,Visa/Immigration,هل مازال تروح لل international office أو عبر النت لتجديد الفيزا؟,عبر النت,"['visa', 'renewal', 'international office']",2023-01-02
+Requirements for Online Visa Renewal,Visa/Immigration,المتطلبات نفسها إلى في الموقع تبع الاتحاد؟,نعم,"['visa', 'requirements', 'online']",2023-01-02
+Fee for Visa Renewal,Visa/Immigration,كم المبلغ الي طلبوه بالنسبة للتجديد في ISC؟,80 رنقت لمدة سنتين,"['visa', 'renewal', 'fee']",2023-01-02
+Graduation with Honors,Academic,التخرج بإمتياز يحتاج المعدل يكون فوق ٣.٨ ولا ٣.٧؟,3.67,"['graduation', 'honors', 'GPA']",2023-01-04
+Credit Transfer Verification,Academic,كيف اتاكد انهم ضافو الكريدت حق كورس الإنجليزي بشهاده التوفل؟,تدخل من البروفايل حقك الى slip بعدين ادخل على Course transferred slip,"['credit transfer', 'TOEFL', 'verification']",2023-01-05
+Document Translation Services,Other,احد يعرف رقم مكتب او شخص يترجم شهايد من العربي الى الانجليزي.,يحبذ لو يكون بماليزيا بحيث يكون معترف به من الجهات الماليزية.,"['translation', 'documents', 'certificates']",2023-01-06
+فتح حساب بنكي,Academic,وين اقرب فرع RHB ممكن اخلص فيه اجراءات فتح الحساب؟,"RHB Bank - Taman Ungku Tun Aminah
+07-557 1477
+https://maps.app.goo.gl/Ky3jUTGKRKUeFqm99?g_st=ic","['فتح حساب', 'RHB', 'إجراءات بنكية']",2023-01-07
+فتح حساب بنكي,Academic,ما هي الأوراق المطلوبة لفتح حساب بنكي؟,"1. Approval letter from EMGS.
+2. Letter from UTM.
+3. Malaysia hand phone bill or any proof that is your number.
+4. Original passport.
+5. Copy of passport (details page).
+6. Copy of visa.
+7. Copy of matric card.
+8. If you are renting, a copy of your rental agreement or payment receipt.
+9. Bank statement of your Father or your sponsor.
+10. Deposit RM1000.","['فتح حساب', 'أوراق مطلوبة', 'RHB']",2023-01-10
+تجديد الفيزا,Visa/Immigration,هل أستطيع رفع طلب تجديد الفيزا الآن وتسليم الجواز لاحقًا؟,لازم تبدأ في تطبيق التجديد من الآن، ومتى ما طلعلك تروح تسلم جوازك وقتها.,"['تجديد الفيزا', 'الإجراءات']",2023-01-10
+النظام الدراسي,Academic,متى يبدأ السمستر الجاي؟,19 مارس,"['بداية السمستر', 'تاريخ']",2023-01-07
+متطلبات فتح حساب بنكي,Academic,ما هي الإجراءات لفتح حساب بنكي للطلاب؟,تجمع الأوراق المطلوبة ثم تكلم الرقم لحجز موعد لفتح الحساب.,"['حجز موعد', 'فتح حساب بنكي']",2023-01-10
+استفسار عن الرسوم,Visa/Immigration,كم تكلفة فيزة الطالب الجديد لمدة ثلاث سنوات؟,2055RM,"['تكلفة الفيزا', 'فيزة الطالب']",2023-01-10
+Student Visa Costs,Visa/Immigration,كم تكلفة فيزة الطالب الجديد ٣ سنوات؟,2055RM,"['Student Visa', 'Costs', 'EMGS']",2023-10-01
+Registration and Course Enrollment,Academic,هل الجامعتنا الغت نظام ال pre-registration؟,الدمج بين التسجيل والتسجيل العادي لن يتم، ويجب التسجيل بين 15 و26 يناير.,"['registration', 'pre-registration', 'semester']",2023-10-01
+Visa Renewal Process,Visa/Immigration,اذا مددت الجواز الامجريشن يجددوا الفيزه؟,يمكن تجديد الفيزا دون مشاكل لكن يجب الأخذ في الاعتبار الوقت.,"['visa', 'renewal', 'passport']",2023-10-01
+Final Exam Review for EMT Students,Academic,كيف يمكن الحصول على مراجعة قبل الفاينل للطلبة العرب؟,يمكن ملء الفورم المرفق لأخذ مراجعة قبل الفاينل.,"['final exam', 'review', 'EMT']",2023-10-01
+Student Employment Skills Survey,Academic,هل يمكن المساعدة في تعبئة الفورم الخاص بمهارات العمل؟,يمكنك تعبيئة الفورم عبر الرابط المرفق.,"['employability', 'survey', 'skills']",2023-10-01
+Application Timeline for University Admission,Academic,هل يمكن التقديم على البكالوريوس أبريل أو الأفضل الانتظار للأكتوبر؟,المعدلات العلمية المطلوبة للتسجيل عبر UTMSPACE متاحة بفصول محددة، ويمكن الانتظار لتقديم طلب اكتوبر.,"['university admission', 'timeline', 'UTMSPACE']",2023-10-01
+Deferring a Semester,Academic,هل يمكنني اعادة الترم الأول؟,لتأجيل الترم، يتوجب تقديم سبب مقنع، مع إمكانية دفع كامل رسوم الترم.,"['deferral', 'semester', 'reason']",2023-10-01
+Opening a Bank Account Information,Other,ما هي المستندات المطلوبة لفتح حساب بنك إسلام؟,هناك مستندات مثل عرض القبول وجواز السفر ونسخة من الفيزا.,"['bank account', 'documents', 'Islamic bank']",2023-10-01
+Re-registration Process and Conditions,Academic,هل فيه طريقه اقدر اتواصل مع البندهاري في مكاني ولا؟,مش شرط انك تروح هي غالبا تأخذ وقت اذا سددت الرسوم مثلا قي وقت متأخر مثلا امس باليل تأخذ وقت لين يبدء الدوام حق البندهاري ويشيلوها عليك من النظام اصبر كمان ساعة أو ساعتين وان شاء الله بتتشال.,"['البندهاري', 'التسجيل', 'الرسوم']",2023-01-16
+Visa Renewal Process,Visa/Immigration,هل تحتاج تأشيرة إذا كانت الرحلة عبر سنغافورة ترانزيت؟,لا ماتحتاج وخاصة اذا بنفس الطيران ما تحتاج تأشيرة.,"['تأشيرة', 'ترانزيت', 'سنغافورة']",2023-01-16
+Student Financial Services,Academic,وش نوع الماترك الجديد؟,تكون بطاقة الطالب تبعك وفي نفس الوقت بطاقة بنكية من RHB.,"['الماترك', 'بطاقة الطالب', 'البنك']",2023-01-17
+Consent Form for Registration,Academic,فين احصل الفورم؟,تأكد ما اذا لسه مفتوح للتسجيل لانهم بيقفلوا التسجيل في تاريخ معين وانا نسيت متى.,"['Consent Form', 'التسجيل', 'الفورم']",2023-01-17
+International Student Services Hotline,Visa/Immigration,كيف أستطيع التواصل مع خدمة الدعم للطلاب الدوليين بشأن المعاملات المتعلقة بالتأشيرات؟,"+60122150054 - DOCUMENT PROCESSING TEAM
++60126410056 - VISA APPROVAL LETTER (eVAL) TEAM","['Hotline', 'الطلاب الدوليين', 'خدمات التأشيرات']",2023-01-15
+Registration Information,Academic,هل نزلوا اسماء الدكاترة؟,لا وغالبًا مش حتنزل لانهم يريدونا نسجل حسب الجدول بدون ما نغير سكاشن.,"['التسجيل', 'الدكاترة', 'الجدول']",2023-01-14
+Class Registration Issues,Academic,هل فيه إمكانية التسجيل دون معرفة أسماء الدكاترة؟,الحين نسجل بدون اسماء.,"['تسجيل', 'الدكاترة', 'الاسماء']",2023-01-14
+Visa Transfer and Bank Account Issues,Visa/Immigration,هل يمكنني فتح حساب بنكي إذا نقلت تأشيرة إلى جواز جديد؟,إذا تم نقل الفيزا إلى جواز جديد وليس هناك تحديث في النظام، فقد تواجه مشاكل في فتح الحساب. يجب عليك التواصل مع EMGS لتحديث معلوماتك.,"['فيزا', 'جواز جديد', 'حساب بنكي', 'EMGS']",2023-01-17
+Verification Letter Requirement for Visa Renewal,Visa/Immigration,هل أحتاج خطاب من الجامعة لتجديد الإقامة وأنا في ماليزيا؟,نعم، يجب عليك تقديم آخر خطاب تحقق لديك أو الحصول على واحد جديد من UTMI.,"['تجديد إقامة', 'خطاب تحقق', 'UTMI']",2023-01-18
+Software Engineering Availability for February Intake,Academic,هل يوجد تخصص هندسة البرمجيات متاح في فبراير؟,نعم، هناك تخصص هندسة البرمجيات متاح في فبراير.,"['هندسة البرمجيات', 'فبراير', 'تخصصات']",2023-01-18
+University Office Contacts,Academic,ما هو إيميل مكتب كلية الحاسوب؟,إيميل مكتب كلية الحاسوب هو contact@fc.utm.my.,"['مكتب كلية الحاسوب', 'إيميل']",2023-01-17
+Passport Renewal Process,Visa/Immigration,ما هي متطلبات تجديد الجواز؟,يجب عليك تعبئة بعض النماذج وإرسال صور لك خلفية بيضاء وتحويل الرسوم المطلوبة.,"['تجديد جواز', 'متطلبات', 'نموذج']",2023-01-18
+Understanding Visa Validity with Extended Passports,Visa/Immigration,هل يمكنني تجديد الفيزا بجواز ممدد؟,نعم، يمكنك تجديد الفيزا حتى مع الجواز الممدد.,"['تجديد فيزا', 'جواز ممدد']",2023-01-18
+Chinese New Year Holiday,Student Life,هل بكرا عطلة رسمية حق الchinese new year؟,اعتقد احد و اثنين اجازه,"['Chinese New Year', 'Holiday']",2023-01-21
+Printing Shop Hours,Other,هل فيه محل طباعه مفتوحه حالياً؟,تمنيو ٩٠ بالمية منها مقفل الان، لو بتروح مكان حاول تتصل عليه قبل,"['printing shop', 'hours']",2023-01-22
+International Office Hours,Other,الانترناشونال اليوم بيكون مقفل صح؟,ايوة اليوم و بكرة مقفل، بيشتغلوا يوم الثلاثاء,"['international office', 'hours']",2023-01-22
+IELTS Test Submission Deadline,Academic,هل عنده علم متى آخر موعد لتسليم اختبار الايلتس؟,,"['IELTS', 'submission deadline']",2023-01-23
+MC Issuance Clinics,Student Life,حد يعرف عيادة تعطي MC ؟,Poliklinik Chu 07-521 3188، خذ معاك كرت التأمين شغال عندهم بس بياخذوا مبلغ بسيط تقريبا ٢٠,"['MC', 'clinic']",2023-01-23
+JPJ Hours Inquiry,Other,كيف اعرف اذا ال JPJ. فاتحين اليوم ؟,اجازة، بكرا فاتحين ان شاء الله,"['JPJ', 'opening hours']",2023-01-23
+Registration for New Students,Academic,كيف اعرف إذا وقت التسجيل للطلاب الجدد؟,فترة التسجيل للطلاب الجدد: هو الوقت اللي تجي فيه كطالب جديد لادارة القبول والتسجيل وتقدم لهم اوراقك الاصليه واللي من ضمنها مؤهل اللغه.,"['registration', 'new students']",2023-01-23
+University Insurance Coverage,Student Life,تأمين الجامعه يشمل خلع ضروس ولا ؟,مدير ال UTMI قال لي مو يشمل الا الحوادث وحمى الضنك.,"['university insurance', 'dental']",2023-01-24
+Tuition Payment Deadlines,Academic,هل اليوم اخر يوم او بكره؟,بكرة,"['tuition', 'deadline']",2023-01-25
+Car Rental in Johor,Student Life,مين يعرف أحد يأجر سيارات في جوهور ..؟,شوف ابو جنى @60189470820,"['car rental', 'Johor']",2023-01-25
+Embassy Email Addresses,Visa/Immigration,احد معاه ايميل السفارة ؟,info@yemenembassy.my and consular@yemenembassy.my,"['embassy', 'email', 'Yemen']",2023-01-26
+Previous Exam Questions for Bridging Test,Academic,في احد عنده نماذج اسئله لاختبار البريدجنق,https://studentppi.utmspace.edu.my/?page_id=3345,"['bridging test', 'exam questions', 'UTM']",2023-01-26
+Transit Visa for Flights through Kuwait,Visa/Immigration,اللي سافر السعودية وكان معه ترانزيت في الكويت هل يطلبوا منك فيزا ولا لا؟,ماحتاج فيزا,"['transit', 'visa', 'Kuwait']",2023-01-27
+Transit Visa when Traveling through Sri Lanka,Visa/Immigration,هل يحتاج فيزه لو في حد سافر عبر سريلانكا ترانزيت ؟,تأخذ فيزه من مطار كولومبو ب ٣٠ دولار,"['Sri Lanka', 'transit visa']",2023-01-27
+Update Passport Information in University System,Academic,كيف اجدد معلومات جوازي بموقع الجامعه لانه محفوظ بجوازي القديم,انصحك تروح لل utmi الدور الثاني وتكلمهم بمشكلتك بيحلوها لك ان شاء الله,"['passport update', 'university']",2023-01-29
+Holding Luggage While Traveling,Visa/Immigration,إذا حد مسافر وين يحط أغراضه لما يرجع، هل في مكان في الجامعه,نعم فيه مكان ف kdoj تروح للافيس وتقولهم معاك اغراض,"['luggage', 'hotel', 'university']",2023-01-29
+Transit Visa Requirements for Singapore,Visa/Immigration,شباب احد سافر ترانزيت عبر سنغافوره هل يحتاج فيزة ترانزيت عبور ؟,No require visa if no proceeding with immigration clearance or collect luggage.,"['Singapore', 'transit visa']",2023-01-30
+Lost Matric Card Replacement,Student Life,وين المكتب أو المبنى الي اقدر اطلع منه ماترك كارد جديد لأنه حقي الاول ضاع؟,من مكتب وراء البندهاري,"['matric card', 'replacement', 'UTM']",2023-01-31
+Lost Matric Card Replacement,Student Life,وين المكتب أو المبنى الي اقدر اطلع منه ماترك كارد جديد لأنه حقي الاول ضاع؟,من مكتب وراء البندهاري,"['matric card', 'replacement', 'location']",2023-01-31
+Visa Requirement for Self Transfer,Visa/Immigration,اذا عملت self transfer من Kochi في الهند الى Dubai هل احتاج فيزة؟,اذا في تغيير خطوط يعني تحتاج تخرج من المطار وتستلم الشنط تبعك وترجع تسلمهم للخطوط الأخرى. بالتالي تحتاج فيزا ترانزيت.,"['self transfer', 'visa', 'Kochi', 'Dubai']",2023-01-31
+Transit Visa Application Process,Visa/Immigration,اذا ماعندك فيزا ترانزيت وباقي على رحلتك اكثر من ٥ ايام، اشي اقدر اسوي؟,تقدر تقدم عليها اونلاين من اقرب سفارة هندية في البلد الي انت فيه.,"['transit visa', 'application', 'online', 'India']",2023-01-31
+Contacting Indian Embassy for Transit Visa,Visa/Immigration,هل لازم اروح لكوالا لتقديم على الفيزا؟,اتصل على السفارة الهندية في كوالا واسالهم عن متطلبات فيزا ترانزيت.,"['Indian Embassy', 'transit visa', 'Kuala Lumpur']",2023-01-31
