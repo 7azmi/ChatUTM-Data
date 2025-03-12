@@ -122,5 +122,5 @@ def process_folder(folder_path):
 # Main execution
 if __name__ == "__main__":
     # Specify the path to the folder containing chat files
-    chat_folder = r"C:\Users\fares\ChatUTM-Data\utm_data\whatsapp_groups\iss-yemen\ysag\Chemical\2025"  # Replace with your folder path
+    chat_folder = r"C:\Users\fares\ChatUTM-Data\utm_data\whatsapp_groups\iss-yemen\ysag\Mechanical\2025"  # Replace with your folder path
     process_folder(chat_folder)
