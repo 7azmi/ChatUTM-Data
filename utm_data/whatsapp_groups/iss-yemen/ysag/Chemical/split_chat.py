@@ -25,6 +25,9 @@ def split_chat_by_month(input_file):
     except FileNotFoundError:
         print(f"Error: File '{input_file}' not found.")
         return
+    except PermissionError:
+        print(f"Error: Permission denied for '{input_file}'. Check file access.")
+        return
 
     current_date = None
     current_month = None
@@ -52,10 +55,12 @@ def split_chat_by_month(input_file):
         return
 
     total_lines = 0
+    base_dir = os.path.dirname(input_file)  # Ensure files are saved in "Chemical" folder
 
     for month, chats in monthly_chats.items():
         year, month_num = month.split('-')
-        output_dir = os.path.join(year)
+        output_dir = os.path.join(base_dir, year)  # Save inside the "Chemical" folder
+
         os.makedirs(output_dir, exist_ok=True)
 
         output_file = os.path.join(output_dir, f'{month_num}.txt')
@@ -68,5 +73,5 @@ def split_chat_by_month(input_file):
     print(f"Total lines across all files: {total_lines}")
 
 if __name__ == "__main__":
-    input_file = 'computing.txt'  # Replace with actual file name
+    input_file = r'C:\Users\fares\ChatUTM-Data\utm_data\whatsapp_groups\iss-yemen\ysag\Chemical\Chemical.txt'  # Use raw string
     split_chat_by_month(input_file)
