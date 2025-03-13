@@ -5,17 +5,17 @@ import os
 
 # Function to extract the date from a chat line
 def extract_date(line):
-    date_match = re.match(r'(\d{1,2}/\d{1,2}/\d{2}), (\d{1,2}:\d{2})\s*([APap][Mm])', line)
+    date_match = re.match(r'\[(\d{2})/(\d{2})/(\d{4}), (\d{1,2}):(\d{2}):(\d{2})\s*([APap][Mm])\]', line)
     if date_match:
-        date_str = date_match.group(1)
+        day, month, year = date_match.group(1), date_match.group(2), date_match.group(3)
         try:
-            return datetime.strptime(date_str, '%m/%d/%y')
+            return datetime.strptime(f"{day}/{month}/{year}", "%d/%m/%Y")
         except ValueError:
             print(f"Warning: Invalid date format in line: {line.strip()}")
     return None
 
-# Function to split the chat into monthly files
-def split_chat_by_month(input_file):
+# Function to split the chat into yearly folders and monthly files
+def split_chat_by_year_and_month(input_file):
     monthly_chats = defaultdict(list)
 
     try:
@@ -54,24 +54,24 @@ def split_chat_by_month(input_file):
         print("No valid chat lines with dates found.")
         return
 
-    total_lines = 0
-    base_dir = os.path.dirname(input_file)  # Ensure files are saved in "Chemical" folder
+    base_dir = os.path.dirname(input_file)  # Get the existing "Mechanical" folder
 
     for month, chats in monthly_chats.items():
         year, month_num = month.split('-')
-        output_dir = os.path.join(base_dir, year)  # Save inside the "Chemical" folder
+        year_folder = os.path.join(base_dir, year)  # Folder for each year
 
-        os.makedirs(output_dir, exist_ok=True)
+        os.makedirs(year_folder, exist_ok=True)  # Ensure the folder exists
 
-        output_file = os.path.join(output_dir, f'{month_num}.txt')
+        output_file = os.path.join(year_folder, f'{month_num}.txt')  # Month files (01.txt, 02.txt, etc.)
+
         with open(output_file, 'w', encoding='utf-8') as file:
             file.writelines(chats)
+
         print(f'Created file: {output_file}')
 
-        total_lines += len(chats)
-
-    print(f"Total lines across all files: {total_lines}")
+    print(f"Total years created: {len(set(m.split('-')[0] for m in monthly_chats))}")
+    print(f"Total files created: {len(monthly_chats)}")
 
 if __name__ == "__main__":
-    input_file = r'C:\Users\fares\ChatUTM-Data\utm_data\whatsapp_groups\iss-yemen\ysag\Chemical\Chemical.txt'  # Use raw string
-    split_chat_by_month(input_file)
+    input_file = r'C:\Users\fares\ChatUTM-Data\utm_data\whatsapp_groups\iss-yemen\ysag\Mechanical\FullChatYSAGMechanical.txt'  # Use raw string
+    split_chat_by_year_and_month(input_file)
