@@ -5,11 +5,14 @@ import os
 
 # Function to extract the date from a chat line
 def extract_date(line):
-    date_match = re.match(r'\[(\d{2})/(\d{2})/(\d{4}), (\d{1,2}):(\d{2}):(\d{2})\s*([APap][Mm])\]', line)
+    # Regex to match 'DD/MM/YYYY, hh:mm am/pm' at the start of the line
+    date_match = re.match(r'(\d{2}/\d{2}/\d{4}),\s*(\d{1,2}:\d{2})\s*([ap]m)', line, re.IGNORECASE)
     if date_match:
-        day, month, year = date_match.group(1), date_match.group(2), date_match.group(3)
+        date_part = date_match.group(1)  # e.g., "04/09/2021"
+        time_part = date_match.group(2)  # e.g., "10:03"
+        am_pm = date_match.group(3).upper()  # e.g., "PM"
         try:
-            return datetime.strptime(f"{year}-{month}-{day}", '%Y-%m-%d')
+            return datetime.strptime(f"{date_part} {time_part} {am_pm}", '%d/%m/%Y %I:%M %p')
         except ValueError:
             print(f"Warning: Invalid date format in line: {line.strip()}")
     return None
@@ -33,14 +36,15 @@ def split_chat_by_month(input_file):
     for line in lines:
         date = extract_date(line)
         if date:
+            # Save the previous chat block if it exists
             if buffer and current_month:
                 monthly_chats[current_month].extend(buffer)
                 buffer = []
-
             current_date = date
             current_month = current_date.strftime('%Y-%m')
             buffer.append(line)
         else:
+            # Continue appending lines to the current block
             if current_date:
                 buffer.append(line)
 
@@ -68,5 +72,5 @@ def split_chat_by_month(input_file):
     print(f"Total lines across all files: {total_lines}")
 
 if __name__ == "__main__":
-    input_file = 'issyemen.txt'  # Replace with actual file name
+    input_file = r'C:\Users\fares\ChatUTM-Data\utm_data\whatsapp_groups\iss-yemen\ysag\Electrical\FullElectricalYSAG'  # Replace with your actual file path if needed
     split_chat_by_month(input_file)
