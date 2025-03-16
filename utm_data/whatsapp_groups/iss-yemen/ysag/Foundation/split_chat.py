@@ -3,13 +3,15 @@ from datetime import datetime
 from collections import defaultdict
 import os
 
-# Function to extract the date from a chat line
+# Function to extract the date from a chat line using the new format: m/d/yy, h:mm [am/pm]
 def extract_date(line):
-    date_match = re.match(r'\[(\d{2})/(\d{2})/(\d{4}), (\d{1,2}):(\d{2}):(\d{2})\s*([APap][Mm])\]', line)
+    date_match = re.match(r'(\d{1,2})/(\d{1,2})/(\d{2}),\s*(\d{1,2}):(\d{2})\s*([APap][Mm])', line)
     if date_match:
-        day, month, year = date_match.group(1), date_match.group(2), date_match.group(3)
+        month, day, year = date_match.group(1), date_match.group(2), date_match.group(3)
+        hour, minute, ampm = date_match.group(4), date_match.group(5), date_match.group(6)
         try:
-            return datetime.strptime(f"{year}-{month}-{day}", '%Y-%m-%d')
+            # Create a datetime object using the extracted values
+            return datetime.strptime(f"{month}/{day}/{year} {hour}:{minute} {ampm}", "%m/%d/%y %I:%M %p")
         except ValueError:
             print(f"Warning: Invalid date format in line: {line.strip()}")
     return None
@@ -68,5 +70,5 @@ def split_chat_by_month(input_file):
     print(f"Total lines across all files: {total_lines}")
 
 if __name__ == "__main__":
-    input_file = 'issyemen.txt'  # Replace with actual file name
+    input_file = r'C:\Users\fares\ChatUTM-Data\utm_data\whatsapp_groups\iss-yemen\ysag\Foundation\FullChatFoundation.txt'  # Replace with your actual file path
     split_chat_by_month(input_file)
