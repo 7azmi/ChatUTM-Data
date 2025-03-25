@@ -68,5 +68,5 @@ def split_chat_by_month(input_file):
     print(f"Total lines across all files: {total_lines}")
 
 if __name__ == "__main__":
-    input_file = 'issyemen.txt'  # Replace with actual file name
+    input_file = '_chat.txt'  # Replace with actual file name
     split_chat_by_month(input_file)
