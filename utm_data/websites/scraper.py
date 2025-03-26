@@ -1,0 +1,21 @@
+import os
+
+from dotenv import load_dotenv
+from firecrawl import FirecrawlApp
+
+load_dotenv()
+
+API_KEY = os.getenv("FIRECRAWL_API_KEY")
+app = FirecrawlApp(api_key=API_KEY)
+
+# Scrape multiple websites:
+batch_scrape_result = app.batch_scrape_urls(['firecrawl.dev', 'mendable.ai'], {'formats': ['markdown', 'html']})
+print(batch_scrape_result)
+
+# Or, you can use the asynchronous method:
+batch_scrape_job = app.async_batch_scrape_urls(['firecrawl.dev', 'mendable.ai'], {'formats': ['markdown', 'html']})
+print(batch_scrape_job)
+
+# (async) You can then use the job ID to check the status of the batch scrape:
+batch_scrape_status = app.check_batch_scrape_status(batch_scrape_job['id'])
+print(batch_scrape_status)
