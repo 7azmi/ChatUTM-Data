@@ -1,5 +1,3 @@
-https://ac.utm.my/
-https://academicmanagement.utm.my/
 https://admission.utm.my/
 https://admission.utm.my/accommodation
 https://admission.utm.my/contact-us
@@ -264,6 +262,7 @@ https://envision2025.utm.my/
 https://epress.utm.my/
 https://eprints.utm.my/
 https://events.utm.my/
+
 https://fai.utm.my/
 https://fai.utm.my/bachelor-in-artificial-intelligence-with-honours
 https://fai.utm.my/bachelor-of-science-with-honours-industrial-design
