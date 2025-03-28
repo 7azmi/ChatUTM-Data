@@ -1,0 +1,19 @@
+{
+  "favicon": "https://kl.utm.my/wp-content/uploads/2020/08/cropped-UTMsiteicon-32x32.png",
+  "title": "Accommodation | UTM Kuala Lumpur",
+  "language": "en-US",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.6.2"
+  ],
+  "robots": "max-image-preview:large",
+  "msapplication-TileImage": [
+    "https://kl.utm.my/wp-content/uploads/2020/08/cropped-UTMsiteicon-270x270.png",
+    "https://kl.utm.my/wp-content/plugins/utm-wp-plugin/module/default/style/style_template/image/icon-utm-270x270.png?ver=6.5.9"
+  ],
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "scrapeId": "00a5dc9d-46fc-47f5-9595-e635d81695f5",
+  "sourceURL": "https://kl.utm.my/accommodation",
+  "url": "https://kl.utm.my/accommodation",
+  "statusCode": 200
+}

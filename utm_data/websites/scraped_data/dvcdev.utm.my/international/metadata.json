@@ -1,0 +1,17 @@
+{
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "language": "en-US",
+  "title": "404 Not Found | Department of Deputy Vice Chancellor (Development)",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "msapplication-TileImage": "https://dvcdev.utm.my/wp-content/uploads/2023/12/cropped-logo-utmB-270x270.png",
+  "favicon": "https://dvcdev.utm.my/wp-content/uploads/2023/12/cropped-logo-utmB-32x32.png",
+  "robots": "max-image-preview:large",
+  "scrapeId": "a21d97aa-0c08-47cd-acf8-299cf98a7c4e",
+  "sourceURL": "https://dvcdev.utm.my/international",
+  "url": "https://dvcdev.utm.my/international",
+  "statusCode": 404,
+  "error": "Not Found"
+}

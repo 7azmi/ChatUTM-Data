@@ -1,0 +1,11 @@
+{
+  "favicon": "https://radis.utm.my/Content/assets/media/logos/titleradis.png",
+  "description": "Login page example",
+  "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+  "language": "en",
+  "title": "RADIS",
+  "scrapeId": "d7decec7-cf71-4433-b3df-90caa2830aed",
+  "sourceURL": "https://radis.utm.my/",
+  "url": "https://radis.utm.my/",
+  "statusCode": 200
+}

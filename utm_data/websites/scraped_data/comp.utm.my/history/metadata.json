@@ -1,0 +1,20 @@
+{
+  "title": "History – Faculty of Computing",
+  "viewport": "width=device-width, initial-scale=1",
+  "robots": "max-image-preview:large",
+  "tec-api-version": "v1",
+  "msapplication-TileImage": "https://comp.utm.my/wp-content/uploads/2024/03/cropped-logo-1-270x270.png",
+  "favicon": "https://comp.utm.my/wp-content/uploads/2024/03/cropped-logo-1-32x32.png",
+  "language": "en-US",
+  "tec-api-origin": "https://comp.utm.my",
+  "google-site-verification": "ZhHSQf7AiJGZKOSoiMju-i7isKiVluaMqA_hEqw5rN4",
+  "generator": [
+    "WordPress 6.7.2",
+    "Site Kit by Google 1.148.0",
+    "Elementor 3.27.7; settings: css_print_method-external, google_font-enabled, font_display-swap"
+  ],
+  "scrapeId": "84d81f80-8279-4e92-b88b-efc758d17b7a",
+  "sourceURL": "https://comp.utm.my/history",
+  "url": "https://comp.utm.my/history",
+  "statusCode": 200
+}

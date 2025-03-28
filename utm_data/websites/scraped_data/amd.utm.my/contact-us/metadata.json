@@ -1,0 +1,16 @@
+{
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "msapplication-TileImage": "https://amd.utm.my/wp-content/uploads/sites/460/2020/08/cropped-UTMsiteicon-270x270.png",
+  "favicon": "https://amd.utm.my/wp-content/uploads/sites/460/2020/08/cropped-UTMsiteicon-32x32.png",
+  "language": "en-US",
+  "title": "CONTACT US | Academic Management Division (AMD)",
+  "robots": "max-image-preview:large",
+  "scrapeId": "beaed6c5-d171-4b70-ad88-8e50296e24c7",
+  "sourceURL": "https://amd.utm.my/contact-us",
+  "url": "https://amd.utm.my/contact-us",
+  "statusCode": 200
+}

@@ -1,0 +1,15 @@
+{
+  "generator": "WordPress 6.7.2",
+  "title": "Facilities – FACULTY  OF ARTIFICIAL INTELLIGENCE",
+  "tec-api-version": "v1",
+  "favicon": "https://fai.utm.my/wp-content/uploads/2024/01/cropped-logo-utm-icon-web-32x32.png",
+  "language": "en-US",
+  "viewport": "width=device-width, initial-scale=1",
+  "tec-api-origin": "https://fai.utm.my",
+  "robots": "max-image-preview:large",
+  "msapplication-TileImage": "https://fai.utm.my/wp-content/uploads/2024/01/cropped-logo-utm-icon-web-270x270.png",
+  "scrapeId": "dad99efa-d247-4a34-9df1-b015744c17e6",
+  "sourceURL": "https://fai.utm.my/facilities",
+  "url": "https://fai.utm.my/facilities",
+  "statusCode": 200
+}

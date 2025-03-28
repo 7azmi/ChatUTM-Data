@@ -1,0 +1,16 @@
+{
+  "favicon": "https://admission.utm.my/wp-content/uploads/sites/461/2020/08/cropped-UTMsiteicon-32x32.png",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "language": "en-US",
+  "title": "Postgraduate KIT | Admission to UTM",
+  "robots": "max-image-preview:large",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "msapplication-TileImage": "https://admission.utm.my/wp-content/uploads/sites/461/2020/08/cropped-UTMsiteicon-270x270.png",
+  "scrapeId": "47a5241b-64d6-458b-8d23-21ead31625a4",
+  "sourceURL": "https://admission.utm.my/postgraduate-kit",
+  "url": "https://admission.utm.my/postgraduate-kit",
+  "statusCode": 200
+}

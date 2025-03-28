@@ -1,0 +1,15 @@
+{
+  "tec-api-origin": "https://fai.utm.my",
+  "generator": "WordPress 6.7.2",
+  "title": "FAI Research Groups – FACULTY  OF ARTIFICIAL INTELLIGENCE",
+  "language": "en-US",
+  "favicon": "https://fai.utm.my/wp-content/uploads/2024/01/cropped-logo-utm-icon-web-32x32.png",
+  "viewport": "width=device-width, initial-scale=1",
+  "msapplication-TileImage": "https://fai.utm.my/wp-content/uploads/2024/01/cropped-logo-utm-icon-web-270x270.png",
+  "robots": "max-image-preview:large",
+  "tec-api-version": "v1",
+  "scrapeId": "1f7c98a7-ebe3-4456-8ac5-5b1719c054d9",
+  "sourceURL": "https://fai.utm.my/fai-research-groups",
+  "url": "https://fai.utm.my/fai-research-groups",
+  "statusCode": 200
+}

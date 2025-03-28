@@ -1,0 +1,16 @@
+{
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "msapplication-TileImage": "https://dvcdev.utm.my/wp-content/uploads/2023/12/cropped-logo-utmB-270x270.png",
+  "language": "en-US",
+  "title": "About | Department of Deputy Vice Chancellor (Development)",
+  "robots": "max-image-preview:large",
+  "favicon": "https://dvcdev.utm.my/wp-content/uploads/2023/12/cropped-logo-utmB-32x32.png",
+  "scrapeId": "4b922880-9720-4a29-ae99-8d7bcc38baae",
+  "sourceURL": "https://dvcdev.utm.my/about",
+  "url": "https://dvcdev.utm.my/about",
+  "statusCode": 200
+}

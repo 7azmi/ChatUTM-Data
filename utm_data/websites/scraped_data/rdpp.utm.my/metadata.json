@@ -1,0 +1,14 @@
+{
+  "description": "",
+  "title": "MyUTM Portal",
+  "author": "",
+  "csrf-token": "hX8OZZs3kCZOV4pAHQAGwhhHEu9QAk4EnE4IlVrw",
+  "node": "",
+  "language": "en",
+  "favicon": "https://rdpp.utm.my/v1/images/icons/favicon.png",
+  "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+  "scrapeId": "adabd42d-f826-4689-ba65-049791548453",
+  "sourceURL": "https://rdpp.utm.my/",
+  "url": "https://rdpp.utm.my/",
+  "statusCode": 200
+}

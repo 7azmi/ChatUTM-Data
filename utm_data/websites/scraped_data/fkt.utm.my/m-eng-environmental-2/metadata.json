@@ -1,0 +1,19 @@
+{
+  "tec-api-origin": "https://fkt.utm.my",
+  "favicon": "https://fkt.utm.my/wp-content/uploads/2019/12/cropped-UTM-Icon-32x32.png",
+  "tec-api-version": "v1",
+  "title": "M.Eng Environmental | Faculty of Chemical & Energy Engineering",
+  "language": "en-US",
+  "robots": "max-image-preview:large",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2",
+    "Elementor 3.28.1; features: additional_custom_breakpoints, e_local_google_fonts; settings: css_print_method-external, google_font-enabled, font_display-auto"
+  ],
+  "msapplication-TileImage": "https://fkt.utm.my/wp-content/uploads/2019/12/cropped-UTM-Icon-270x270.png",
+  "scrapeId": "5ad3d56d-d115-4b18-bd82-49b5d40d527c",
+  "sourceURL": "https://fkt.utm.my/m-eng-environmental-2",
+  "url": "https://fkt.utm.my/m-eng-environmental-2",
+  "statusCode": 200
+}

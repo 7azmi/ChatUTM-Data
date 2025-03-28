@@ -1,0 +1,19 @@
+{
+  "favicon": "https://fkt.utm.my/wp-content/uploads/2019/12/cropped-UTM-Icon-32x32.png",
+  "msapplication-TileImage": "https://fkt.utm.my/wp-content/uploads/2019/12/cropped-UTM-Icon-270x270.png",
+  "title": "Bachelor of Engineering (Petroleum) | Faculty of Chemical & Energy Engineering",
+  "robots": "max-image-preview:large",
+  "tec-api-version": "v1",
+  "tec-api-origin": "https://fkt.utm.my",
+  "language": "en-US",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2",
+    "Elementor 3.28.1; features: additional_custom_breakpoints, e_local_google_fonts; settings: css_print_method-external, google_font-enabled, font_display-auto"
+  ],
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "scrapeId": "47a8d717-8ad5-40fa-8c92-3680184a857e",
+  "sourceURL": "https://fkt.utm.my/bachelor-of-petroleum-eng",
+  "url": "https://fkt.utm.my/bachelor-of-petroleum-eng",
+  "statusCode": 200
+}

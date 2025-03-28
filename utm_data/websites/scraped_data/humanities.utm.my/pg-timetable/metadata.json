@@ -1,0 +1,17 @@
+{
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "msapplication-TileImage": "https://humanities.utm.my/wp-content/uploads/2021/01/cropped-UTMsiteicon-270x270.png",
+  "favicon": "https://humanities.utm.my/wp-content/uploads/2021/01/cropped-UTMsiteicon-32x32.png",
+  "language": "en-US",
+  "title": "PG Timetable | Faculty of Social Sciences and Humanities",
+  "robots": "max-image-preview:large",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2",
+    "Elementor 3.28.1; features: additional_custom_breakpoints, e_local_google_fonts; settings: css_print_method-external, google_font-enabled, font_display-swap"
+  ],
+  "scrapeId": "b754298d-c5af-40b5-babd-af4237081407",
+  "sourceURL": "https://humanities.utm.my/pg-timetable",
+  "url": "https://humanities.utm.my/pg-timetable",
+  "statusCode": 200
+}

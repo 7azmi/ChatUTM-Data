@@ -1,0 +1,20 @@
+{
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "title": "UTM Research & Innovation | Unveil Your Research",
+  "description": "",
+  "msapplication-TileImage": "https://research.utm.my/wp-content/uploads/2020/10/cropped-UTMsiteicon-270x270.png",
+  "ogImage": "https://brand.utm.my/wp-content/uploads/sites/21/2022/12/coverimage.jpg",
+  "language": "en-US",
+  "og:image": "https://brand.utm.my/wp-content/uploads/sites/21/2022/12/coverimage.jpg",
+  "keywords": "",
+  "robots": "max-image-preview:large",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "favicon": "https://research.utm.my/wp-content/uploads/2020/10/cropped-UTMsiteicon-32x32.png",
+  "scrapeId": "f6043ca4-2a8d-4d9f-a857-9bb5261dc56d",
+  "sourceURL": "https://research.utm.my/",
+  "url": "https://research.utm.my/",
+  "statusCode": 200
+}

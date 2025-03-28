@@ -1,0 +1,16 @@
+{
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "favicon": "https://library.utm.my/wp-content/uploads/2021/09/cropped-UTMsiteicon-32x32.png",
+  "language": "en-US",
+  "title": "Handbook | UTM Library",
+  "msapplication-TileImage": "https://library.utm.my/wp-content/uploads/2021/09/cropped-UTMsiteicon-270x270.png",
+  "robots": "max-image-preview:large",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "scrapeId": "da445f2b-1dff-46e6-8200-a58607055d84",
+  "sourceURL": "https://library.utm.my/handbook",
+  "url": "https://library.utm.my/handbook",
+  "statusCode": 200
+}

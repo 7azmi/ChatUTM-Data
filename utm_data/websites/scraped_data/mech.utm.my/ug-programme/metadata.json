@@ -1,0 +1,17 @@
+{
+  "language": "en-US",
+  "title": "Undergraduate Programme | Faculty of Mechanical Engineering",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "robots": "max-image-preview:large",
+  "msapplication-TileImage": "https://mech.utm.my/wp-content/uploads/2022/08/cropped-utm_logo-no-wording-270x270.png",
+  "favicon": "https://mech.utm.my/wp-content/uploads/2022/08/cropped-utm_logo-no-wording-32x32.png",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2",
+    "Elementor 3.28.0; features: e_font_icon_svg, additional_custom_breakpoints, e_local_google_fonts; settings: css_print_method-external, google_font-enabled, font_display-auto"
+  ],
+  "scrapeId": "90051b41-8c99-4810-929d-79d57dac5125",
+  "sourceURL": "https://mech.utm.my/ug-programme",
+  "url": "https://mech.utm.my/ug-programme",
+  "statusCode": 200
+}

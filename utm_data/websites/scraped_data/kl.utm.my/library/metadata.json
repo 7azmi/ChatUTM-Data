@@ -1,0 +1,16 @@
+{
+  "favicon": "https://library.utm.my/wp-content/uploads/2021/09/cropped-UTMsiteicon-32x32.png",
+  "msapplication-TileImage": "https://library.utm.my/wp-content/uploads/2021/09/cropped-UTMsiteicon-270x270.png",
+  "language": "en-US",
+  "title": "UTM Library | Information Excellence",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "robots": "max-image-preview:large",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "scrapeId": "92517e5b-0b36-4ef9-9286-3aae0afc1036",
+  "sourceURL": "https://kl.utm.my/library",
+  "url": "https://kl.utm.my/library",
+  "statusCode": 200
+}

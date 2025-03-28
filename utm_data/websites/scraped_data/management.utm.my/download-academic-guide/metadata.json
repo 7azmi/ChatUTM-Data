@@ -1,0 +1,17 @@
+{
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2",
+    "WordPress Download Manager 6.5.4"
+  ],
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "msapplication-TileImage": "https://management.utm.my/wp-content/uploads/2023/12/cropped-FM-UTM-270x270.png",
+  "title": "Download Academic Guide | Faculty of Management",
+  "language": "en-US",
+  "robots": "max-image-preview:large",
+  "favicon": "https://management.utm.my/wp-content/uploads/2023/12/cropped-FM-UTM-32x32.png",
+  "scrapeId": "05b27fcd-e006-4ae3-899b-f26a9c989628",
+  "sourceURL": "https://management.utm.my/download-academic-guide",
+  "url": "https://management.utm.my/download-academic-guide",
+  "statusCode": 200
+}

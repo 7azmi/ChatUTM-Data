@@ -1,0 +1,17 @@
+{
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2",
+    "Elementor 3.28.1; features: additional_custom_breakpoints, e_local_google_fonts; settings: css_print_method-external, google_font-enabled, font_display-swap"
+  ],
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "msapplication-TileImage": "https://humanities.utm.my/wp-content/uploads/2021/01/cropped-UTMsiteicon-270x270.png",
+  "title": "University General Courses | Faculty of Social Sciences and Humanities",
+  "robots": "max-image-preview:large",
+  "language": "en-US",
+  "favicon": "https://humanities.utm.my/wp-content/uploads/2021/01/cropped-UTMsiteicon-32x32.png",
+  "scrapeId": "2e5f7ba6-15cb-4047-a111-6bd264cf96e6",
+  "sourceURL": "https://humanities.utm.my/university-general-courses",
+  "url": "https://humanities.utm.my/university-general-courses",
+  "statusCode": 200
+}

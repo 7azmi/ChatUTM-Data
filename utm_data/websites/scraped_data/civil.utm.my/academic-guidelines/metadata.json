@@ -1,0 +1,16 @@
+{
+  "robots": "max-image-preview:large",
+  "favicon": "https://civil.utm.my/wp-content/uploads/2020/05/cropped-LOGO-UTM-32x32.png",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "msapplication-TileImage": "https://civil.utm.my/wp-content/uploads/2020/05/cropped-LOGO-UTM-270x270.png",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "title": "Academic Guidelines | Faculty of Civil Engineering",
+  "language": "en-US",
+  "scrapeId": "da152308-e437-41bd-af2d-940fc679f2c6",
+  "sourceURL": "https://civil.utm.my/academic-guidelines",
+  "url": "https://civil.utm.my/academic-guidelines",
+  "statusCode": 200
+}

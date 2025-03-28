@@ -1,0 +1,16 @@
+{
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "msapplication-TileImage": "https://odl.utm.my/wp-content/uploads/sites/190/2022/10/cropped-logo-utm-1-270x270.png",
+  "robots": "max-image-preview:large",
+  "language": "en-US",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "title": "Learning Platform | Open and Distance Learning (School of Graduate Studies)",
+  "favicon": "https://odl.utm.my/wp-content/uploads/sites/190/2022/10/cropped-logo-utm-1-32x32.png",
+  "scrapeId": "3f0e3983-a152-49d8-9f79-89dc04f26e8c",
+  "sourceURL": "https://odl.utm.my/learning-platform",
+  "url": "https://odl.utm.my/learning-platform",
+  "statusCode": 200
+}

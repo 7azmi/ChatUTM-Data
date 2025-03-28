@@ -1,0 +1,16 @@
+{
+  "language": "en-US",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "robots": "max-image-preview:large",
+  "favicon": "https://research.utm.my/amtec/wp-content/uploads/sites/25/2018/07/cropped-UTM-32x32.png",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "msapplication-TileImage": "https://research.utm.my/amtec/wp-content/uploads/sites/25/2018/07/cropped-UTM-270x270.png",
+  "title": "BACKGROUND | AMTEC",
+  "scrapeId": "0ea60e53-8d81-4a9b-876d-5f5e354cc880",
+  "sourceURL": "https://amtec.utm.my/background",
+  "url": "https://amtec.utm.my/background",
+  "statusCode": 200
+}

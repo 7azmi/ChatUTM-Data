@@ -1,0 +1,18 @@
+{
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "language": "en-US",
+  "robots": "max-image-preview:large",
+  "fb:app_id": "714794228905412",
+  "description": "Student Section Announcement",
+  "title": "JTNCHEPA | JTNCHEPA | DDVCSA",
+  "msapplication-TileImage": "https://studentaffairs.utm.my/wp-content/uploads/2019/05/cropped-HEP-270x270.png",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "favicon": "https://studentaffairs.utm.my/wp-content/uploads/2019/05/cropped-HEP-32x32.png",
+  "scrapeId": "baff4958-f7b4-4201-a096-f79dd5666023",
+  "sourceURL": "https://studentaffairs.utm.my/",
+  "url": "https://studentaffairs.utm.my/",
+  "statusCode": 200
+}

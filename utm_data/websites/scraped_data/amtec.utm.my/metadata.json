@@ -1,0 +1,16 @@
+{
+  "robots": "max-image-preview:large",
+  "title": "AMTEC | ADVANCED MEMBRANE TECHNOLOGY RESEARCH CENTRE",
+  "favicon": "https://research.utm.my/amtec/wp-content/uploads/sites/25/2018/07/cropped-UTM-32x32.png",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "msapplication-TileImage": "https://research.utm.my/amtec/wp-content/uploads/sites/25/2018/07/cropped-UTM-270x270.png",
+  "language": "en-US",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "scrapeId": "49a38338-64d1-464e-b139-142aea5d2b32",
+  "sourceURL": "https://amtec.utm.my/",
+  "url": "https://amtec.utm.my/",
+  "statusCode": 200
+}

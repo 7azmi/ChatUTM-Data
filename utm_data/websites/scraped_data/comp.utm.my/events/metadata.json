@@ -1,0 +1,20 @@
+{
+  "tec-api-version": "v1",
+  "robots": "max-image-preview:large",
+  "generator": [
+    "WordPress 6.7.2",
+    "Site Kit by Google 1.149.1",
+    "Elementor 3.28.1; features: e_local_google_fonts; settings: css_print_method-external, google_font-enabled, font_display-swap"
+  ],
+  "language": "en-US",
+  "google-site-verification": "ZhHSQf7AiJGZKOSoiMju-i7isKiVluaMqA_hEqw5rN4",
+  "favicon": "https://comp.utm.my/wp-content/uploads/2024/03/cropped-logo-1-32x32.png",
+  "viewport": "width=device-width, initial-scale=1",
+  "tec-api-origin": "https://comp.utm.my",
+  "msapplication-TileImage": "https://comp.utm.my/wp-content/uploads/2024/03/cropped-logo-1-270x270.png",
+  "title": "Events from January 11, 2024 – March 6, 2024 – Faculty of Computing",
+  "scrapeId": "0817b17e-c83c-4afd-948a-55439a91e994",
+  "sourceURL": "https://comp.utm.my/events",
+  "url": "https://comp.utm.my/events",
+  "statusCode": 200
+}

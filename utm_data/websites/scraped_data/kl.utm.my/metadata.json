@@ -1,0 +1,19 @@
+{
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.6.2"
+  ],
+  "language": "en-US",
+  "msapplication-TileImage": [
+    "https://kl.utm.my/wp-content/uploads/2020/08/cropped-UTMsiteicon-270x270.png",
+    "https://kl.utm.my/wp-content/plugins/utm-wp-plugin/module/default/style/style_template/image/icon-utm-270x270.png?ver=6.5.9"
+  ],
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "title": "UTM Kuala Lumpur | Innovating Solutions",
+  "favicon": "https://kl.utm.my/wp-content/uploads/2020/08/cropped-UTMsiteicon-32x32.png",
+  "robots": "max-image-preview:large",
+  "scrapeId": "f2225fbf-1227-4a97-ad15-cd69c0e4fbe5",
+  "sourceURL": "https://kl.utm.my/",
+  "url": "https://kl.utm.my/",
+  "statusCode": 200
+}

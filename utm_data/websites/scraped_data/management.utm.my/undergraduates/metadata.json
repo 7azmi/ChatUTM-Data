@@ -1,0 +1,17 @@
+{
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2",
+    "WordPress Download Manager 6.5.4"
+  ],
+  "favicon": "https://management.utm.my/wp-content/uploads/2023/12/cropped-FM-UTM-32x32.png",
+  "robots": "max-image-preview:large",
+  "language": "en-US",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "msapplication-TileImage": "https://management.utm.my/wp-content/uploads/2023/12/cropped-FM-UTM-270x270.png",
+  "title": "Undergraduate Programmes | Faculty of Management",
+  "scrapeId": "f8812855-1036-4682-b483-d379e75f13f1",
+  "sourceURL": "https://management.utm.my/undergraduates",
+  "url": "https://management.utm.my/undergraduates",
+  "statusCode": 200
+}

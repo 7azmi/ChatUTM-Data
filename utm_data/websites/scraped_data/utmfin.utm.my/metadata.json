@@ -1,0 +1,11 @@
+{
+  "language": "en",
+  "favicon": "https://utmfin.utm.my/favicon.ico",
+  "viewport": "width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no",
+  "title": "[1] UTMFIN",
+  "description": "Latest updates and statistic charts",
+  "scrapeId": "d43d536c-9a03-4374-9afc-6edcc236441a",
+  "sourceURL": "https://utmfin.utm.my/",
+  "url": "https://utmfin.utm.my/",
+  "statusCode": 200
+}

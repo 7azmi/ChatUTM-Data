@@ -1,0 +1,16 @@
+{
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.1"
+  ],
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "msapplication-TileImage": "https://ugs.utm.my/wp-content/uploads/sites/19/2024/08/Logo-UGS-bulat-300x300.png",
+  "favicon": "https://ugs.utm.my/wp-content/uploads/sites/19/2024/08/Logo-UGS-bulat-150x150.png",
+  "title": "Student Information Center | School of Undergraduate Studies",
+  "language": "en-US",
+  "robots": "max-image-preview:large",
+  "scrapeId": "c17fca4c-cffa-4a3f-ab22-40a44b850ab4",
+  "sourceURL": "https://ugs.utm.my/student-information-centre",
+  "url": "https://ugs.utm.my/student-information-centre",
+  "statusCode": 200
+}

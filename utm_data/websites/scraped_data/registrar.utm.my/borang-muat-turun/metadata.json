@@ -1,0 +1,16 @@
+{
+  "robots": "max-image-preview:large",
+  "favicon": "https://registrar.utm.my/wp-content/uploads/2020/08/cropped-UTMsiteicon-32x32.png",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "msapplication-TileImage": "https://registrar.utm.my/wp-content/uploads/2020/08/cropped-UTMsiteicon-270x270.png",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "title": "Borang Muat Turun | Jabatan Pendaftar",
+  "language": "en-US",
+  "scrapeId": "3ff6ab19-d4ba-490a-a3f1-019e870be559",
+  "sourceURL": "https://registrar.utm.my/borang-muat-turun",
+  "url": "https://registrar.utm.my/borang-muat-turun",
+  "statusCode": 200
+}

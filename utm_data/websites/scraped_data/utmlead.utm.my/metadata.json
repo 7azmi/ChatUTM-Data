@@ -1,0 +1,17 @@
+{
+  "keywords": "UTMCDex,UTM",
+  "language": "en-US",
+  "msapplication-TileImage": "https://utmcdex.utm.my/wp-content/uploads/2024/08/cropped-favi-270x270.png",
+  "favicon": "https://utmcdex.utm.my/wp-content/uploads/2024/08/cropped-favi-32x32.png",
+  "robots": "max-image-preview:large",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "title": "UTM CDex - Center for Advancement in Digital and Flexible Education",
+  "scrapeId": "eb2c34c7-e96c-421e-9d27-df2ab9f5b6d3",
+  "sourceURL": "https://utmlead.utm.my/",
+  "url": "https://utmlead.utm.my/",
+  "statusCode": 200
+}

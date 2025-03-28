@@ -1,0 +1,16 @@
+{
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "msapplication-TileImage": "https://dvcai.utm.my/wp-content/uploads/2024/02/cropped-LOGO-UTM-270x270.png",
+  "robots": "max-image-preview:large",
+  "favicon": "https://dvcai.utm.my/wp-content/uploads/2024/02/cropped-LOGO-UTM-32x32.png",
+  "title": "Peraturan – ODVCAI | Department of DVCAI",
+  "language": "en-US",
+  "scrapeId": "b33b1da6-3d48-4939-a63f-c36dafe07192",
+  "sourceURL": "https://dvcai.utm.my/Peraturan",
+  "url": "https://dvcai.utm.my/Peraturan",
+  "statusCode": 200
+}

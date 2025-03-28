@@ -1,0 +1,16 @@
+{
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "msapplication-TileImage": "https://dvcai.utm.my/wp-content/uploads/2024/02/cropped-LOGO-UTM-270x270.png",
+  "favicon": "https://dvcai.utm.my/wp-content/uploads/2024/02/cropped-LOGO-UTM-32x32.png",
+  "robots": "max-image-preview:large",
+  "title": "Polisi – ODVCAI | Department of DVCAI",
+  "language": "en-US",
+  "scrapeId": "8236e06b-8e2f-43ca-a680-df1be62c73fa",
+  "sourceURL": "https://dvcai.utm.my/Polisi",
+  "url": "https://dvcai.utm.my/Polisi",
+  "statusCode": 200
+}

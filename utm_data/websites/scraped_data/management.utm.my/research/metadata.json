@@ -1,0 +1,17 @@
+{
+  "robots": "max-image-preview:large",
+  "msapplication-TileImage": "https://management.utm.my/wp-content/uploads/2023/12/cropped-FM-UTM-270x270.png",
+  "language": "en-US",
+  "favicon": "https://management.utm.my/wp-content/uploads/2023/12/cropped-FM-UTM-32x32.png",
+  "title": "Research @ FM | Faculty of Management",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2",
+    "WordPress Download Manager 6.5.4"
+  ],
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "scrapeId": "645ae299-1b57-46e5-af6d-219910dc17b3",
+  "sourceURL": "https://management.utm.my/research",
+  "url": "https://management.utm.my/research",
+  "statusCode": 200
+}

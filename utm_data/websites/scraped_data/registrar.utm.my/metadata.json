@@ -1,0 +1,19 @@
+{
+  "favicon": "https://registrar.utm.my/wp-content/uploads/2020/08/cropped-UTMsiteicon-32x32.png",
+  "language": "en-US",
+  "msapplication-TileImage": "https://registrar.utm.my/wp-content/uploads/2020/08/cropped-UTMsiteicon-270x270.png",
+  "robots": "max-image-preview:large",
+  "title": "Jabatan Pendaftar | Laman web rasmi",
+  "viewport": [
+    "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+    "width=device-width, initial-scale=1.5"
+  ],
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "scrapeId": "6d09500d-d2db-4c22-a228-8aa2bdcd7e15",
+  "sourceURL": "https://registrar.utm.my/",
+  "url": "https://registrar.utm.my/",
+  "statusCode": 200
+}
