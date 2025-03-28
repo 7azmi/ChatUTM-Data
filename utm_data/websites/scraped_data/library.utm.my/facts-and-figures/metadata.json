@@ -1,0 +1,16 @@
+{
+  "favicon": "https://library.utm.my/wp-content/uploads/2021/09/cropped-UTMsiteicon-32x32.png",
+  "title": "Facts and Figures | UTM Library",
+  "language": "en-US",
+  "robots": "max-image-preview:large",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "msapplication-TileImage": "https://library.utm.my/wp-content/uploads/2021/09/cropped-UTMsiteicon-270x270.png",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "scrapeId": "e458baef-fa22-4a51-b232-46a4485d8c1d",
+  "sourceURL": "https://library.utm.my/facts-and-figures",
+  "url": "https://library.utm.my/facts-and-figures",
+  "statusCode": 200
+}

@@ -1,0 +1,17 @@
+{
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2",
+    "Elementor 3.28.1; features: additional_custom_breakpoints, e_local_google_fonts; settings: css_print_method-external, google_font-enabled, font_display-auto"
+  ],
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "language": "en-US",
+  "msapplication-TileImage": "https://fke.utm.my/wp-content/uploads/2020/10/cropped-UTMsiteicon-270x270.png",
+  "favicon": "https://fke.utm.my/wp-content/uploads/2020/10/cropped-UTMsiteicon-32x32.png",
+  "title": "Laboratory Visit to Institute of High Voltage and High Current | Faculty of Electrical Engineering UTM",
+  "robots": "max-image-preview:large",
+  "scrapeId": "2fb49bcf-d2eb-4732-a4b2-2b2334804332",
+  "sourceURL": "https://fke.utm.my/laboratory-visit-to-institute-of-high-voltage-and-high-current",
+  "url": "https://fke.utm.my/laboratory-visit-to-institute-of-high-voltage-and-high-current",
+  "statusCode": 200
+}

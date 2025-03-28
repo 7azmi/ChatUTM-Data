@@ -1,0 +1,16 @@
+{
+  "robots": "max-image-preview:large",
+  "msapplication-TileImage": "https://international.utm.my/wp-content/plugins/utm-wp-plugin/module/default/style/style_template/image/icon-utm-270x270.png?ver=7.1",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "favicon": "https://international.utm.my/wp-content/plugins/utm-wp-plugin/module/default/style/style_template/image/icon-utm-32x32.png?ver=7.1",
+  "title": "UTM International | Innovating Solutions",
+  "language": "en-US",
+  "scrapeId": "231bef16-fa01-49d6-bf2c-713fb417e22f",
+  "sourceURL": "https://www.utm.my/international",
+  "url": "https://www.utm.my/international",
+  "statusCode": 200
+}

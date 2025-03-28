@@ -1,0 +1,16 @@
+{
+  "language": "en-US",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "msapplication-TileImage": "https://research.utm.my/amtec/wp-content/uploads/sites/25/2018/07/cropped-UTM-270x270.png",
+  "title": "NEWS | AMTEC",
+  "favicon": "https://research.utm.my/amtec/wp-content/uploads/sites/25/2018/07/cropped-UTM-32x32.png",
+  "robots": "max-image-preview:large",
+  "scrapeId": "b6560339-0ff0-4614-afde-225b2e43be01",
+  "sourceURL": "https://amtec.utm.my/our-news",
+  "url": "https://amtec.utm.my/our-news",
+  "statusCode": 200
+}

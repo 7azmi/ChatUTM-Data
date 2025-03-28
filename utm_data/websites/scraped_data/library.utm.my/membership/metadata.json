@@ -1,0 +1,16 @@
+{
+  "favicon": "https://library.utm.my/wp-content/uploads/2021/09/cropped-UTMsiteicon-32x32.png",
+  "language": "en-US",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "robots": "max-image-preview:large",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "msapplication-TileImage": "https://library.utm.my/wp-content/uploads/2021/09/cropped-UTMsiteicon-270x270.png",
+  "title": "Membership | UTM Library",
+  "scrapeId": "aee73772-d5ed-4199-ab0e-ddafba6c4c4d",
+  "sourceURL": "https://library.utm.my/membership",
+  "url": "https://library.utm.my/membership",
+  "statusCode": 200
+}

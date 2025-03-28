@@ -1,0 +1,16 @@
+{
+  "title": "Location UTM | Department of Deputy Vice Chancellor (Development)",
+  "favicon": "https://dvcdev.utm.my/wp-content/uploads/2023/12/cropped-logo-utmB-32x32.png",
+  "language": "en-US",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "robots": "max-image-preview:large",
+  "msapplication-TileImage": "https://dvcdev.utm.my/wp-content/uploads/2023/12/cropped-logo-utmB-270x270.png",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "scrapeId": "4bda7326-1d6d-4b8b-861e-aad16fb225fe",
+  "sourceURL": "https://dvcdev.utm.my/location-utm",
+  "url": "https://dvcdev.utm.my/location-utm",
+  "statusCode": 200
+}

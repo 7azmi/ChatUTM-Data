@@ -1,0 +1,17 @@
+{
+  "robots": "max-image-preview:large",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "msapplication-TileImage": "https://digital.utm.my/wp-content/uploads/2021/03/cropped-UTM-LOGO-270x270.png",
+  "favicon": "https://digital.utm.my/wp-content/uploads/2021/03/cropped-UTM-LOGO-32x32.png",
+  "title": "About Us | UTMDigital",
+  "description": "Digital Care Block D07 Department of Digital Services Universiti Teknologi Malaysia 81310 UTM Johor Bahru Johor Darul Takzim, Malaysia Sun - Wed: 8.30am - 4 ...",
+  "language": "en-US",
+  "scrapeId": "44945d9d-6a62-4b3f-b391-f25557917f34",
+  "sourceURL": "https://digital.utm.my/about-us",
+  "url": "https://digital.utm.my/about-us",
+  "statusCode": 200
+}

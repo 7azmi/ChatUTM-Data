@@ -1,0 +1,19 @@
+{
+  "language": "en-US",
+  "favicon": "https://kl.utm.my/wp-content/uploads/2020/08/cropped-UTMsiteicon-32x32.png",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.6.2"
+  ],
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "title": "Services & Facilities | UTM Kuala Lumpur",
+  "robots": "max-image-preview:large",
+  "msapplication-TileImage": [
+    "https://kl.utm.my/wp-content/uploads/2020/08/cropped-UTMsiteicon-270x270.png",
+    "https://kl.utm.my/wp-content/plugins/utm-wp-plugin/module/default/style/style_template/image/icon-utm-270x270.png?ver=6.5.9"
+  ],
+  "scrapeId": "7171855e-2c6b-4373-9a43-8954fa9380bc",
+  "sourceURL": "https://kl.utm.my/services-facilities",
+  "url": "https://kl.utm.my/services-facilities",
+  "statusCode": 200
+}

@@ -1,0 +1,16 @@
+{
+  "msapplication-TileImage": "https://research.utm.my/fec/wp-content/uploads/sites/64/2020/12/cropped-Capture-270x270.jpg",
+  "favicon": "https://research.utm.my/fec/wp-content/uploads/sites/64/2020/12/cropped-Capture-32x32.jpg",
+  "robots": "max-image-preview:large",
+  "title": "Forensic Engineering Centre – Pusat Kejuruteraan Forensik UTM",
+  "language": "en-US",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "scrapeId": "2012a9b2-0eb3-4380-8388-176eb04f4271",
+  "sourceURL": "https://cfe.utm.my/",
+  "url": "https://cfe.utm.my/",
+  "statusCode": 200
+}

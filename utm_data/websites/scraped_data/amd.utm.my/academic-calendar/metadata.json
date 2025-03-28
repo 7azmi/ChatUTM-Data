@@ -1,0 +1,16 @@
+{
+  "favicon": "https://amd.utm.my/wp-content/uploads/sites/460/2020/08/cropped-UTMsiteicon-32x32.png",
+  "language": "en-US",
+  "msapplication-TileImage": "https://amd.utm.my/wp-content/uploads/sites/460/2020/08/cropped-UTMsiteicon-270x270.png",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "robots": "max-image-preview:large",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "title": "ACADEMIC CALENDAR | Academic Management Division (AMD)",
+  "scrapeId": "37be285c-98fa-4b27-880a-4623ba1e7271",
+  "sourceURL": "https://amd.utm.my/academic-calendar",
+  "url": "https://amd.utm.my/academic-calendar",
+  "statusCode": 200
+}

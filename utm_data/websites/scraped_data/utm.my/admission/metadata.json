@@ -1,0 +1,18 @@
+{
+  "robots": "max-image-preview:large",
+  "language": "en-US",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "msapplication-TileImage": "https://www.utm.my/wp-content/uploads/2020/08/cropped-UTMsiteicon-270x270.png",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.6.2"
+  ],
+  "fb:app_id": "714794228905412",
+  "favicon": "https://www.utm.my/wp-content/uploads/2020/08/cropped-UTMsiteicon-32x32.png",
+  "title": "Page not found | Official Web Portal of Universiti Teknologi Malaysia",
+  "scrapeId": "d27f78bf-e1f8-42c2-9533-4977b6d52372",
+  "sourceURL": "https://www.utm.my/admission",
+  "url": "https://www.utm.my/admission",
+  "statusCode": 404,
+  "error": "Not Found"
+}

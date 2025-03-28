@@ -1,0 +1,16 @@
+{
+  "msapplication-TileImage": "https://dvcdev.utm.my/alumni/wp-content/uploads/sites/25/2024/01/cropped-Logo-utm-bulat-270x270.png",
+  "language": "en-US",
+  "robots": "max-image-preview:large",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "title": "UTMAlumni | Network is Our Future",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "favicon": "https://dvcdev.utm.my/alumni/wp-content/uploads/sites/25/2024/01/cropped-Logo-utm-bulat-32x32.png",
+  "scrapeId": "6485ce29-9a97-4b74-bea2-efb05446dcc2",
+  "sourceURL": "https://www.utm.my/alumni",
+  "url": "https://www.utm.my/alumni",
+  "statusCode": 200
+}

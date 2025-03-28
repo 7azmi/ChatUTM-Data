@@ -1,0 +1,19 @@
+{
+  "tec-api-version": "v1",
+  "msapplication-TileImage": "https://fkt.utm.my/wp-content/uploads/2019/12/cropped-UTM-Icon-270x270.png",
+  "robots": "max-image-preview:large",
+  "language": "en-US",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2",
+    "Elementor 3.28.1; features: additional_custom_breakpoints, e_local_google_fonts; settings: css_print_method-external, google_font-enabled, font_display-auto"
+  ],
+  "tec-api-origin": "https://fkt.utm.my",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "favicon": "https://fkt.utm.my/wp-content/uploads/2019/12/cropped-UTM-Icon-32x32.png",
+  "title": "M.Eng / PhD Chemical Eng | Faculty of Chemical & Energy Engineering",
+  "scrapeId": "33d06418-c3ab-4e2b-9f4f-418eae27e1fb",
+  "sourceURL": "https://fkt.utm.my/m-eng-phd-gas-chemical-eng",
+  "url": "https://fkt.utm.my/m-eng-phd-gas-chemical-eng",
+  "statusCode": 200
+}

@@ -1,0 +1,16 @@
+{
+  "favicon": "https://library.utm.my/wp-content/uploads/2021/09/cropped-UTMsiteicon-32x32.png",
+  "title": "Library Resources for Open Distance Learners | UTM Library",
+  "language": "en-US",
+  "robots": "max-image-preview:large",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "msapplication-TileImage": "https://library.utm.my/wp-content/uploads/2021/09/cropped-UTMsiteicon-270x270.png",
+  "scrapeId": "ecb898c3-0c1a-44e4-b9c8-717b48d0e57d",
+  "sourceURL": "https://library.utm.my/library-guides-for-odl",
+  "url": "https://library.utm.my/library-guides-for-odl",
+  "statusCode": 200
+}

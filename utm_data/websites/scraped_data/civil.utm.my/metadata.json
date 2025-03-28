@@ -1,0 +1,16 @@
+{
+  "robots": "max-image-preview:large",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "language": "en-US",
+  "msapplication-TileImage": "https://civil.utm.my/wp-content/uploads/2020/05/cropped-LOGO-UTM-270x270.png",
+  "title": "Faculty of Civil Engineering | \"The Best Civil Engineering Program in Malaysia\"",
+  "favicon": "https://civil.utm.my/wp-content/uploads/2020/05/cropped-LOGO-UTM-32x32.png",
+  "scrapeId": "5c58f099-06dc-4b1e-8960-0f8d77834f55",
+  "sourceURL": "https://civil.utm.my/",
+  "url": "https://civil.utm.my/",
+  "statusCode": 200
+}

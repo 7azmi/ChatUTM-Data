@@ -1,0 +1,17 @@
+{
+  "robots": "max-image-preview:large",
+  "favicon": "https://business.utm.my/wp-content/uploads/2018/07/cropped-Site-icon-e1533022813143-32x32.png",
+  "msapplication-TileImage": "https://business.utm.my/wp-content/uploads/2018/07/cropped-Site-icon-e1533022813143-270x270.png",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2",
+    "WordPress Download Manager 3.3.11"
+  ],
+  "title": "AHIBS Research Unit | Azman Hashim International Business School",
+  "language": "en-US",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "scrapeId": "da429271-dc3c-437c-b38b-1f55b631a723",
+  "sourceURL": "https://business.utm.my/ahibsresearchunit",
+  "url": "https://business.utm.my/ahibsresearchunit",
+  "statusCode": 200
+}

@@ -1,0 +1,15 @@
+{
+  "tec-api-version": "v1",
+  "generator": "WordPress 6.7.2",
+  "favicon": "https://fai.utm.my/wp-content/uploads/2024/01/cropped-logo-utm-icon-web-32x32.png",
+  "msapplication-TileImage": "https://fai.utm.my/wp-content/uploads/2024/01/cropped-logo-utm-icon-web-270x270.png",
+  "title": "Master of Science (Systems Engineering) – FACULTY  OF ARTIFICIAL INTELLIGENCE",
+  "robots": "max-image-preview:large",
+  "viewport": "width=device-width, initial-scale=1",
+  "language": "en-US",
+  "tec-api-origin": "https://fai.utm.my",
+  "scrapeId": "b3f7a63a-cc99-427f-b202-454b27d2c97a",
+  "sourceURL": "https://fai.utm.my/master-of-science-systems-engineering",
+  "url": "https://fai.utm.my/master-of-science-systems-engineering",
+  "statusCode": 200
+}

@@ -1,0 +1,16 @@
+{
+  "msapplication-TileImage": "https://library.utm.my/wp-content/uploads/2021/09/cropped-UTMsiteicon-270x270.png",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "favicon": "https://library.utm.my/wp-content/uploads/2021/09/cropped-UTMsiteicon-32x32.png",
+  "robots": "max-image-preview:large",
+  "language": "en-US",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "title": "Services | UTM Library",
+  "scrapeId": "8a644c05-94cf-42d4-8dfe-1ca317de6483",
+  "sourceURL": "https://library.utm.my/services",
+  "url": "https://library.utm.my/services",
+  "statusCode": 200
+}

@@ -1,0 +1,20 @@
+{
+  "generator": [
+    "WordPress 6.7.2",
+    "Site Kit by Google 1.148.0",
+    "Elementor 3.27.7; settings: css_print_method-external, google_font-enabled, font_display-swap"
+  ],
+  "viewport": "width=device-width, initial-scale=1",
+  "msapplication-TileImage": "https://comp.utm.my/wp-content/uploads/2024/03/cropped-logo-1-270x270.png",
+  "robots": "max-image-preview:large",
+  "title": "Undergraduate – Faculty of Computing",
+  "tec-api-origin": "https://comp.utm.my",
+  "google-site-verification": "ZhHSQf7AiJGZKOSoiMju-i7isKiVluaMqA_hEqw5rN4",
+  "tec-api-version": "v1",
+  "favicon": "https://comp.utm.my/wp-content/uploads/2024/03/cropped-logo-1-32x32.png",
+  "language": "en-US",
+  "scrapeId": "fb901243-6274-4d75-948f-0a58e296b8af",
+  "sourceURL": "https://comp.utm.my/undergraduate",
+  "url": "https://comp.utm.my/undergraduate",
+  "statusCode": 200
+}

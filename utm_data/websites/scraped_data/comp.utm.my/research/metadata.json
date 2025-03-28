@@ -1,0 +1,16 @@
+{
+  "robots": "max-image-preview:large",
+  "generator": [
+    "Divi v.4.27.1",
+    "WordPress 6.7.2"
+  ],
+  "title": "Research Group | Faculty of Computing",
+  "language": "en-US",
+  "msapplication-TileImage": "https://comp.utm.my/research/wp-content/uploads/sites/2666/2024/08/cropped-utm-icon-270x270.png",
+  "favicon": "https://comp.utm.my/research/wp-content/uploads/sites/2666/2024/08/cropped-utm-icon-32x32.png",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "scrapeId": "846713a7-50f9-416d-a5f7-61c3d4aa390c",
+  "sourceURL": "https://comp.utm.my/research",
+  "url": "https://comp.utm.my/research",
+  "statusCode": 200
+}

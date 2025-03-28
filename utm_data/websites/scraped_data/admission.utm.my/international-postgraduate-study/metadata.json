@@ -1,0 +1,16 @@
+{
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "language": "en-US",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "msapplication-TileImage": "https://admission.utm.my/wp-content/uploads/sites/461/2020/08/cropped-UTMsiteicon-270x270.png",
+  "favicon": "https://admission.utm.my/wp-content/uploads/sites/461/2020/08/cropped-UTMsiteicon-32x32.png",
+  "title": "International Postgraduate Study | Admission to UTM",
+  "robots": "max-image-preview:large",
+  "scrapeId": "ca832206-1b8f-425f-b73c-8c2b3092c832",
+  "sourceURL": "https://admission.utm.my/international-postgraduate-study",
+  "url": "https://admission.utm.my/international-postgraduate-study",
+  "statusCode": 200
+}

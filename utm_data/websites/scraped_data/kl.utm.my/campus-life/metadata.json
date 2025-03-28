@@ -1,0 +1,19 @@
+{
+  "msapplication-TileImage": [
+    "https://kl.utm.my/wp-content/uploads/2020/08/cropped-UTMsiteicon-270x270.png",
+    "https://kl.utm.my/wp-content/plugins/utm-wp-plugin/module/default/style/style_template/image/icon-utm-270x270.png?ver=6.5.9"
+  ],
+  "title": "Campus Life | UTM Kuala Lumpur",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.6.2"
+  ],
+  "robots": "max-image-preview:large",
+  "language": "en-US",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "favicon": "https://kl.utm.my/wp-content/uploads/2020/08/cropped-UTMsiteicon-32x32.png",
+  "scrapeId": "e629dbde-1616-43d3-aa82-93a13054beb7",
+  "sourceURL": "https://kl.utm.my/campus-life",
+  "url": "https://kl.utm.my/campus-life",
+  "statusCode": 200
+}

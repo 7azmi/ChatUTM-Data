@@ -1,0 +1,16 @@
+{
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "favicon": "https://library.utm.my/wp-content/uploads/2021/09/cropped-UTMsiteicon-32x32.png",
+  "robots": "max-image-preview:large",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "msapplication-TileImage": "https://library.utm.my/wp-content/uploads/2021/09/cropped-UTMsiteicon-270x270.png",
+  "language": "en-US",
+  "title": "Borrowing, Returning, Reserving & Renewing | UTM Library",
+  "scrapeId": "533b050f-b6cb-4293-91b0-d9def642c314",
+  "sourceURL": "https://library.utm.my/borrowing-returning-reserving-renewing",
+  "url": "https://library.utm.my/borrowing-returning-reserving-renewing",
+  "statusCode": 200
+}

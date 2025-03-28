@@ -1,0 +1,12 @@
+{
+  "favicon": "https://library.utm.my/kohaimage/wp-content/uploads/sites/66/2021/01/favicon.png",
+  "language": "en",
+  "title": "JABATAN PERPUSTAKAAN UTM catalog",
+  "generator": "Koha",
+  "csrf-token": "91c6c05c86f02525ced5bb5bf508f1981fe1f715,34f4741580eda8721c22538957852247c2611399,1743192842",
+  "viewport": "width=device-width, initial-scale=1",
+  "scrapeId": "56a7de6a-f306-4dc0-9cab-9835c3dd1e52",
+  "sourceURL": "https://opac.utm.my/",
+  "url": "https://opac.utm.my/",
+  "statusCode": 200
+}

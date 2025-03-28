@@ -1,0 +1,16 @@
+{
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "favicon": "https://admission.utm.my/wp-content/uploads/sites/461/2020/08/cropped-UTMsiteicon-32x32.png",
+  "language": "en-US",
+  "robots": "max-image-preview:large",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "msapplication-TileImage": "https://admission.utm.my/wp-content/uploads/sites/461/2020/08/cropped-UTMsiteicon-270x270.png",
+  "title": "Programme Fees UG Malaysian | Admission to UTM",
+  "scrapeId": "a730c7a5-46a9-4296-ab2e-9deca5331a94",
+  "sourceURL": "https://admission.utm.my/programme-fees-ug-malaysian",
+  "url": "https://admission.utm.my/programme-fees-ug-malaysian",
+  "statusCode": 200
+}

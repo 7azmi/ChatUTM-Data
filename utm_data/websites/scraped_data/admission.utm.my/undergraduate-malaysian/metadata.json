@@ -1,0 +1,16 @@
+{
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "language": "en-US",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "msapplication-TileImage": "https://admission.utm.my/wp-content/uploads/sites/461/2020/08/cropped-UTMsiteicon-270x270.png",
+  "favicon": "https://admission.utm.my/wp-content/uploads/sites/461/2020/08/cropped-UTMsiteicon-32x32.png",
+  "title": "Undergraduate Malaysian | Admission to UTM",
+  "robots": "max-image-preview:large",
+  "scrapeId": "91000437-59ca-4473-a83c-acb35be6a35a",
+  "sourceURL": "https://admission.utm.my/undergraduate-malaysian",
+  "url": "https://admission.utm.my/undergraduate-malaysian",
+  "statusCode": 200
+}

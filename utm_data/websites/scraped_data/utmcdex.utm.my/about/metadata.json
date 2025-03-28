@@ -1,0 +1,16 @@
+{
+  "title": "About | UTM CDex",
+  "msapplication-TileImage": "https://utmcdex.utm.my/wp-content/uploads/2024/08/cropped-favi-270x270.png",
+  "favicon": "https://utmcdex.utm.my/wp-content/uploads/2024/08/cropped-favi-32x32.png",
+  "robots": "max-image-preview:large",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "language": "en-US",
+  "scrapeId": "5f120a99-3336-4a63-96c2-5e9772a17d33",
+  "sourceURL": "https://utmcdex.utm.my/about",
+  "url": "https://utmcdex.utm.my/about",
+  "statusCode": 200
+}

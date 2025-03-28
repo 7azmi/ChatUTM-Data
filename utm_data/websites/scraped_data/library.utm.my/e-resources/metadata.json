@@ -1,0 +1,16 @@
+{
+  "msapplication-TileImage": "https://library.utm.my/wp-content/uploads/2021/09/cropped-UTMsiteicon-270x270.png",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "language": "en-US",
+  "favicon": "https://library.utm.my/wp-content/uploads/2021/09/cropped-UTMsiteicon-32x32.png",
+  "robots": "max-image-preview:large",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "title": "E-Resources | UTM Library",
+  "scrapeId": "d7b2e00d-0f53-41f4-8c69-3a0530da8f5d",
+  "sourceURL": "https://library.utm.my/e-resources",
+  "url": "https://library.utm.my/e-resources",
+  "statusCode": 200
+}

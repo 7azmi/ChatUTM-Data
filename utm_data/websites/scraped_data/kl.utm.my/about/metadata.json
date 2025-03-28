@@ -1,0 +1,19 @@
+{
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.6.2"
+  ],
+  "msapplication-TileImage": [
+    "https://kl.utm.my/wp-content/uploads/2020/08/cropped-UTMsiteicon-270x270.png",
+    "https://kl.utm.my/wp-content/plugins/utm-wp-plugin/module/default/style/style_template/image/icon-utm-270x270.png?ver=6.5.9"
+  ],
+  "title": "About | UTM Kuala Lumpur",
+  "favicon": "https://kl.utm.my/wp-content/uploads/2020/08/cropped-UTMsiteicon-32x32.png",
+  "robots": "max-image-preview:large",
+  "language": "en-US",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "scrapeId": "c2d0bd4e-d3e9-45c0-8857-04bc3c63ff7f",
+  "sourceURL": "https://kl.utm.my/about",
+  "url": "https://kl.utm.my/about",
+  "statusCode": 200
+}

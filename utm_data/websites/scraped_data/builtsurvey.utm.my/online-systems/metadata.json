@@ -1,0 +1,16 @@
+{
+  "robots": "max-image-preview:large",
+  "generator": [
+    "Divi v.4.27.1",
+    "WordPress 6.5.5"
+  ],
+  "favicon": "https://builtsurvey.utm.my/wp-content/uploads/2015/12/cropped-Logo-UTM-1-32x32.png",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "language": "en-US",
+  "title": "Online Systems | Faculty of Built Environment and Surveying",
+  "msapplication-TileImage": "https://builtsurvey.utm.my/wp-content/uploads/2015/12/cropped-Logo-UTM-1-270x270.png",
+  "scrapeId": "0038f1b7-1baa-49ab-a1f0-d2257079fff3",
+  "sourceURL": "https://builtsurvey.utm.my/online-systems",
+  "url": "https://builtsurvey.utm.my/online-systems",
+  "statusCode": 200
+}

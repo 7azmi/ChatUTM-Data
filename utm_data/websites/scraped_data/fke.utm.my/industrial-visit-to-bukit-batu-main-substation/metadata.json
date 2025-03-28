@@ -1,0 +1,17 @@
+{
+  "robots": "max-image-preview:large",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "msapplication-TileImage": "https://fke.utm.my/wp-content/uploads/2020/10/cropped-UTMsiteicon-270x270.png",
+  "favicon": "https://fke.utm.my/wp-content/uploads/2020/10/cropped-UTMsiteicon-32x32.png",
+  "language": "en-US",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2",
+    "Elementor 3.28.1; features: additional_custom_breakpoints, e_local_google_fonts; settings: css_print_method-external, google_font-enabled, font_display-auto"
+  ],
+  "title": "Industrial Visit to Bukit Batu Main Substation | Faculty of Electrical Engineering UTM",
+  "scrapeId": "9b01cd62-178a-4442-bfe7-8ce455167118",
+  "sourceURL": "https://fke.utm.my/industrial-visit-to-bukit-batu-main-substation",
+  "url": "https://fke.utm.my/industrial-visit-to-bukit-batu-main-substation",
+  "statusCode": 200
+}

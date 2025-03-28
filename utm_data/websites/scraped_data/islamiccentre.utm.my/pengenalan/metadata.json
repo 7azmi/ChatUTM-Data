@@ -1,0 +1,17 @@
+{
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2",
+    "Elementor 3.28.1; features: additional_custom_breakpoints, e_local_google_fonts; settings: css_print_method-external, google_font-enabled, font_display-auto"
+  ],
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "robots": "max-image-preview:large",
+  "language": "en-US",
+  "msapplication-TileImage": "https://islamiccentre.utm.my/wp-content/uploads/sites/19/2024/07/cropped-LOGO-UTM-1-270x270.png",
+  "title": "PENGENALAN | UTM ISLAMIC CENTRE",
+  "favicon": "https://islamiccentre.utm.my/wp-content/uploads/sites/19/2024/07/cropped-LOGO-UTM-1-32x32.png",
+  "scrapeId": "0e585311-6ef4-4032-8e94-b118deee50f1",
+  "sourceURL": "https://islamiccentre.utm.my/pengenalan",
+  "url": "https://islamiccentre.utm.my/pengenalan",
+  "statusCode": 200
+}

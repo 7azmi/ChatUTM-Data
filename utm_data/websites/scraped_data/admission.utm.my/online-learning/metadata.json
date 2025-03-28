@@ -1,0 +1,16 @@
+{
+  "msapplication-TileImage": "https://admission.utm.my/wp-content/uploads/sites/461/2020/08/cropped-UTMsiteicon-270x270.png",
+  "favicon": "https://admission.utm.my/wp-content/uploads/sites/461/2020/08/cropped-UTMsiteicon-32x32.png",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "title": "Online Learning | Admission to UTM",
+  "robots": "max-image-preview:large",
+  "language": "en-US",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "scrapeId": "7b5a0356-0eca-47a3-bf44-23c3e28d67ae",
+  "sourceURL": "https://admission.utm.my/online-learning",
+  "url": "https://admission.utm.my/online-learning",
+  "statusCode": 200
+}

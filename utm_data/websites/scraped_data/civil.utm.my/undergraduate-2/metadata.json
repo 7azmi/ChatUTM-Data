@@ -1,0 +1,16 @@
+{
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "msapplication-TileImage": "https://civil.utm.my/wp-content/uploads/2020/05/cropped-LOGO-UTM-270x270.png",
+  "favicon": "https://civil.utm.my/wp-content/uploads/2020/05/cropped-LOGO-UTM-32x32.png",
+  "robots": "max-image-preview:large",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "language": "en-US",
+  "title": "Undergraduate | Faculty of Civil Engineering",
+  "scrapeId": "1634aa23-9076-4b3f-beb9-37258f32dd3f",
+  "sourceURL": "https://civil.utm.my/undergraduate-2",
+  "url": "https://civil.utm.my/undergraduate-2",
+  "statusCode": 200
+}

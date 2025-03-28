@@ -1,0 +1,19 @@
+{
+  "robots": "max-image-preview:large",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2",
+    "Elementor 3.28.1; features: additional_custom_breakpoints, e_local_google_fonts; settings: css_print_method-external, google_font-enabled, font_display-auto"
+  ],
+  "tec-api-origin": "https://fkt.utm.my",
+  "msapplication-TileImage": "https://fkt.utm.my/wp-content/uploads/2019/12/cropped-UTM-Icon-270x270.png",
+  "language": "en-US",
+  "title": "Welcome | Faculty of Chemical & Energy Engineering",
+  "favicon": "https://fkt.utm.my/wp-content/uploads/2019/12/cropped-UTM-Icon-32x32.png",
+  "tec-api-version": "v1",
+  "scrapeId": "e3816dea-eacb-432f-bbec-14e218d0f577",
+  "sourceURL": "https://fkt.utm.my/about-faculty",
+  "url": "https://fkt.utm.my/about-faculty",
+  "statusCode": 200
+}

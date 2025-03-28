@@ -1,0 +1,16 @@
+{
+  "robots": "max-image-preview:large",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "msapplication-TileImage": "https://dvcai.utm.my/wp-content/uploads/2024/02/cropped-LOGO-UTM-270x270.png",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "favicon": "https://dvcai.utm.my/wp-content/uploads/2024/02/cropped-LOGO-UTM-32x32.png",
+  "title": "Vision & Mission | Department of DVCAI",
+  "language": "en-US",
+  "scrapeId": "90daa2b0-4385-4b8b-82e4-a35d96c5fd2f",
+  "sourceURL": "https://dvcai.utm.my/vision-mission",
+  "url": "https://dvcai.utm.my/vision-mission",
+  "statusCode": 200
+}

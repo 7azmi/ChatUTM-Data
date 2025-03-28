@@ -1,0 +1,3590 @@
+Scraping Log
+============
+Loaded 705 URLs
+OVERWRITE_EXISTING set to False
+
+URL 1/705
+
+Processing: https://admission.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 2/705
+
+Processing: https://admission.utm.my/accommodation
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 3/705
+
+Processing: https://admission.utm.my/contact-us
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 4/705
+
+Processing: https://admission.utm.my/e-brochure
+✓ Successfully saved: https://admission.utm.my/e-brochure
+
+URL 5/705
+
+Processing: https://admission.utm.my/entry-requirements-ug-international
+✓ Successfully saved: https://admission.utm.my/entry-requirements-ug-international
+
+URL 6/705
+
+Processing: https://admission.utm.my/entry-requirements-ug-malaysian
+✓ Successfully saved: https://admission.utm.my/entry-requirements-ug-malaysian
+
+URL 7/705
+
+Processing: https://admission.utm.my/faqs-2
+✓ Successfully saved: https://admission.utm.my/faqs-2
+
+URL 8/705
+
+Processing: https://admission.utm.my/health-requirements
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 9/705
+
+Processing: https://admission.utm.my/how-to-apply-ug-malaysian
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 10/705
+
+Processing: https://admission.utm.my/international-postgraduate-study
+✓ Successfully saved: https://admission.utm.my/international-postgraduate-study
+
+URL 11/705
+
+Processing: https://admission.utm.my/malaysian-postgraduate-study
+✓ Successfully saved: https://admission.utm.my/malaysian-postgraduate-study
+
+URL 12/705
+
+Processing: https://admission.utm.my/online-learning
+✓ Successfully saved: https://admission.utm.my/online-learning
+
+URL 13/705
+
+Processing: https://admission.utm.my/postgraduate-kit
+✓ Successfully saved: https://admission.utm.my/postgraduate-kit
+
+URL 14/705
+
+Processing: https://admission.utm.my/programme-fees-ug-international
+✓ Successfully saved: https://admission.utm.my/programme-fees-ug-international
+
+URL 15/705
+
+Processing: https://admission.utm.my/programme-fees-ug-malaysian
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 16/705
+
+Processing: https://admission.utm.my/scholarship-and-financial-aid
+✓ Successfully saved: https://admission.utm.my/scholarship-and-financial-aid
+
+URL 17/705
+
+Processing: https://admission.utm.my/undergraduate-international
+✓ Successfully saved: https://admission.utm.my/undergraduate-international
+
+URL 18/705
+
+Processing: https://admission.utm.my/undergraduate-kit
+✓ Successfully saved: https://admission.utm.my/undergraduate-kit
+
+URL 19/705
+
+Processing: https://admission.utm.my/undergraduate-malaysian
+✓ Successfully saved: https://admission.utm.my/undergraduate-malaysian
+
+URL 20/705
+
+Processing: https://admission.utm.my/visa-and-international-student-registration
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 21/705
+
+Processing: https://amd.utm.my/
+✓ Successfully saved: https://amd.utm.my/
+
+URL 22/705
+
+Processing: https://amd.utm.my/academic-calendar
+✓ Successfully saved: https://amd.utm.my/academic-calendar
+
+URL 23/705
+
+Processing: https://amd.utm.my/certificate-collection
+✓ Successfully saved: https://amd.utm.my/certificate-collection
+
+URL 24/705
+
+Processing: https://amd.utm.my/contact-us
+✓ Successfully saved: https://amd.utm.my/contact-us
+
+URL 25/705
+
+Processing: https://amd.utm.my/convocation-attire
+✓ Successfully saved: https://amd.utm.my/convocation-attire
+
+URL 26/705
+
+Processing: https://amd.utm.my/course-registration-guidelines-3
+✓ Successfully saved: https://amd.utm.my/course-registration-guidelines-3
+
+URL 27/705
+
+Processing: https://amd.utm.my/examination-guidelines
+✓ Successfully saved: https://amd.utm.my/examination-guidelines
+
+URL 28/705
+
+Processing: https://amd.utm.my/graduate-verification
+✓ Successfully saved: https://amd.utm.my/graduate-verification
+
+URL 29/705
+
+Processing: https://amd.utm.my/transcript-application
+✓ Successfully saved: https://amd.utm.my/transcript-application
+
+URL 30/705
+
+Processing: https://amd.utm.my/verification-of-graduate-letter-application
+✓ Successfully saved: https://amd.utm.my/verification-of-graduate-letter-application
+
+URL 31/705
+
+Processing: https://amtec.utm.my/
+✓ Successfully saved: https://amtec.utm.my/
+
+URL 32/705
+
+Processing: https://amtec.utm.my/background
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 33/705
+
+Processing: https://amtec.utm.my/our-news
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 34/705
+
+Processing: https://apel.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 35/705
+
+Processing: https://brand.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 36/705
+
+Processing: https://brand.utm.my/i-am-utm
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 37/705
+
+Processing: https://brand.utm.my/toolkit
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 38/705
+
+Processing: https://brand.utm.my/use-of-logo
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 39/705
+
+Processing: https://builtsurvey.utm.my/ijbes-new-release-vol-11-no-1-2024
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 40/705
+
+Processing: https://builtsurvey.utm.my/impact-of-covid-19-on-tourism-management-in-realisation-of-geospatial-approach
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 41/705
+
+Processing: https://builtsurvey.utm.my/indonesia-malaysia-research-consortium-imrc-led-by-utm-um-to-enhance-research-innovations-for-societal-development-in-two-nations
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 42/705
+
+Processing: https://builtsurvey.utm.my/intellectual-property-talk-by-perbadanan-harta-intelek-malaysia
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 43/705
+
+Processing: https://builtsurvey.utm.my/international-architecture-webinars-between-utm-architecture-program-and-prominent-global-universities-2
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 44/705
+
+Processing: https://builtsurvey.utm.my/international-colloquium-on-cultural-heritage-and-challenge-of-sustainability-between-utm-architecture-program-malaysian-heritage-trust-department-of-national-heritage-unesco-icomos
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 45/705
+
+Processing: https://builtsurvey.utm.my/international-design-colloquium-between-universitas-tanjung-pura-and-utm-architecture-program
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 46/705
+
+Processing: https://builtsurvey.utm.my/international-design-colloquium-series-2-between-architecture-schools-from-universitas-tanjungpura-and-universiti-teknologi-malaysia
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 47/705
+
+Processing: https://builtsurvey.utm.my/international-joint-phd-colloquium-between-architecture-schools-from-de-montfort-university-and-universiti-teknologi-malaysia
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 48/705
+
+Processing: https://builtsurvey.utm.my/international-program-for-upskilling-professional-graduates-organized-by-utm-architecture-program
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 49/705
+
+Processing: https://builtsurvey.utm.my/jpbw-monthly-seminar-a-cutting-edge-of-development-thinking-by-adjunct-professor-datuk-ismail-ibrahim
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 50/705
+
+Processing: https://builtsurvey.utm.my/kerjasama-fabu-dan-jupem
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 51/705
+
+Processing: https://builtsurvey.utm.my/kerjasama-fabu-utm-dan-mbjb
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 52/705
+
+Processing: https://builtsurvey.utm.my/kesohoran-ahli-akademik-utm-terus-diiktiraf-melalui-anugerah-akademik-negara-ke-15
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 53/705
+
+Processing: https://builtsurvey.utm.my/landscape-architecture-students-explore-the-bangkok-city-dynamic-workshop-2024
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 54/705
+
+Processing: https://builtsurvey.utm.my/lawatan-akreditasi-sarjana-muda-ukur-bahan-di-fabu
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 55/705
+
+Processing: https://builtsurvey.utm.my/lawatan-dari-universitas-pembangunan-panca-budi-medan-indonesia
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 56/705
+
+Processing: https://builtsurvey.utm.my/lawatan-dari-universiti-bung-hatta
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 57/705
+
+Processing: https://builtsurvey.utm.my/lawatan-delegasi-universitas-subang-bandung-indonesia
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 58/705
+
+Processing: https://builtsurvey.utm.my/lawatan-mahasiswa-universitas-bung-hatta-perkukuh-hubungan-dengan-utm
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 59/705
+
+Processing: https://builtsurvey.utm.my/lawatan-mobiliti-pelajar-universitas-bung-hatta-ke-fabu
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 60/705
+
+Processing: https://builtsurvey.utm.my/lawatan-pelajar-dari-shenzhen-polytechnic-dan-utem
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 61/705
+
+Processing: https://builtsurvey.utm.my/lawatan-pelajar-fabu-di-pusat-hidrografi-nasional
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 62/705
+
+Processing: https://builtsurvey.utm.my/mahasiswa-fabu-jayakan-global-learning-expedition-ke-indonesia
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 63/705
+
+Processing: https://builtsurvey.utm.my/mahasiswa-utm-bolot-kemenangan-pertandingan-pelan-konsep-placemaking-spaces
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 64/705
+
+Processing: https://builtsurvey.utm.my/majlis-amanat-dekan-fakulti-alam-bina-dan-ukur
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 65/705
+
+Processing: https://builtsurvey.utm.my/majlis-anugerah-kecemerlangan-akademik-fabu-konvokesyen-ke-63-utm
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 66/705
+
+Processing: https://builtsurvey.utm.my/majlis-menandatangani-mou-damansara-assets-sdn-bhd-utm
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 67/705
+
+Processing: https://builtsurvey.utm.my/majlis-pelancaran-pembinaan-projek-rintis-ruang-kejiranan-program-rejuvenasi-pangsapuri-560-bandar-bukit-puchong
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 68/705
+
+Processing: https://builtsurvey.utm.my/majlis-pelancaran-program-bangsa-johor-bahagia
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 69/705
+
+Processing: https://builtsurvey.utm.my/majlis-perasmian-apps-geopusara-penyerahan-tanda-arah-kiblat
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 70/705
+
+Processing: https://builtsurvey.utm.my/majlis-perasmian-galeri-kalam-oleh-dekan-fakulti-alam-bina-dan-ukur
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 71/705
+
+Processing: https://builtsurvey.utm.my/majlis-perasmian-kumpulan-penyelidikan-rg-baharu-yang-dikenali-sebagai-urban-design-and-environmental-ude
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 72/705
+
+Processing: https://builtsurvey.utm.my/memorandum-persefahaman-mou-utm-bersama-jabatan-tanah-dan-survei-negeri-sarawak-jts
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 73/705
+
+Processing: https://builtsurvey.utm.my/mesyuarat-dua-hala-bagi-hubungan-kerjasama-di-antara-pdrm-dan-fabu-dalam-aplikasi-teknologi-geospatial-dalam-bidang-forensik
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 74/705
+
+Processing: https://builtsurvey.utm.my/mitochondrias-remarkable-victory-utm-and-temasek-polytechnic-architecture-school-collaborate-for-success
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 75/705
+
+Processing: https://builtsurvey.utm.my/new-student-kit
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 76/705
+
+Processing: https://builtsurvey.utm.my/online-systems
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 77/705
+
+Processing: https://builtsurvey.utm.my/pakar-fabu-utm-terbitkan-terjemahan-bahasa-melayu-bagi-istilah-geospatial-dalam-piawaian-antarabangsa-iso-tc211
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 78/705
+
+Processing: https://builtsurvey.utm.my/pelajar-fabu-timba-ilmu-teknologi-dan-kepakaran-aplikasi-gis-dari-ranhill-saj
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 79/705
+
+Processing: https://builtsurvey.utm.my/pelajar-geoinformasi-dari-fabu-sertai-global-outreach-program-gop-ke-tokyo-jepun
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 80/705
+
+Processing: https://builtsurvey.utm.my/pelajar-ukur-bahan-fabu-laksanakan-projek-transformasi-bilik-darjah-pendidikan-abad-ke-21-di-pulau-tanjung-surat-kota-tinggi
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 81/705
+
+Processing: https://builtsurvey.utm.my/pelajar-utm-kongsi-ilmu-astronomi-bersama-masyarakat-secara-maya
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 82/705
+
+Processing: https://builtsurvey.utm.my/pensyarah-utm-terpilih-hadiri-majlis-ulang-tahun-aeon-group-ke-30-di-tokyo
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 83/705
+
+Processing: https://builtsurvey.utm.my/perkongsian-berkenaan-transformasi-gis-untuk-utiliti-air-dalam-ranhill-saj-kepada-pelajar-fabu
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 84/705
+
+Processing: https://builtsurvey.utm.my/perkongsian-pensyarah-fabu-bersama-institut-teknologi-sepuluh-nopember-berkaitan-kemampanan
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 85/705
+
+Processing: https://builtsurvey.utm.my/phd-candidate-won-best-paper-award-in-canada
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 86/705
+
+Processing: https://builtsurvey.utm.my/planning-students-waterfront
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 87/705
+
+Processing: https://builtsurvey.utm.my/planting-tagging-and-monitoring-of-trees-as-a-way-to-mitigate-climate-change
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 88/705
+
+Processing: https://builtsurvey.utm.my/postgraduate-resources
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 89/705
+
+Processing: https://builtsurvey.utm.my/ppck-salur-geran-rm50-ribu-kepada-utm
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 90/705
+
+Processing: https://builtsurvey.utm.my/prof-ismail-said-presented-a-paper-at-first-international-conference-islamic-and-sustainable-innovation-of-urban-and-regional-planning-icoisi
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 91/705
+
+Processing: https://builtsurvey.utm.my/professional-talk-series-landscape-architecture-department
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 92/705
+
+Processing: https://builtsurvey.utm.my/professional-talk-series-landscape-architecture-department-2
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 93/705
+
+Processing: https://builtsurvey.utm.my/professor-dr-mohd-hamdan-ahmad-as-a-speaker-at-green-talk-with-construction
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 94/705
+
+Processing: https://builtsurvey.utm.my/program-anak-angkat-isi-fabu-utm-berjaya-mencetus-komuniti-berdaya
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 95/705
+
+Processing: https://builtsurvey.utm.my/program-environmental-study-pelajar-tahun-2-sghp-ke-taman-negara-kukup-johor
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 96/705
+
+Processing: https://builtsurvey.utm.my/program-kembara-warisan-alam-bina-pantai-timur-anjuran-akrab-fabu
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 97/705
+
+Processing: https://builtsurvey.utm.my/program-khidmat-komuniti-pembelajaran-aktif-kahoot-bersama-cikgu-tingkatan-6-smk-taman-johor-jaya
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 98/705
+
+Processing: https://builtsurvey.utm.my/program-khidmat-sosial-tingkatan-6
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 99/705
+
+Processing: https://builtsurvey.utm.my/program-kunjungan-balas-fabu-ke-makmal-forensik-pdrm-sebagai-tanda-persetujuan-untuk-penubuhan-makmal-satelit-utm-fabu-forensik-pdrm
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 100/705
+
+Processing: https://builtsurvey.utm.my/program-libatsama-komuniti-di-peringkat-antarabangsa
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 101/705
+
+Processing: https://builtsurvey.utm.my/program-libatsama-komuniti-pensyarah-dan-pelajar-fabu-di-sm-pendidikan-khas-vokasional-indahpura-kulai
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 102/705
+
+Processing: https://builtsurvey.utm.my/program-mahasiswa-turun-desa-kampung-beng-lenggong-perak
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 103/705
+
+Processing: https://builtsurvey.utm.my/program-mobiliti-pelajar-universitas-bung-hatta-ke-jabatan-harta-tanah-fabu
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 104/705
+
+Processing: https://builtsurvey.utm.my/program-penyampaian-sijil-akreditasi-jabatan-perancang-bandar-dan-wilayah
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 105/705
+
+Processing: https://builtsurvey.utm.my/program-perkongsian-ilmu-asas-ukur-kadaster-untuk-pembantu-juru-ukur-program-khidmat-masyarakat
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 106/705
+
+Processing: https://builtsurvey.utm.my/program-rejuvinasi-usahasama-isi-utm-dan-mpsj-berjaya-memberdayakan-komuniti-bukit-puchong
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 107/705
+
+Processing: https://builtsurvey.utm.my/program-senibina-telah-mengadakan-sesi-dialog-bersama-panel-industri-penasihat-terkemuka
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 108/705
+
+Processing: https://builtsurvey.utm.my/program-sustainable-environmental-assembly-sutera
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 109/705
+
+Processing: https://builtsurvey.utm.my/projek-inovasi-kreatif-icc
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 110/705
+
+Processing: https://builtsurvey.utm.my/projek-transformasi-bilik-darjah-kelas-abad-ke-21
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 111/705
+
+Processing: https://builtsurvey.utm.my/projek-utm-tiup-perubahan-komuniti-bandar-bukit-puchong
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 112/705
+
+Processing: https://builtsurvey.utm.my/public-lecture
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 113/705
+
+Processing: https://builtsurvey.utm.my/quantity-surveying-computer-lab-officially-launched-by-ybhg-dato-sr-abdul-aziz-abdullah-president-of-board-of-quantity-surveyors-malaysia-bqsm
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 114/705
+
+Processing: https://builtsurvey.utm.my/re-students-interview-session-with-industry-professionals-2024
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 115/705
+
+Processing: https://builtsurvey.utm.my/research
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 116/705
+
+Processing: https://builtsurvey.utm.my/research-topics-greenovation
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 117/705
+
+Processing: https://builtsurvey.utm.my/roadtour-soaring-high-glittering-venues-by-ar-khairil-anwar-halim-and-sr-mohd-asri-abdul-ghani
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 118/705
+
+Processing: https://builtsurvey.utm.my/rural-rejuvenation-plan-to-balance-development
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 119/705
+
+Processing: https://builtsurvey.utm.my/sembang-santai-tanah-eratkan-hubungan-utm-bersama-komuniti-kg-sungai-melayu
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 120/705
+
+Processing: https://builtsurvey.utm.my/sesi-dialog-bersama-profesor-emeritus-adjung-fabu
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 121/705
+
+Processing: https://builtsurvey.utm.my/sesi-meet-greet-delegasi-fabu-utm-education-malaysia-australia
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 122/705
+
+Processing: https://builtsurvey.utm.my/sinergi-kukuh-industri-dan-akademik-pacu-kejayaan-dr-noraslinda
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 123/705
+
+Processing: https://builtsurvey.utm.my/sumbangan-lembaga-jurukur-tanah-kepada-pelajar-geoinformasi-semasa-pkp
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 124/705
+
+Processing: https://builtsurvey.utm.my/sustep
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 125/705
+
+Processing: https://builtsurvey.utm.my/syarahan-umum-fabu-bersama-industri
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 126/705
+
+Processing: https://builtsurvey.utm.my/synergizing-geomatics-engineering-for-sustainable-hydrospatial-development
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 127/705
+
+Processing: https://builtsurvey.utm.my/taklimat-bagi-program-publisiti-dan-penyertaan-awam-deraf-rancangan-tempatan-daerah-johor-bahru-dan-kulai-2025-penggantian
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 128/705
+
+Processing: https://builtsurvey.utm.my/theraplay-3-0-fostering-inclusive-therapeutic-landscapes-for-the-special-abilities-community
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 129/705
+
+Processing: https://builtsurvey.utm.my/three-from-the-department-of-quantity-surveying-utm-provide-input-to-future-bim-compliance-standard-method-of-measurements-smm-for-building-works
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 130/705
+
+Processing: https://builtsurvey.utm.my/transformasi-ilmu-falak-kontemporari-menerusi-penerokaan-sains-dan-pembelajaran-servis
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 131/705
+
+Processing: https://builtsurvey.utm.my/utm-and-gamuda-land-establish-strategic-partnership-with-mou-signing-ceremony-on-world-wetlands-day
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 132/705
+
+Processing: https://builtsurvey.utm.my/utm-architecture-students-win-architalent-design-competition
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 133/705
+
+Processing: https://builtsurvey.utm.my/utm-bangunkan-kampung-budaya-lestari-di-kemboja
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 134/705
+
+Processing: https://builtsurvey.utm.my/utm-bantu-ppck-perkenal-budaya
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 135/705
+
+Processing: https://builtsurvey.utm.my/utm-fabu-bridges-academia-and-industry-at-successful-engagement-session-2024
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 136/705
+
+Processing: https://builtsurvey.utm.my/utm-fabu-rism-career-talk-2024-for-young-surveyors
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 137/705
+
+Processing: https://builtsurvey.utm.my/utm-fabu-rism-professional-career-talk-for-future-surveyors-2
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 138/705
+
+Processing: https://builtsurvey.utm.my/utm-landscape-architecture-partners-with-universitas-muhammadiyah-surakarta-insights-into-solos-street-placemaking-and-urban-vitality
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 139/705
+
+Processing: https://builtsurvey.utm.my/utm-lcarc-jpbw-and-isi-exhibit-and-promote-malaysias-science-to-action-s2a-approach-to-low-carbon-sustainable-communities-at-wuf9
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 140/705
+
+Processing: https://builtsurvey.utm.my/utm-mobility-program
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 141/705
+
+Processing: https://builtsurvey.utm.my/utm-online-global-classroom-on-environmental-planning-and-conservation
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 142/705
+
+Processing: https://builtsurvey.utm.my/utm-participated-in-4th-fig-young-surveyors-asia-pacific-meeting
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 143/705
+
+Processing: https://builtsurvey.utm.my/utm-postgraduate-info-day
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 144/705
+
+Processing: https://builtsurvey.utm.my/utm-real-estate-strengthened-collaboration-with-property-industry
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 145/705
+
+Processing: https://builtsurvey.utm.my/utm-researchers-win-multiple-awards-in-korea
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 146/705
+
+Processing: https://builtsurvey.utm.my/utm-summer-school-the-12th-joint-workshop-on-urban-design-and-conservation
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 147/705
+
+Processing: https://builtsurvey.utm.my/utm-tku-uorm-first-collaborative-webinar-series-on-delay-disruption-protocol-in-building-industry
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 148/705
+
+Processing: https://builtsurvey.utm.my/utm-to-collaborate-with-wni-on-research-and-training-about-weather-related-disaster
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 149/705
+
+Processing: https://builtsurvey.utm.my/utm-town-planning-expert-environmentally-sustainable-cities-get-the-basics-right
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 150/705
+
+Processing: https://builtsurvey.utm.my/utm-uib-mou
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 151/705
+
+Processing: https://builtsurvey.utm.my/utm-universiti-pertama-negara-ada-telaga-air-akuifer
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 152/705
+
+Processing: https://builtsurvey.utm.my/utm-unpad-postgraduate-joint-symposium
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 153/705
+
+Processing: https://builtsurvey.utm.my/utms-scholarly-prowess-champions-ipohs-journey-to-unesco-city-of-music-accolade
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 154/705
+
+Processing: https://builtsurvey.utm.my/webinar-on-culture-society-identity-between-sasi-creative-school-of-architecture-india-utm-architecture-program-universitas-tanjungpura-indonesia
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 155/705
+
+Processing: https://builtsurvey.utm.my/webinar-technology-update-geospatial-in-pandemic-era
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 156/705
+
+Processing: https://builtsurvey.utm.my/womens-role-in-development-of-sustainable-cities-highlighted-in-new-exhibit
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 157/705
+
+Processing: https://builtsurvey.utm.my/workshop-on-3d-laser-scanning
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 158/705
+
+Processing: https://bursary.utm.my/soalan-lazim-faq
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 159/705
+
+Processing: https://business.utm.my/academics
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 160/705
+
+Processing: https://business.utm.my/actconference2024
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 161/705
+
+Processing: https://business.utm.my/ahibs-postgraduate
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 162/705
+
+Processing: https://business.utm.my/ahibsresearchunit
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 163/705
+
+Processing: https://business.utm.my/alumni
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 164/705
+
+Processing: https://business.utm.my/class-schedule
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 165/705
+
+Processing: https://business.utm.my/current-student
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 166/705
+
+Processing: https://business.utm.my/dba
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 167/705
+
+Processing: https://business.utm.my/download-academic-guide
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 168/705
+
+Processing: https://business.utm.my/download-for-staff
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 169/705
+
+Processing: https://business.utm.my/download-postgraduate-studies
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 170/705
+
+Processing: https://business.utm.my/executive-education
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 171/705
+
+Processing: https://business.utm.my/human-resource-management
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 172/705
+
+Processing: https://business.utm.my/ibsrg
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 173/705
+
+Processing: https://business.utm.my/ijibs
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 174/705
+
+Processing: https://business.utm.my/life-ahibs
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 175/705
+
+Processing: https://business.utm.my/mba-current
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 176/705
+
+Processing: https://business.utm.my/mba-latest
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 177/705
+
+Processing: https://business.utm.my/phd
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 178/705
+
+Processing: https://business.utm.my/programs
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 179/705
+
+Processing: https://business.utm.my/research
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 180/705
+
+Processing: https://business.utm.my/research-2
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 181/705
+
+Processing: https://cairo.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 182/705
+
+Processing: https://cairo.utm.my/1about-us-2
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 183/705
+
+Processing: https://cairo.utm.my/1postgraduate-studies-2
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 184/705
+
+Processing: https://ccin.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 185/705
+
+Processing: https://cfe.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 186/705
+
+Processing: https://chancellery.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 187/705
+
+Processing: https://chancellery.utm.my/client-charter
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 188/705
+
+Processing: https://chancellery.utm.my/code-of-practice
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 189/705
+
+Processing: https://cict.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 190/705
+
+Processing: https://civil.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 191/705
+
+Processing: https://civil.utm.my/academic-guidelines
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 192/705
+
+Processing: https://civil.utm.my/centre-of-excellence
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 193/705
+
+Processing: https://civil.utm.my/curriculum
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 194/705
+
+Processing: https://civil.utm.my/maps-location
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 195/705
+
+Processing: https://civil.utm.my/news-events
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 196/705
+
+Processing: https://civil.utm.my/postgraduate-2
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 197/705
+
+Processing: https://civil.utm.my/programme-3
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 198/705
+
+Processing: https://civil.utm.my/research
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 199/705
+
+Processing: https://civil.utm.my/undergraduate-2
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 200/705
+
+Processing: https://comp.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 201/705
+
+Processing: https://comp.utm.my/academic
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 202/705
+
+Processing: https://comp.utm.my/awards
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 203/705
+
+Processing: https://comp.utm.my/bachelor-in-software-engineering-w-honours
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 204/705
+
+Processing: https://comp.utm.my/contact-us
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 205/705
+
+Processing: https://comp.utm.my/doctor-of-philosophy-ci
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 206/705
+
+Processing: https://comp.utm.my/doctor-of-philosophy-cs
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 207/705
+
+Processing: https://comp.utm.my/doctor-of-philosophy-field-computer-science
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 208/705
+
+Processing: https://comp.utm.my/doctor-of-philosophy-se
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 209/705
+
+Processing: https://comp.utm.my/events
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 210/705
+
+Processing: https://comp.utm.my/facilities
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 211/705
+
+Processing: https://comp.utm.my/history
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 212/705
+
+Processing: https://comp.utm.my/info-and-guideline
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 213/705
+
+Processing: https://comp.utm.my/master-cs
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 214/705
+
+Processing: https://comp.utm.my/master-csy
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 215/705
+
+Processing: https://comp.utm.my/master-ic
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 216/705
+
+Processing: https://comp.utm.my/master-of-philosophy-cs
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 217/705
+
+Processing: https://comp.utm.my/master-of-philosophy-se
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 218/705
+
+Processing: https://comp.utm.my/master-of-science-ds
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 219/705
+
+Processing: https://comp.utm.my/news
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 220/705
+
+Processing: https://comp.utm.my/postgraduate
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 221/705
+
+Processing: https://comp.utm.my/resources
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 222/705
+
+Processing: https://comp.utm.my/research
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 223/705
+
+Processing: https://comp.utm.my/study-plan-timetable
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 224/705
+
+Processing: https://comp.utm.my/study-plan-timetable-pg
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 225/705
+
+Processing: https://comp.utm.my/ug-timetable
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 226/705
+
+Processing: https://comp.utm.my/undergraduate
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 227/705
+
+Processing: https://convocation.utm.my/
+🔥 Error processing https://convocation.utm.my/:
+Error type: HTTPError
+Error details: Request Timeout: Failed to scrape URL as the request timed out. Request timed out - No additional error details provided.
+
+URL 228/705
+
+Processing: https://corporateaffairs.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 229/705
+
+Processing: https://coursefinder.utm.my/
+🔥 Error processing https://coursefinder.utm.my/:
+Error type: HTTPError
+Error details: Request Timeout: Failed to scrape URL as the request timed out. Request timed out - No additional error details provided.
+
+URL 230/705
+
+Processing: https://ctl.utm.my/
+🔥 Error processing https://ctl.utm.my/:
+Error type: HTTPError
+Error details: Request Timeout: Failed to scrape URL as the request timed out. Request timed out - No additional error details provided.
+
+URL 231/705
+
+Processing: https://digital.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 232/705
+
+Processing: https://digital.utm.my/about-us
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 233/705
+
+Processing: https://digital.utm.my/client-charter
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 234/705
+
+Processing: https://digital.utm.my/explore-services
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 235/705
+
+Processing: https://digital.utm.my/ict-security
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 236/705
+
+Processing: https://digital.utm.my/ictpolicy
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 237/705
+
+Processing: https://dvcai.utm.my/
+✓ Successfully saved: https://dvcai.utm.my/
+
+URL 238/705
+
+Processing: https://dvcai.utm.my/Peraturan
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 239/705
+
+Processing: https://dvcai.utm.my/Polisi
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 240/705
+
+Processing: https://dvcai.utm.my/Prosedur
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 241/705
+
+Processing: https://dvcai.utm.my/academic-visitingadjunct-schemes
+✓ Successfully saved: https://dvcai.utm.my/academic-visitingadjunct-schemes
+
+URL 242/705
+
+Processing: https://dvcai.utm.my/forms
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 243/705
+
+Processing: https://dvcai.utm.my/garispanduan
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 244/705
+
+Processing: https://dvcai.utm.my/piagam-pelanggan
+✓ Successfully saved: https://dvcai.utm.my/piagam-pelanggan
+
+URL 245/705
+
+Processing: https://dvcai.utm.my/vision-mission
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 246/705
+
+Processing: https://dvcdev.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 247/705
+
+Processing: https://dvcdev.utm.my/about
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 248/705
+
+Processing: https://dvcdev.utm.my/alumni
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 249/705
+
+Processing: https://dvcdev.utm.my/careercentre
+✓ Successfully saved: https://dvcdev.utm.my/careercentre
+
+URL 250/705
+
+Processing: https://dvcdev.utm.my/counsellingcentre
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 251/705
+
+Processing: https://dvcdev.utm.my/international
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 252/705
+
+Processing: https://dvcdev.utm.my/location-utm
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 253/705
+
+Processing: https://dvcdev.utm.my/online-services
+🔥 Error processing https://dvcdev.utm.my/online-services:
+Error type: HTTPError
+Error details: Request Timeout: Failed to scrape URL as the request timed out. Request timed out - No additional error details provided.
+
+URL 254/705
+
+Processing: https://ecommerce.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 255/705
+
+Processing: https://educ.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 256/705
+
+Processing: https://ekonvo.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 257/705
+
+Processing: https://elearning.utm.my/
+✓ Successfully saved: https://elearning.utm.my/
+
+URL 258/705
+
+Processing: https://encon.utm.my/
+🔥 Error processing https://encon.utm.my/:
+Error type: HTTPError
+Error details: Internal Server Error: Failed to scrape URL. (Internal server error) - All scraping engines failed! -- Double check the URL to make sure it's not broken. If the issue persists, contact us at help@firecrawl.com. - No additional error details provided.
+
+URL 259/705
+
+Processing: https://endowmen.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 260/705
+
+Processing: https://engineering.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 261/705
+
+Processing: https://envision2025.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 262/705
+
+Processing: https://epress.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 263/705
+
+Processing: https://eprints.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 264/705
+
+Processing: https://events.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 265/705
+
+Processing: https://fai.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 266/705
+
+Processing: https://fai.utm.my/bachelor-in-artificial-intelligence-with-honours
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 267/705
+
+Processing: https://fai.utm.my/bachelor-of-science-with-honours-industrial-design
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 268/705
+
+Processing: https://fai.utm.my/contact
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 269/705
+
+Processing: https://fai.utm.my/department-of-business-intelligent-humanities-and-governance
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 270/705
+
+Processing: https://fai.utm.my/department-of-creative-artificial-intelligence
+✓ Successfully saved: https://fai.utm.my/department-of-creative-artificial-intelligence
+
+URL 271/705
+
+Processing: https://fai.utm.my/department-of-intelligence-informatics
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 272/705
+
+Processing: https://fai.utm.my/department-of-smart-engineering-and-advanced-technology
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 273/705
+
+Processing: https://fai.utm.my/doctor-of-engineering-in-engineering-business-management
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 274/705
+
+Processing: https://fai.utm.my/doctor-of-philosophy-field-of-research-policy-studies
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 275/705
+
+Processing: https://fai.utm.my/facilities
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 276/705
+
+Processing: https://fai.utm.my/faculty
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 277/705
+
+Processing: https://fai.utm.my/fai-research-groups
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 278/705
+
+Processing: https://fai.utm.my/master-in-occupational-safety-health-management-no-info
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 279/705
+
+Processing: https://fai.utm.my/master-of-philosophy-field-of-research-industrial-design
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 280/705
+
+Processing: https://fai.utm.my/master-of-philosophy-policy-studies
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 281/705
+
+Processing: https://fai.utm.my/master-of-professional-science
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 282/705
+
+Processing: https://fai.utm.my/master-of-science-business-intelligence-and-analytics
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 283/705
+
+Processing: https://fai.utm.my/master-of-science-engineering-business-management
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 284/705
+
+Processing: https://fai.utm.my/master-of-science-engineering-design
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 285/705
+
+Processing: https://fai.utm.my/master-of-science-in-computer-system-engineering
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 286/705
+
+Processing: https://fai.utm.my/master-of-science-sustainable-infrastructure
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 287/705
+
+Processing: https://fai.utm.my/master-of-science-systems-engineering
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 288/705
+
+Processing: https://fai.utm.my/postgraduate
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 289/705
+
+Processing: https://fai.utm.my/undergraduate
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 290/705
+
+Processing: https://fke.utm.my/
+🔥 Error processing https://fke.utm.my/:
+Error type: HTTPError
+Error details: Request Timeout: Failed to scrape URL as the request timed out. Request timed out - No additional error details provided.
+
+URL 291/705
+
+Processing: https://fke.utm.my/3-days-basic-fiber-optic-training-workshop-for-institut-kemahiran-mara-ikm-johor-bahru
+🔥 Error processing https://fke.utm.my/3-days-basic-fiber-optic-training-workshop-for-institut-kemahiran-mara-ikm-johor-bahru:
+Error type: HTTPError
+Error details: Request Timeout: Failed to scrape URL as the request timed out. Request timed out - No additional error details provided.
+
+URL 292/705
+
+Processing: https://fke.utm.my/a-visit-from-delegation-of-national-institute-of-technology-kagoshima-college
+🔥 Error processing https://fke.utm.my/a-visit-from-delegation-of-national-institute-of-technology-kagoshima-college:
+Error type: HTTPError
+Error details: Request Timeout: Failed to scrape URL as the request timed out. Request timed out - No additional error details provided.
+
+URL 293/705
+
+Processing: https://fke.utm.my/academic-service-learning-by-skee-4653
+✓ Successfully saved: https://fke.utm.my/academic-service-learning-by-skee-4653
+
+URL 294/705
+
+Processing: https://fke.utm.my/academic-service-learning-programme-implemented-through-undergraduate-course
+✓ Successfully saved: https://fke.utm.my/academic-service-learning-programme-implemented-through-undergraduate-course
+
+URL 295/705
+
+Processing: https://fke.utm.my/aip-workshop-2024-for-mechatronics-bachelor-and-master-programme
+🔥 Error processing https://fke.utm.my/aip-workshop-2024-for-mechatronics-bachelor-and-master-programme:
+Error type: HTTPError
+Error details: Request Timeout: Failed to scrape URL as the request timed out. Request timed out - No additional error details provided.
+
+URL 296/705
+
+Processing: https://fke.utm.my/alumni
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 297/705
+
+Processing: https://fke.utm.my/antena-dan-metabahan-untuk-komunikasi-masa-hadapan
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 298/705
+
+Processing: https://fke.utm.my/arfm-webinar-series-dr-arie-pagesti-aji
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 299/705
+
+Processing: https://fke.utm.my/att-research-group-and-favouriot-established-collaboration-in-iot-researches
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 300/705
+
+Processing: https://fke.utm.my/basic-antenna-design
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 301/705
+
+Processing: https://fke.utm.my/benchmarking-visit-from-university-college-of-technology-sarawak
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 302/705
+
+Processing: https://fke.utm.my/bio-inspired-creation-and-its-application
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 303/705
+
+Processing: https://fke.utm.my/biometrics-our-past-present-future-identity
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 304/705
+
+Processing: https://fke.utm.my/briefing-on-seem-program
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 305/705
+
+Processing: https://fke.utm.my/capstone-final-product-evaluation
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 306/705
+
+Processing: https://fke.utm.my/capstone-project-for-part-time-programme-space-successfully-inaugurated
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 307/705
+
+Processing: https://fke.utm.my/capstone-projects-for-students
+✓ Successfully saved: https://fke.utm.my/capstone-projects-for-students
+
+URL 308/705
+
+Processing: https://fke.utm.my/career-talk-by-on-semiconductor
+✓ Successfully saved: https://fke.utm.my/career-talk-by-on-semiconductor
+
+URL 309/705
+
+Processing: https://fke.utm.my/chance-to-join-university-collaboration-in-ho-chi-min-city
+🔥 Error processing https://fke.utm.my/chance-to-join-university-collaboration-in-ho-chi-min-city:
+Error type: HTTPError
+Error details: Request Timeout: Failed to scrape URL as the request timed out. Request timed out - No additional error details provided.
+
+URL 310/705
+
+Processing: https://fke.utm.my/cmed-staffs-students-visit-to-df-automation-robotics-sdn-bhd
+🔥 Error processing https://fke.utm.my/cmed-staffs-students-visit-to-df-automation-robotics-sdn-bhd:
+Error type: HTTPError
+Error details: Request Timeout: Failed to scrape URL as the request timed out. Request timed out - No additional error details provided.
+
+URL 311/705
+
+Processing: https://fke.utm.my/comm-member-joins-round-table-dialogue-with-the-higher-education-minister-of-malaysia
+🔥 Error processing https://fke.utm.my/comm-member-joins-round-table-dialogue-with-the-higher-education-minister-of-malaysia:
+Error type: HTTPError
+Error details: Request Timeout: Failed to scrape URL as the request timed out. Request timed out - No additional error details provided.
+
+URL 312/705
+
+Processing: https://fke.utm.my/comm-members-is-on-track-with-the-5g-technologies
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 313/705
+
+Processing: https://fke.utm.my/community-engagement-renewable-electricity-for-kampung-orang-asli-pucur
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 314/705
+
+Processing: https://fke.utm.my/computer-and-microelectronic-system
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 315/705
+
+Processing: https://fke.utm.my/computer-vision-machine-laerning
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 316/705
+
+Processing: https://fke.utm.my/conference-on-energy-conversion
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 317/705
+
+Processing: https://fke.utm.my/dr-yeong-che-fai-wins-first-place-in-the-royal-academy-of-engineerings-leaders-in-innovation-fellowships
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 318/705
+
+Processing: https://fke.utm.my/dspace-ds1104-workshop-for-power-electronics-system-applications
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 319/705
+
+Processing: https://fke.utm.my/ece-post
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 320/705
+
+Processing: https://fke.utm.my/electrical-power
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 321/705
+
+Processing: https://fke.utm.my/electromagnetic-workshop
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 322/705
+
+Processing: https://fke.utm.my/elektra-fun-run-2025
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 323/705
+
+Processing: https://fke.utm.my/entry-requirements
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 324/705
+
+Processing: https://fke.utm.my/erasmus-strategic-ip-management-for-effective-ri-in-asian-higher-education-spire
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 325/705
+
+Processing: https://fke.utm.my/ericsson-educate-webinar-2024
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 326/705
+
+Processing: https://fke.utm.my/evolt-open-day-successfully-held
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 327/705
+
+Processing: https://fke.utm.my/external-examination-for-skem-seem-mkem-meem-programme
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 328/705
+
+Processing: https://fke.utm.my/facilitiesfke
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 329/705
+
+Processing: https://fke.utm.my/facts-and-figures-2
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 330/705
+
+Processing: https://fke.utm.my/final-product-evaluation-session-for-capstone-project-power
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 331/705
+
+Processing: https://fke.utm.my/first-year-electrical-engineering-students-visit-v-s-electronics-sdn-bhd
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 332/705
+
+Processing: https://fke.utm.my/fke-academic-awards-in-the-68th-utm-convocation
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 333/705
+
+Processing: https://fke.utm.my/fke-bmie-research-seminar-2024-2
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 334/705
+
+Processing: https://fke.utm.my/fke-industry-2024
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 335/705
+
+Processing: https://fke.utm.my/fke-publication-webinar-assoc-prof-dr-waleed-ejaz
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 336/705
+
+Processing: https://fke.utm.my/fke-seminar-series-assoc-prof-dr-waleed-ejaz
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 337/705
+
+Processing: https://fke.utm.my/fke-seminar-series-assoc-prof-ir-ts-dr-tan-chee-wei
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 338/705
+
+Processing: https://fke.utm.my/fke-seminar-series-dr-fatin-hamimi-binti-hamat-mustafa
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 339/705
+
+Processing: https://fke.utm.my/fke-seminar-series-dr-leow-cheah-wei
+🔥 Error processing https://fke.utm.my/fke-seminar-series-dr-leow-cheah-wei:
+Error type: HTTPError
+Error details: Request Timeout: Failed to scrape URL as the request timed out. Request timed out - No additional error details provided.
+
+URL 340/705
+
+Processing: https://fke.utm.my/fke-seminar-series-dr-lim-cheng-siong
+✓ Successfully saved: https://fke.utm.my/fke-seminar-series-dr-lim-cheng-siong
+
+URL 341/705
+
+Processing: https://fke.utm.my/fke-seminar-series-dr-najeb-jamaludin
+🔥 Error processing https://fke.utm.my/fke-seminar-series-dr-najeb-jamaludin:
+Error type: HTTPError
+Error details: Request Timeout: Failed to scrape URL as the request timed out. Request timed out - No additional error details provided.
+
+URL 342/705
+
+Processing: https://fke.utm.my/fke-seminar-series-dr-noor-akhmad-setiawan
+🔥 Error processing https://fke.utm.my/fke-seminar-series-dr-noor-akhmad-setiawan:
+Error type: HTTPError
+Error details: Request Timeout: Failed to scrape URL as the request timed out. Request timed out - No additional error details provided.
+
+URL 343/705
+
+Processing: https://fke.utm.my/fke-seminar-series-dr-norhafezaidi-mat-saman
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 344/705
+
+Processing: https://fke.utm.my/fke-seminar-series-dr-setia-hermawati
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 345/705
+
+Processing: https://fke.utm.my/fke-seminar-series-ir-dr-ab-al-hadi-ab-rahman
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 346/705
+
+Processing: https://fke.utm.my/fke-seminar-series-mr-peter-macaulay
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 347/705
+
+Processing: https://fke.utm.my/fke-seminar-series-mr-swee-kiang-fong
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 348/705
+
+Processing: https://fke.utm.my/fke-seminar-series-prof-dr-surender-reddy-salkuti
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 349/705
+
+Processing: https://fke.utm.my/fke-seminar-series-prof-dr-yanhua-luo
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 350/705
+
+Processing: https://fke.utm.my/fke-seminar-series-prof-ir-dr-muhammad-nadzir-marsono
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 351/705
+
+Processing: https://fke.utm.my/fke-seminar-series-prof-young-soo-sohn
+✓ Successfully saved: https://fke.utm.my/fke-seminar-series-prof-young-soo-sohn
+
+URL 352/705
+
+Processing: https://fke.utm.my/fke-seminar-series-ts-dr-suhaila-isaak
+✓ Successfully saved: https://fke.utm.my/fke-seminar-series-ts-dr-suhaila-isaak
+
+URL 353/705
+
+Processing: https://fke.utm.my/flex-utm-engagement
+✓ Successfully saved: https://fke.utm.my/flex-utm-engagement
+
+URL 354/705
+
+Processing: https://fke.utm.my/free-seminar-on-collaborative-robots-with-demo-by-universal-robots-singapore
+✓ Successfully saved: https://fke.utm.my/free-seminar-on-collaborative-robots-with-demo-by-universal-robots-singapore
+
+URL 355/705
+
+Processing: https://fke.utm.my/free-ske-sharing-session
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 356/705
+
+Processing: https://fke.utm.my/global-samsung-semiconductor-special-program-at-snu
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 357/705
+
+Processing: https://fke.utm.my/graduation-form-submission
+✓ Successfully saved: https://fke.utm.my/graduation-form-submission
+
+URL 358/705
+
+Processing: https://fke.utm.my/guest-lecture-by-intel
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 359/705
+
+Processing: https://fke.utm.my/guest-lecture-ic-design-overview
+✓ Successfully saved: https://fke.utm.my/guest-lecture-ic-design-overview
+
+URL 360/705
+
+Processing: https://fke.utm.my/half-day-seminar-for-high-voltage-technology
+✓ Successfully saved: https://fke.utm.my/half-day-seminar-for-high-voltage-technology
+
+URL 361/705
+
+Processing: https://fke.utm.my/hands-on-maintenance-calibration-oscilloscope
+✓ Successfully saved: https://fke.utm.my/hands-on-maintenance-calibration-oscilloscope
+
+URL 362/705
+
+Processing: https://fke.utm.my/high-voltage-research-talk
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 363/705
+
+Processing: https://fke.utm.my/how-to-write-a-good-resume
+✓ Successfully saved: https://fke.utm.my/how-to-write-a-good-resume
+
+URL 364/705
+
+Processing: https://fke.utm.my/how-well-do-you-know-your-s-parameters
+✓ Successfully saved: https://fke.utm.my/how-well-do-you-know-your-s-parameters
+
+URL 365/705
+
+Processing: https://fke.utm.my/human-exposure-to-radio-frequency
+✓ Successfully saved: https://fke.utm.my/human-exposure-to-radio-frequency
+
+URL 366/705
+
+Processing: https://fke.utm.my/iap-workshop-for-seem-mkem-programme
+✓ Successfully saved: https://fke.utm.my/iap-workshop-for-seem-mkem-programme
+
+URL 367/705
+
+Processing: https://fke.utm.my/ic-design-engineers-career-talk
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 368/705
+
+Processing: https://fke.utm.my/ieee-deis-distinguished-lecturer-programme-polymer-nanocomposite-dielectrics-fundamentals-and-applications
+✓ Successfully saved: https://fke.utm.my/ieee-deis-distinguished-lecturer-programme-polymer-nanocomposite-dielectrics-fundamentals-and-applications
+
+URL 369/705
+
+Processing: https://fke.utm.my/ieee-deis-sponsored-distinguished-lecturer-programme-lecture-by-professor-toshikatsu-tanaka
+✓ Successfully saved: https://fke.utm.my/ieee-deis-sponsored-distinguished-lecturer-programme-lecture-by-professor-toshikatsu-tanaka
+
+URL 370/705
+
+Processing: https://fke.utm.my/ieee-deis-sponsored-distinguished-lecturer-programme-workshop-with-professor-toshikatsu-tanaka
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 371/705
+
+Processing: https://fke.utm.my/ieee-international-conference-on-atnt-2024-2
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 372/705
+
+Processing: https://fke.utm.my/iklan-peluang-pengajian-phd-dalam-bidang-rf
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 373/705
+
+Processing: https://fke.utm.my/implementation-of-capstone-project-for-power-department
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 374/705
+
+Processing: https://fke.utm.my/industrial-talk-by-on-semiconductor-malaysia
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 375/705
+
+Processing: https://fke.utm.my/industrial-talks-successfully-organised-for-students-of-utm-school-of-electrical-engineering
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 376/705
+
+Processing: https://fke.utm.my/industrial-visit-to-bukit-batu-main-substation
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 377/705
+
+Processing: https://fke.utm.my/industrial-visit-to-mmhe
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 378/705
+
+Processing: https://fke.utm.my/industrial-visit-to-promelight-technology-m-sdn-bhd
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 379/705
+
+Processing: https://fke.utm.my/industrial-visit-to-universal-cable
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 380/705
+
+Processing: https://fke.utm.my/industrial-visit-to-venture-ges-manufacturing-services-m-sdn-bhd
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 381/705
+
+Processing: https://fke.utm.my/industrial-visit-to-vs-industry-berhad
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 382/705
+
+Processing: https://fke.utm.my/information-day-of-the-faculty-of-electrical-engineering
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 383/705
+
+Processing: https://fke.utm.my/infrastructure
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 384/705
+
+Processing: https://fke.utm.my/installation-of-the-new-rf-shielded-room-in-advanced-microwave-and-antenna-laboratory
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 385/705
+
+Processing: https://fke.utm.my/institut-kemahiran-mara-looks-forward-to-the-optical-communication-training-programs-at-utm-johor-bahru
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 386/705
+
+Processing: https://fke.utm.my/intel-talk-clock-domain-crossing
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 387/705
+
+Processing: https://fke.utm.my/intel-talk-soc-on-the-inside
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 388/705
+
+Processing: https://fke.utm.my/intels-guest-lecture-event-for-post-graduate
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 389/705
+
+Processing: https://fke.utm.my/international-telecommunication-union-online-certification-course
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 390/705
+
+Processing: https://fke.utm.my/introduction-and-maintenance-of-solar-system-for-indigenous-off-grid-community-at-sungai-tiang-village-royal-belum-perak
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 391/705
+
+Processing: https://fke.utm.my/invited-lecture-for-fire-investigation-division-state-of-johore-fire-and-rescue-department
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 392/705
+
+Processing: https://fke.utm.my/iot-hackathon
+✓ Successfully saved: https://fke.utm.my/iot-hackathon
+
+URL 393/705
+
+Processing: https://fke.utm.my/it-facilities
+✓ Successfully saved: https://fke.utm.my/it-facilities
+
+URL 394/705
+
+Processing: https://fke.utm.my/ivats-short-courses
+✓ Successfully saved: https://fke.utm.my/ivats-short-courses
+
+URL 395/705
+
+Processing: https://fke.utm.my/job-opening-at-ust-global
+✓ Successfully saved: https://fke.utm.my/job-opening-at-ust-global
+
+URL 396/705
+
+Processing: https://fke.utm.my/job-opportunities-at-intel
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 397/705
+
+Processing: https://fke.utm.my/kenyataan-rasmi-utm-melaksanakan-penstrukturan-semula-entiti-akademik-untuk-kelestarian-bidang-tujahan-universiti
+✓ Successfully saved: https://fke.utm.my/kenyataan-rasmi-utm-melaksanakan-penstrukturan-semula-entiti-akademik-untuk-kelestarian-bidang-tujahan-universiti
+
+URL 398/705
+
+Processing: https://fke.utm.my/keysight-technologies-is-hiring
+✓ Successfully saved: https://fke.utm.my/keysight-technologies-is-hiring
+
+URL 399/705
+
+Processing: https://fke.utm.my/keysight-technologies-webinar
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 400/705
+
+Processing: https://fke.utm.my/kmutt-international-senior-project-conference-2024
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 401/705
+
+Processing: https://fke.utm.my/knowledge-sharing-on-an-analytical-study-of-leg-joint-synergy-in-bipedalism
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 402/705
+
+Processing: https://fke.utm.my/knowledge-sharing-on-crowd-modeling-with-cairo-utm
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 403/705
+
+Processing: https://fke.utm.my/knowledge-sharing-schedules
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 404/705
+
+Processing: https://fke.utm.my/knowledge-sharing-session-with-professor-a-manu-haddad
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 405/705
+
+Processing: https://fke.utm.my/knowledge-sharing-with-pentalight-sdn-bhd-on-iot-energy-efficient-system
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 406/705
+
+Processing: https://fke.utm.my/kuliah-terbuka-profesor-adjung-fke
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 407/705
+
+Processing: https://fke.utm.my/laboratories
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 408/705
+
+Processing: https://fke.utm.my/laboratory-demonstration-on-solid-dielectric-breakdown-test
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 409/705
+
+Processing: https://fke.utm.my/laboratory-induction-session-by-institute-of-high-voltage-and-high-current
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 410/705
+
+Processing: https://fke.utm.my/laboratory-visit-to-institute-of-high-voltage-and-high-current
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 411/705
+
+Processing: https://fke.utm.my/lecture-on-dielectric-measurement-system-using-microwaves-guides
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 412/705
+
+Processing: https://fke.utm.my/lte-advanced-cellular-machine-to-machine-communications-research-challenges-and-potential-opportunities
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 413/705
+
+Processing: https://fke.utm.my/malaysia-techlympics-2024-mt-2024-national-competition-finalist
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 414/705
+
+Processing: https://fke.utm.my/master-of-engineering-wireless-communication-and-network
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 415/705
+
+Processing: https://fke.utm.my/master-project-1-2-seminar-timetable
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 416/705
+
+Processing: https://fke.utm.my/master-project-title-selection-20242025-1-open
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 417/705
+
+Processing: https://fke.utm.my/masters-by-taught-course-project-abstracts
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 418/705
+
+Processing: https://fke.utm.my/mechatronics-and-automatic-control
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 419/705
+
+Processing: https://fke.utm.my/micron-global-female-mentorship-program-for-undergraduates-and-graduates
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 420/705
+
+Processing: https://fke.utm.my/mket-now-open-for-application
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 421/705
+
+Processing: https://fke.utm.my/monthly-talk-of-institute-of-high-voltage-and-high-current-succesfully-held
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 422/705
+
+Processing: https://fke.utm.my/myhvnet-colloquium-sucessfully-held
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 423/705
+
+Processing: https://fke.utm.my/new-graduate-research-assistant-position-opening-at-vecad-lab
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 424/705
+
+Processing: https://fke.utm.my/new-student-registration-kit
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 425/705
+
+Processing: https://fke.utm.my/ni-internship-talks-interview
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 426/705
+
+Processing: https://fke.utm.my/niarc-2024
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 427/705
+
+Processing: https://fke.utm.my/opportunity-for-utm-lecturers-to-supervise-fully-funded-research-student-from-badan-reset-dan-inovasi-nasional-brin-indonesia
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 428/705
+
+Processing: https://fke.utm.my/oshe
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 429/705
+
+Processing: https://fke.utm.my/oshe-events
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 430/705
+
+Processing: https://fke.utm.my/oshe-forms
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 431/705
+
+Processing: https://fke.utm.my/oshe-organisation
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 432/705
+
+Processing: https://fke.utm.my/peluang-penajaan-pengajian-di-hari-terbuka-biasiswa
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 433/705
+
+Processing: https://fke.utm.my/photonic-lecture-series
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 434/705
+
+Processing: https://fke.utm.my/photonics-experts-shared-current-research-works-during-recent-photonics-lecture-series
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 435/705
+
+Processing: https://fke.utm.my/photonics-lecture-series-in-conjunction-with-international-day-of-light
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 436/705
+
+Processing: https://fke.utm.my/policies-guidance
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 437/705
+
+Processing: https://fke.utm.my/politeknik-ibrahim-sultans-students-thrilled-by-the-knowledge-sharing-session-on-optical-communication-field
+✓ Successfully saved: https://fke.utm.my/politeknik-ibrahim-sultans-students-thrilled-by-the-knowledge-sharing-session-on-optical-communication-field
+
+URL 438/705
+
+Processing: https://fke.utm.my/postgraduate
+✓ Successfully saved: https://fke.utm.my/postgraduate
+
+URL 439/705
+
+Processing: https://fke.utm.my/postgraduate-briefing-session-20242025-1
+✓ Successfully saved: https://fke.utm.my/postgraduate-briefing-session-20242025-1
+
+URL 440/705
+
+Processing: https://fke.utm.my/postgraduate-current-student
+✓ Successfully saved: https://fke.utm.my/postgraduate-current-student
+
+URL 441/705
+
+Processing: https://fke.utm.my/postgraduate-programme-off-campus
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 442/705
+
+Processing: https://fke.utm.my/postgraduate-study-plan
+✓ Successfully saved: https://fke.utm.my/postgraduate-study-plan
+
+URL 443/705
+
+Processing: https://fke.utm.my/power
+🔥 Error processing https://fke.utm.my/power:
+Error type: HTTPError
+Error details: Request Timeout: Failed to scrape URL as the request timed out. Request timed out - No additional error details provided.
+
+URL 444/705
+
+Processing: https://fke.utm.my/programme-arccreditation
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 445/705
+
+Processing: https://fke.utm.my/programme-educational-objectives-peos-for-bachelor-of-engineering-electrical-mechatronics
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 446/705
+
+Processing: https://fke.utm.my/project-synopsis-submission
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 447/705
+
+Processing: https://fke.utm.my/projectile-launcher-challenge-kursus-engineering-mechanics-pelajar-seem
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 448/705
+
+Processing: https://fke.utm.my/quality-of-service-in-wireless-communication
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 449/705
+
+Processing: https://fke.utm.my/registration-for-nuwa-tcad-macondo-training
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 450/705
+
+Processing: https://fke.utm.my/research-3
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 451/705
+
+Processing: https://fke.utm.my/research-and-training-collaboration-between-ivat-and-behr-bircher-cellpack-malaysia-sdn-bhd
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 452/705
+
+Processing: https://fke.utm.my/research-groups
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 453/705
+
+Processing: https://fke.utm.my/research-laboratory-visit-shibaura-institute-of-technology
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 454/705
+
+Processing: https://fke.utm.my/research-laboratory-visit-tokyo-city-university
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 455/705
+
+Processing: https://fke.utm.my/research-seminar-on-high-voltage-engineering
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 456/705
+
+Processing: https://fke.utm.my/rohde-schwarz-visit
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 457/705
+
+Processing: https://fke.utm.my/seminar-for-first-year-undergraduate-students
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 458/705
+
+Processing: https://fke.utm.my/seminar-on-future-of-sustainable-power-ev-cars-and-plans-for-ev-charging-stations
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 459/705
+
+Processing: https://fke.utm.my/seminar-on-research-proposal-timetable-for-phd-master-research
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 460/705
+
+Processing: https://fke.utm.my/sesi-perkongsian-ilmu-penyelidikan-dan-pertanian
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 461/705
+
+Processing: https://fke.utm.my/sharing-session-how-to-win-frgs-prgs-grant
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 462/705
+
+Processing: https://fke.utm.my/sharing-session-with-ciam-utm-and-core-expert-systems-sdn-bhd
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 463/705
+
+Processing: https://fke.utm.my/sharing-session-with-ciam-utm-and-first-step-towards-a-collaboration
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 464/705
+
+Processing: https://fke.utm.my/short-course-on-efficient-energy-management-in-commercial-and-industrial-buildings
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 465/705
+
+Processing: https://fke.utm.my/short-course-on-efficient-energy-management-in-commercial-building
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 466/705
+
+Processing: https://fke.utm.my/short-course-on-high-voltage-engineering-successfully-held
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 467/705
+
+Processing: https://fke.utm.my/short-course-on-particle-swarm-optimisation
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 468/705
+
+Processing: https://fke.utm.my/short-course-on-power-quality
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 469/705
+
+Processing: https://fke.utm.my/short-courses-by-ivat
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 470/705
+
+Processing: https://fke.utm.my/short-courses-offered-by-ivat
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 471/705
+
+Processing: https://fke.utm.my/silicon-nanowire-arrays-for-thermoelectronic-power-harvesting
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 472/705
+
+Processing: https://fke.utm.my/site-visit-to-kopris
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 473/705
+
+Processing: https://fke.utm.my/site-visit-to-sk-pendidikan-khas-johor-bahru
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 474/705
+
+Processing: https://fke.utm.my/site-visit-to-smk-taman-impian-emas
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 475/705
+
+Processing: https://fke.utm.my/site-visit-to-smk-taman-perling
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 476/705
+
+Processing: https://fke.utm.my/smart-grid-architecture-enabling-communications-technologies
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 477/705
+
+Processing: https://fke.utm.my/solar-electric-power-knowledge-transfer-programme-successfully-held-at-sk-taman-mutiara-rini-2
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 478/705
+
+Processing: https://fke.utm.my/solar-system-awareness-programme
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 479/705
+
+Processing: https://fke.utm.my/solidworks-training-by-cmed-and-mss
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 480/705
+
+Processing: https://fke.utm.my/staff-from-ivatpower-initiates-its-own-postgraduate-seminar
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 481/705
+
+Processing: https://fke.utm.my/staff-from-ivatpower-won-gold-award
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 482/705
+
+Processing: https://fke.utm.my/student
+✓ Successfully saved: https://fke.utm.my/student
+
+URL 483/705
+
+Processing: https://fke.utm.my/student-representative-council-election-srce
+✓ Successfully saved: https://fke.utm.my/student-representative-council-election-srce
+
+URL 484/705
+
+Processing: https://fke.utm.my/student_participation_in_young_scholar_programme
+✓ Successfully saved: https://fke.utm.my/student_participation_in_young_scholar_programme
+
+URL 485/705
+
+Processing: https://fke.utm.my/supervisor-assignment-of-master-taught-course-project-20242025-1
+✓ Successfully saved: https://fke.utm.my/supervisor-assignment-of-master-taught-course-project-20242025-1
+
+URL 486/705
+
+Processing: https://fke.utm.my/sustainable-skies-unveiling-the-benefits-impacts-of-satellites
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 487/705
+
+Processing: https://fke.utm.my/swts-pte-ltd-singapore-is-hiring
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 488/705
+
+Processing: https://fke.utm.my/syarahan-perdana-profesor-bilangan-118
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 489/705
+
+Processing: https://fke.utm.my/symmid-inviting-all-new-engineers
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 490/705
+
+Processing: https://fke.utm.my/taklimat-kemasukan-markah-melalui-myaims
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 491/705
+
+Processing: https://fke.utm.my/tech-talk-internship-info-session-by-ni
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 492/705
+
+Processing: https://fke.utm.my/technical-talk-by-assoc-prof-dr-ahmad-zuri-shaameri
+🔥 Error processing https://fke.utm.my/technical-talk-by-assoc-prof-dr-ahmad-zuri-shaameri:
+Error type: HTTPError
+Error details: Request Timeout: Failed to scrape URL as the request timed out. Request timed out - No additional error details provided.
+
+URL 493/705
+
+Processing: https://fke.utm.my/technical-talk-by-ges-manufacturing-services-m-sdn-bhd
+🔥 Error processing https://fke.utm.my/technical-talk-by-ges-manufacturing-services-m-sdn-bhd:
+Error type: HTTPError
+Error details: Request Timeout: Failed to scrape URL as the request timed out. Request timed out - No additional error details provided.
+
+URL 494/705
+
+Processing: https://fke.utm.my/technical-talk-on-protection-devices-successfully-held
+✓ Successfully saved: https://fke.utm.my/technical-talk-on-protection-devices-successfully-held
+
+URL 495/705
+
+Processing: https://fke.utm.my/texas-instruments-for-your-internship-and-career-opportunities
+🔥 Error processing https://fke.utm.my/texas-instruments-for-your-internship-and-career-opportunities:
+Error type: HTTPError
+Error details: Request Timeout: Failed to scrape URL as the request timed out. Request timed out - No additional error details provided.
+
+URL 496/705
+
+Processing: https://fke.utm.my/the-3rd-ieee-conference-on-energy-conversion-successfully-held
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 497/705
+
+Processing: https://fke.utm.my/third-year-skel-student-briefing-on-elective-courses
+✓ Successfully saved: https://fke.utm.my/third-year-skel-student-briefing-on-elective-courses
+
+URL 498/705
+
+Processing: https://fke.utm.my/tips-and-tricks-thesis-writing-using-latex-and-ms-word
+✓ Successfully saved: https://fke.utm.my/tips-and-tricks-thesis-writing-using-latex-and-ms-word
+
+URL 499/705
+
+Processing: https://fke.utm.my/top-10-faculties-in-utm-based-on-research-publications
+✓ Successfully saved: https://fke.utm.my/top-10-faculties-in-utm-based-on-research-publications
+
+URL 500/705
+
+Processing: https://fke.utm.my/ug-fke-brochure
+✓ Successfully saved: https://fke.utm.my/ug-fke-brochure
+
+URL 501/705
+
+Processing: https://fke.utm.my/undergraduate
+✓ Successfully saved: https://fke.utm.my/undergraduate
+
+URL 502/705
+
+Processing: https://fke.utm.my/vision-and-mission
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 503/705
+
+Processing: https://fkt.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 504/705
+
+Processing: https://fkt.utm.my/about-faculty
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 505/705
+
+Processing: https://fkt.utm.my/bachelor-of-chemical-engineering-2
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 506/705
+
+Processing: https://fkt.utm.my/bachelor-of-chemical-gas-2
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 507/705
+
+Processing: https://fkt.utm.my/bachelor-of-engineering-chemical-bioprocess-2
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 508/705
+
+Processing: https://fkt.utm.my/bachelor-of-nuclear-engineering-2
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 509/705
+
+Processing: https://fkt.utm.my/bachelor-of-petroleum-eng
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 510/705
+
+Processing: https://fkt.utm.my/m-eng-bioprocess-3
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 511/705
+
+Processing: https://fkt.utm.my/m-eng-chemical-2
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 512/705
+
+Processing: https://fkt.utm.my/m-eng-environmental-2
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 513/705
+
+Processing: https://fkt.utm.my/m-eng-phd-bioprocess-eng
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 514/705
+
+Processing: https://fkt.utm.my/m-eng-phd-gas-chemical-eng
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 515/705
+
+Processing: https://fkt.utm.my/m-eng-phd-gas-eng-2
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 516/705
+
+Processing: https://fkt.utm.my/m-eng-phd-gas-environmental-eng
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 517/705
+
+Processing: https://fkt.utm.my/m-eng-phd-petroleum-eng
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 518/705
+
+Processing: https://fkt.utm.my/m-eng-phd-polymer-eng
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 519/705
+
+Processing: https://fkt.utm.my/master-of-gas-engineering-and-management
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 520/705
+
+Processing: https://fkt.utm.my/master-of-petroleum-engineering-2-2
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 521/705
+
+Processing: https://fkt.utm.my/msc-energy-management-2
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 522/705
+
+Processing: https://fkt.utm.my/msc-herbal-technology
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 523/705
+
+Processing: https://fkt.utm.my/msc-polymer-technology-2
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 524/705
+
+Processing: https://fkt.utm.my/msc-process-plant-management-2
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 525/705
+
+Processing: https://fkt.utm.my/msc-safety-health-and-environment
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 526/705
+
+Processing: https://fkt.utm.my/vision-mission-objective-2
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 527/705
+
+Processing: https://humanities.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 528/705
+
+Processing: https://humanities.utm.my/about
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 529/705
+
+Processing: https://humanities.utm.my/academic-calendar
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 530/705
+
+Processing: https://humanities.utm.my/education
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 531/705
+
+Processing: https://humanities.utm.my/languageacademy
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 532/705
+
+Processing: https://humanities.utm.my/pg-faq
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 533/705
+
+Processing: https://humanities.utm.my/pg-timetable
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 534/705
+
+Processing: https://humanities.utm.my/postgraduate-pg-academic-regulations
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 535/705
+
+Processing: https://humanities.utm.my/postgraduate-pg-exam-timetable
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 536/705
+
+Processing: https://humanities.utm.my/programmes
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 537/705
+
+Processing: https://humanities.utm.my/undergraduate-ug-academic-regulations
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 538/705
+
+Processing: https://humanities.utm.my/university-general-courses
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 539/705
+
+Processing: https://icc.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 540/705
+
+Processing: https://icc.utm.my/about-icc
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 541/705
+
+Processing: https://icc.utm.my/services
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 542/705
+
+Processing: https://islamiccentre.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 543/705
+
+Processing: https://islamiccentre.utm.my/pengenalan
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 544/705
+
+Processing: https://islamiccentre.utm.my/perkhidmatan
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 545/705
+
+Processing: https://islamiccentre.utm.my/taska-ihsan-2
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 546/705
+
+Processing: https://kl.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 547/705
+
+Processing: https://kl.utm.my/about
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 548/705
+
+Processing: https://kl.utm.my/accommodation
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 549/705
+
+Processing: https://kl.utm.my/campus-life
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 550/705
+
+Processing: https://kl.utm.my/library
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 551/705
+
+Processing: https://kl.utm.my/pusatislam
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 552/705
+
+Processing: https://kl.utm.my/pusatkaunseling
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 553/705
+
+Processing: https://kl.utm.my/pusatkesihatan
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 554/705
+
+Processing: https://kl.utm.my/services-facilities
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 555/705
+
+Processing: https://kl.utm.my/studentaffairs
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 556/705
+
+Processing: https://library.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 557/705
+
+Processing: https://library.utm.my/about-us
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 558/705
+
+Processing: https://library.utm.my/borrowing-returning-reserving-renewing
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 559/705
+
+Processing: https://library.utm.my/client-charter
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 560/705
+
+Processing: https://library.utm.my/contact-us
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 561/705
+
+Processing: https://library.utm.my/digital-resources-2
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 562/705
+
+Processing: https://library.utm.my/e-resources
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 563/705
+
+Processing: https://library.utm.my/facts-and-figures
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 564/705
+
+Processing: https://library.utm.my/handbook
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 565/705
+
+Processing: https://library.utm.my/interlibrary-loan
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 566/705
+
+Processing: https://library.utm.my/journals-collection
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 567/705
+
+Processing: https://library.utm.my/libfaq
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 568/705
+
+Processing: https://library.utm.my/library-area-facilities
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 569/705
+
+Processing: https://library.utm.my/library-guides-for-odl
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 570/705
+
+Processing: https://library.utm.my/membership
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 571/705
+
+Processing: https://library.utm.my/opening-hours
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 572/705
+
+Processing: https://library.utm.my/services
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 573/705
+
+Processing: https://lms.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 574/705
+
+Processing: https://management.utm.my/contact-us
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 575/705
+
+Processing: https://management.utm.my/download-academic-guide
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 576/705
+
+Processing: https://management.utm.my/industrial-training
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 577/705
+
+Processing: https://management.utm.my/news
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 578/705
+
+Processing: https://management.utm.my/oshe
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 579/705
+
+Processing: https://management.utm.my/postgraduate
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 580/705
+
+Processing: https://management.utm.my/programs
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 581/705
+
+Processing: https://management.utm.my/quality
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 582/705
+
+Processing: https://management.utm.my/research
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 583/705
+
+Processing: https://management.utm.my/undergraduates
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 584/705
+
+Processing: https://management.utm.my/vision-and-mission
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 585/705
+
+Processing: https://mech.utm.my/about-school
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 586/705
+
+Processing: https://mech.utm.my/contact-us
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 587/705
+
+Processing: https://mech.utm.my/course-info
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 588/705
+
+Processing: https://mech.utm.my/facilities
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 589/705
+
+Processing: https://mech.utm.my/laboratories
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 590/705
+
+Processing: https://mech.utm.my/mission_and_vision
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 591/705
+
+Processing: https://mech.utm.my/oshe
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 592/705
+
+Processing: https://mech.utm.my/pg-programme
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 593/705
+
+Processing: https://mech.utm.my/research
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 594/705
+
+Processing: https://mech.utm.my/student-activities
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 595/705
+
+Processing: https://mech.utm.my/ug-programme
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 596/705
+
+Processing: https://mjiit.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 597/705
+
+Processing: https://mjiittimetable.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 598/705
+
+Processing: https://mjiittimetable.utm.my/index.php
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 599/705
+
+Processing: https://mooc.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 600/705
+
+Processing: https://my.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 601/705
+
+Processing: https://new-pgs.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 602/705
+
+Processing: https://new-pgs.utm.my/2024
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 603/705
+
+Processing: https://new-pgs.utm.my/PG
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 604/705
+
+Processing: https://new-pgs.utm.my/index.html
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 605/705
+
+Processing: https://news.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 606/705
+
+Processing: https://odl.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 607/705
+
+Processing: https://odl.utm.my/about-us
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 608/705
+
+Processing: https://odl.utm.my/contact-us
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 609/705
+
+Processing: https://odl.utm.my/counselling
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 610/705
+
+Processing: https://odl.utm.my/faqs
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 611/705
+
+Processing: https://odl.utm.my/learning-platform
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 612/705
+
+Processing: https://odl.utm.my/news-announcement
+🔥 Error processing https://odl.utm.my/news-announcement:
+Error type: HTTPError
+Error details: Request Timeout: Failed to scrape URL as the request timed out. Request timed out - No additional error details provided.
+
+URL 613/705
+
+Processing: https://odl.utm.my/online-learning-support
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 614/705
+
+Processing: https://odl.utm.my/program
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 615/705
+
+Processing: https://odl.utm.my/technical-requirements
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 616/705
+
+Processing: https://odl.utm.my/utm-odl-guideline
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 617/705
+
+Processing: https://opac.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 618/705
+
+Processing: https://openscience.utm.my/
+🔥 Error processing https://openscience.utm.my/:
+Error type: HTTPError
+Error details: Request Timeout: Failed to scrape URL as the request timed out. Request timed out - No additional error details provided.
+
+URL 619/705
+
+Processing: https://osca.utm.my/
+🔥 Error processing https://osca.utm.my/:
+Error type: HTTPError
+Error details: Request Timeout: Failed to scrape URL as the request timed out. Request timed out - No additional error details provided.
+
+URL 620/705
+
+Processing: https://pagoh.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 621/705
+
+Processing: https://penerbit.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 622/705
+
+Processing: https://radis.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 623/705
+
+Processing: https://razak.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 624/705
+
+Processing: https://razak.utm.my/about-utm-razak
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 625/705
+
+Processing: https://razak.utm.my/calendar
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 626/705
+
+Processing: https://razak.utm.my/facilities
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 627/705
+
+Processing: https://razak.utm.my/getting-here
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 628/705
+
+Processing: https://razak.utm.my/information-for-current-student
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 629/705
+
+Processing: https://razak.utm.my/iotlab
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 630/705
+
+Processing: https://razak.utm.my/maps-and-directions
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 631/705
+
+Processing: https://razak.utm.my/master-of-software-engineering
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 632/705
+
+Processing: https://razak.utm.my/msc-business-intelligence-and-analytics
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 633/705
+
+Processing: https://razak.utm.my/msc-computer-systems-engineering
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 634/705
+
+Processing: https://razak.utm.my/policy
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 635/705
+
+Processing: https://razak.utm.my/programmes
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 636/705
+
+Processing: https://razak.utm.my/research
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 637/705
+
+Processing: https://razak.utm.my/undergraduate-study
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 638/705
+
+Processing: https://rdpp.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 639/705
+
+Processing: https://registrar.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 640/705
+
+Processing: https://registrar.utm.my/borang-muat-turun
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 641/705
+
+Processing: https://registrar.utm.my/counseling
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 642/705
+
+Processing: https://registrar.utm.my/etikaberpakaian
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 643/705
+
+Processing: https://registrar.utm.my/our-location
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 644/705
+
+Processing: https://registrar.utm.my/polisiutm
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 645/705
+
+Processing: https://research.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 646/705
+
+Processing: https://rmc.utm.my/
+🔥 Error processing https://rmc.utm.my/:
+Error type: HTTPError
+Error details: Request Timeout: Failed to scrape URL as the request timed out. Request timed out - No additional error details provided.
+
+URL 647/705
+
+Processing: https://rmc.utm.my/formsguidelines
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 648/705
+
+Processing: https://rmc.utm.my/project-funding
+✓ Successfully saved: https://rmc.utm.my/project-funding
+
+URL 649/705
+
+Processing: https://rmc.utm.my/research-funding-guidelines
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 650/705
+
+Processing: https://science.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 651/705
+
+Processing: https://science.utm.my/about-us
+✓ Successfully saved: https://science.utm.my/about-us
+
+URL 652/705
+
+Processing: https://science.utm.my/PG
+✓ Successfully saved: https://science.utm.my/PG
+
+URL 653/705
+
+Processing: https://science.utm.my/FSFacilities
+✓ Successfully saved: https://science.utm.my/FSFacilities
+
+URL 654/705
+
+Processing: https://science.utm.my/research-groups
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 655/705
+
+Processing: https://science.utm.my/laboratory
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 656/705
+
+Processing: https://science.utm.my/laboratories
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 657/705
+
+Processing: https://science.utm.my/undergraduate
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 658/705
+
+Processing: https://se.utm.my/
+🔥 Error processing https://se.utm.my/:
+Error type: HTTPError
+Error details: Internal Server Error: Failed to scrape URL. (Internal server error) - All scraping engines failed! -- Double check the URL to make sure it's not broken. If the issue persists, contact us at help@firecrawl.com. - No additional error details provided.
+
+URL 659/705
+
+Processing: https://smart.utm.my/
+🔥 Error processing https://smart.utm.my/:
+Error type: HTTPError
+Error details: Internal Server Error: Failed to scrape URL. (Internal server error) - All scraping engines failed! -- Double check the URL to make sure it's not broken. If the issue persists, contact us at help@firecrawl.com. - No additional error details provided.
+
+URL 660/705
+
+Processing: https://space.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 661/705
+
+Processing: https://space.utm.my/about
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 662/705
+
+Processing: https://space.utm.my/admission
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 663/705
+
+Processing: https://space.utm.my/degree-programme
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 664/705
+
+Processing: https://space.utm.my/diploma
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 665/705
+
+Processing: https://studentaffairs.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 666/705
+
+Processing: https://support.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 667/705
+
+Processing: https://ugs.utm.my/
+✓ Successfully saved: https://ugs.utm.my/
+
+URL 668/705
+
+Processing: https://ugs.utm.my/about-us
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 669/705
+
+Processing: https://ugs.utm.my/academic-advising-at-utm
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 670/705
+
+Processing: https://ugs.utm.my/academic-regulations-for-full-year-bachelor-degree-program
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 671/705
+
+Processing: https://ugs.utm.my/academic-rules
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 672/705
+
+Processing: https://ugs.utm.my/forms
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 673/705
+
+Processing: https://ugs.utm.my/guidelines
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 674/705
+
+Processing: https://ugs.utm.my/handbook-of-ugs
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 675/705
+
+Processing: https://ugs.utm.my/student-information-centre
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 676/705
+
+Processing: https://utmcares.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 677/705
+
+Processing: https://utmcdex.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 678/705
+
+Processing: https://utmcdex.utm.my/about
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 679/705
+
+Processing: https://utmcdex.utm.my/services
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 680/705
+
+Processing: https://utmfin.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 681/705
+
+Processing: https://utmid.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 682/705
+
+Processing: https://utmlead.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 683/705
+
+Processing: https://utmonline.utm.my/
+🔥 Error processing https://utmonline.utm.my/:
+Error type: HTTPError
+Error details: Request Timeout: Failed to scrape URL as the request timed out. Request timed out - No additional error details provided.
+
+URL 684/705
+
+Processing: https://utmpesisir.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 685/705
+
+Processing: https://utmpesisir.utm.my/about-us
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 686/705
+
+Processing: https://utmpesisir.utm.my/current-students-2
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 687/705
+
+Processing: https://utmpesisir.utm.my/programme-offered
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 688/705
+
+Processing: https://utmscholar.utm.my/
+✓ Successfully saved: https://utmscholar.utm.my/
+
+URL 689/705
+
+Processing: https://utmscholar.utm.my/research-unit
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 690/705
+
+Processing: https://utmspace.edu.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 691/705
+
+Processing: https://utmspace.edu.my/about-us
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 692/705
+
+Processing: https://utmspace.edu.my/contact
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 693/705
+
+Processing: https://utmspace.edu.my/lifelong-learning-program-overview
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 694/705
+
+Processing: https://utmspace.edu.my/professional-programmes
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 695/705
+
+Processing: https://utmwifi.utm.my/
+🔥 Error processing https://utmwifi.utm.my/:
+Error type: HTTPError
+Error details: Internal Server Error: Failed to scrape URL. (Internal server error) - All scraping engines failed! -- Double check the URL to make sure it's not broken. If the issue persists, contact us at help@firecrawl.com. - No additional error details provided.
+
+URL 696/705
+
+Processing: https://www.utm.my/
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 697/705
+
+Processing: https://www.utm.my/about
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 698/705
+
+Processing: https://www.utm.my/admission
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 699/705
+
+Processing: https://www.utm.my/alumni
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 700/705
+
+Processing: https://www.utm.my/careercentre
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 701/705
+
+Processing: https://www.utm.my/counselling-centre
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 702/705
+
+Processing: https://www.utm.my/international
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 703/705
+
+Processing: https://www.utm.my/sports
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 704/705
+
+Processing: https://www.utm.my/studentaffairs
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+URL 705/705
+
+Processing: https://www.utm.my/students
+⏩ Already exists, skipping (set OVERWRITE_EXISTING=True to overwrite)
+
+=== Processing Summary ===
+Total URLs: 705
+Successful: 76
+Failed: 27
+Skipped (existing): 602
+Success rate: 10.8%

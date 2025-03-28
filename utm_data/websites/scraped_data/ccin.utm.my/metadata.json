@@ -1,0 +1,16 @@
+{
+  "robots": "max-image-preview:large",
+  "favicon": "https://ccin.utm.my/wp-content/uploads/sites/39/2023/11/cropped-logoCCIN-32x32.png",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "msapplication-TileImage": "https://ccin.utm.my/wp-content/uploads/sites/39/2023/11/cropped-logoCCIN-270x270.png",
+  "language": "en-US",
+  "title": "Centre for Community and Industry Network (CCIN) | Transforming Community through University - Industry Partnerships",
+  "scrapeId": "abd7c565-0aed-4498-b084-1f962cb98cd3",
+  "sourceURL": "https://ccin.utm.my/",
+  "url": "https://ccin.utm.my/",
+  "statusCode": 200
+}

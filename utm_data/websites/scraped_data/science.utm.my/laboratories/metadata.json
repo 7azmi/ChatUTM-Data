@@ -1,0 +1,17 @@
+{
+  "robots": "max-image-preview:large",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "msapplication-TileImage": "https://science.utm.my/wp-content/uploads/2024/03/cropped-LOGO-UTM-web-270x270.png",
+  "language": "en-US",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "title": "404 Not Found | Faculty of Science, Universiti Teknologi Malaysia",
+  "favicon": "https://science.utm.my/wp-content/uploads/2024/03/cropped-LOGO-UTM-web-32x32.png",
+  "scrapeId": "c2fb44f1-70fb-4b72-a72e-611ccbcc840c",
+  "sourceURL": "https://science.utm.my/laboratories",
+  "url": "https://science.utm.my/laboratories",
+  "statusCode": 404,
+  "error": "Not Found"
+}

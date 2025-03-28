@@ -1,0 +1,17 @@
+{
+  "robots": "max-image-preview:large",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2",
+    "WordPress Download Manager 3.3.11"
+  ],
+  "favicon": "https://business.utm.my/wp-content/uploads/2018/07/cropped-Site-icon-e1533022813143-32x32.png",
+  "language": "en-US",
+  "title": "DBA | Azman Hashim International Business School",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "msapplication-TileImage": "https://business.utm.my/wp-content/uploads/2018/07/cropped-Site-icon-e1533022813143-270x270.png",
+  "scrapeId": "a2969164-712b-480a-8083-f58b3e0ed834",
+  "sourceURL": "https://business.utm.my/dba",
+  "url": "https://business.utm.my/dba",
+  "statusCode": 200
+}

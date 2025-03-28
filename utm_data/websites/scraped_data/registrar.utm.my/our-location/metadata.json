@@ -1,0 +1,16 @@
+{
+  "language": "en-US",
+  "robots": "max-image-preview:large",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "favicon": "https://registrar.utm.my/wp-content/uploads/2020/08/cropped-UTMsiteicon-32x32.png",
+  "title": "Lokasi Kami | Jabatan Pendaftar",
+  "msapplication-TileImage": "https://registrar.utm.my/wp-content/uploads/2020/08/cropped-UTMsiteicon-270x270.png",
+  "scrapeId": "94dbcafa-2581-420e-923d-5284817aa872",
+  "sourceURL": "https://registrar.utm.my/our-location",
+  "url": "https://registrar.utm.my/our-location",
+  "statusCode": 200
+}

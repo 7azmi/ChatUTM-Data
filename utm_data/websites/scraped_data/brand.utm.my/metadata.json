@@ -1,0 +1,16 @@
+{
+  "msapplication-TileImage": "https://brand.utm.my/wp-content/uploads/sites/21/2020/08/cropped-UTMsiteicon-270x270.png",
+  "robots": "max-image-preview:large",
+  "favicon": "https://brand.utm.my/wp-content/uploads/sites/21/2020/08/cropped-UTMsiteicon-32x32.png",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "title": "UTM Brand | Universiti Teknologi Malaysia",
+  "language": "en-US",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "scrapeId": "3571a2d0-0aa2-4935-a361-dc53e93aa4a9",
+  "sourceURL": "https://brand.utm.my/",
+  "url": "https://brand.utm.my/",
+  "statusCode": 200
+}

@@ -1,0 +1,15 @@
+{
+  "tec-api-version": "v1",
+  "tec-api-origin": "https://fai.utm.my",
+  "generator": "WordPress 6.7.2",
+  "viewport": "width=device-width, initial-scale=1",
+  "title": "Contact – FACULTY  OF ARTIFICIAL INTELLIGENCE",
+  "robots": "max-image-preview:large",
+  "language": "en-US",
+  "favicon": "https://fai.utm.my/wp-content/uploads/2024/01/cropped-logo-utm-icon-web-32x32.png",
+  "msapplication-TileImage": "https://fai.utm.my/wp-content/uploads/2024/01/cropped-logo-utm-icon-web-270x270.png",
+  "scrapeId": "429577e6-7777-4aef-9536-502d2cfff37a",
+  "sourceURL": "https://fai.utm.my/contact",
+  "url": "https://fai.utm.my/contact",
+  "statusCode": 200
+}

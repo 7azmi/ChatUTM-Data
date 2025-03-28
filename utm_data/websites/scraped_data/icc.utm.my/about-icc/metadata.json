@@ -1,0 +1,16 @@
+{
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "msapplication-TileImage": "https://icc.utm.my/wp-content/uploads/sites/2/2023/03/cropped-cropped-UTMsiteicon-1-270x270.png",
+  "robots": "max-image-preview:large",
+  "language": "en-US",
+  "favicon": "https://icc.utm.my/wp-content/uploads/sites/2/2023/03/cropped-cropped-UTMsiteicon-1-32x32.png",
+  "title": "About us | ICC",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "scrapeId": "14fd2d21-c3a6-4fd5-8ec1-ffc73151eddf",
+  "sourceURL": "https://icc.utm.my/about-icc",
+  "url": "https://icc.utm.my/about-icc",
+  "statusCode": 200
+}

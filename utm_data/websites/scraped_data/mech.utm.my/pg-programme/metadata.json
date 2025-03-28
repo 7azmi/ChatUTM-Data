@@ -1,0 +1,17 @@
+{
+  "favicon": "https://mech.utm.my/wp-content/uploads/2022/08/cropped-utm_logo-no-wording-32x32.png",
+  "title": "Postgraduate Programme | Faculty of Mechanical Engineering",
+  "language": "en-US",
+  "robots": "max-image-preview:large",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2",
+    "Elementor 3.28.0; features: e_font_icon_svg, additional_custom_breakpoints, e_local_google_fonts; settings: css_print_method-external, google_font-enabled, font_display-auto"
+  ],
+  "msapplication-TileImage": "https://mech.utm.my/wp-content/uploads/2022/08/cropped-utm_logo-no-wording-270x270.png",
+  "scrapeId": "62439a2e-d2e6-4186-8cd8-c46bc218039a",
+  "sourceURL": "https://mech.utm.my/pg-programme",
+  "url": "https://mech.utm.my/pg-programme",
+  "statusCode": 200
+}

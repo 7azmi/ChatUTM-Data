@@ -1,0 +1,9 @@
+{
+  "title": "Jabatan Pendaftar",
+  "language": "en-US",
+  "scrapeId": "07b7889d-b1b3-44c7-843c-c73b6ef574b7",
+  "sourceURL": "https://registrar.utm.my/polisiutm",
+  "url": "https://registrar.utm.my/polisiutm",
+  "statusCode": 410,
+  "error": "Gone"
+}

@@ -1,0 +1,20 @@
+{
+  "tec-api-version": "v1",
+  "robots": "max-image-preview:large",
+  "title": "ug timetable – Faculty of Computing",
+  "generator": [
+    "WordPress 6.7.2",
+    "Site Kit by Google 1.148.0",
+    "Elementor 3.27.7; settings: css_print_method-external, google_font-enabled, font_display-swap"
+  ],
+  "favicon": "https://comp.utm.my/wp-content/uploads/2024/03/cropped-logo-1-32x32.png",
+  "tec-api-origin": "https://comp.utm.my",
+  "viewport": "width=device-width, initial-scale=1",
+  "language": "en-US",
+  "google-site-verification": "ZhHSQf7AiJGZKOSoiMju-i7isKiVluaMqA_hEqw5rN4",
+  "msapplication-TileImage": "https://comp.utm.my/wp-content/uploads/2024/03/cropped-logo-1-270x270.png",
+  "scrapeId": "7f84a5f0-5766-40ea-8751-72fc6767bc6d",
+  "sourceURL": "https://comp.utm.my/ug-timetable",
+  "url": "https://comp.utm.my/ug-timetable",
+  "statusCode": 200
+}

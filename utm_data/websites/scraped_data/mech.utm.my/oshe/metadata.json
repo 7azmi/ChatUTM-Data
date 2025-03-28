@@ -1,0 +1,17 @@
+{
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2",
+    "Elementor 3.28.0; features: e_font_icon_svg, additional_custom_breakpoints, e_local_google_fonts; settings: css_print_method-external, google_font-enabled, font_display-auto"
+  ],
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "language": "en-US",
+  "robots": "max-image-preview:large",
+  "title": "OSHE | Faculty of Mechanical Engineering",
+  "favicon": "https://mech.utm.my/wp-content/uploads/2022/08/cropped-utm_logo-no-wording-32x32.png",
+  "msapplication-TileImage": "https://mech.utm.my/wp-content/uploads/2022/08/cropped-utm_logo-no-wording-270x270.png",
+  "scrapeId": "6b97233b-47ce-4852-8872-c9b97fcb186d",
+  "sourceURL": "https://mech.utm.my/oshe",
+  "url": "https://mech.utm.my/oshe",
+  "statusCode": 200
+}

@@ -1,0 +1,16 @@
+{
+  "favicon": "https://science.utm.my/wp-content/uploads/2024/03/cropped-LOGO-UTM-web-32x32.png",
+  "robots": "max-image-preview:large",
+  "language": "en-US",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "msapplication-TileImage": "https://science.utm.my/wp-content/uploads/2024/03/cropped-LOGO-UTM-web-270x270.png",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "title": "Faculty of Science, Universiti Teknologi Malaysia | ...where great minds are nurtured",
+  "scrapeId": "aa8bd94b-4d46-47e2-bccf-95ee4b65d41b",
+  "sourceURL": "https://science.utm.my/",
+  "url": "https://science.utm.my/",
+  "statusCode": 200
+}

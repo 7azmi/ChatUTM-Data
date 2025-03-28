@@ -1,0 +1,19 @@
+{
+  "tec-api-version": "v1",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "favicon": "https://fkt.utm.my/wp-content/uploads/2019/12/cropped-UTM-Icon-32x32.png",
+  "tec-api-origin": "https://fkt.utm.my",
+  "language": "en-US",
+  "robots": "max-image-preview:large",
+  "title": "Bachelor of Engineering (Chemical-Gas) | Faculty of Chemical & Energy Engineering",
+  "msapplication-TileImage": "https://fkt.utm.my/wp-content/uploads/2019/12/cropped-UTM-Icon-270x270.png",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2",
+    "Elementor 3.28.1; features: additional_custom_breakpoints, e_local_google_fonts; settings: css_print_method-external, google_font-enabled, font_display-auto"
+  ],
+  "scrapeId": "fd3389f0-7d78-4126-8e1f-07b4af4e4afc",
+  "sourceURL": "https://fkt.utm.my/bachelor-of-chemical-gas-2",
+  "url": "https://fkt.utm.my/bachelor-of-chemical-gas-2",
+  "statusCode": 200
+}

@@ -1,0 +1,17 @@
+{
+  "title": "About | Faculty of Social Sciences and Humanities",
+  "favicon": "https://humanities.utm.my/wp-content/uploads/2021/01/cropped-UTMsiteicon-32x32.png",
+  "msapplication-TileImage": "https://humanities.utm.my/wp-content/uploads/2021/01/cropped-UTMsiteicon-270x270.png",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "language": "en-US",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2",
+    "Elementor 3.28.1; features: additional_custom_breakpoints, e_local_google_fonts; settings: css_print_method-external, google_font-enabled, font_display-swap"
+  ],
+  "robots": "max-image-preview:large",
+  "scrapeId": "63de8f36-9071-4b9d-a621-25e7c7e79817",
+  "sourceURL": "https://humanities.utm.my/about",
+  "url": "https://humanities.utm.my/about",
+  "statusCode": 200
+}

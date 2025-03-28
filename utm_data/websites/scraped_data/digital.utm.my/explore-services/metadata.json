@@ -1,0 +1,17 @@
+{
+  "msapplication-TileImage": "https://digital.utm.my/wp-content/uploads/2021/03/cropped-UTM-LOGO-270x270.png",
+  "title": "Explore services | UTMDigital",
+  "favicon": "https://digital.utm.my/wp-content/uploads/2021/03/cropped-UTM-LOGO-32x32.png",
+  "language": "en-US",
+  "robots": "max-image-preview:large",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "description": "  Our Services Digital Care Block D07 Department of Digital Services Universiti Teknologi Malaysia 81310 UTM Johor Bahru Johor Darul Takzim, Malaysia S ...",
+  "scrapeId": "1dac55e1-0cef-49bc-9ec8-02f42b57b31a",
+  "sourceURL": "https://digital.utm.my/explore-services",
+  "url": "https://digital.utm.my/explore-services",
+  "statusCode": 200
+}

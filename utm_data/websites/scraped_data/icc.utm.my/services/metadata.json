@@ -1,0 +1,16 @@
+{
+  "msapplication-TileImage": "https://icc.utm.my/wp-content/uploads/sites/2/2023/03/cropped-cropped-UTMsiteicon-1-270x270.png",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "language": "en-US",
+  "robots": "max-image-preview:large",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "favicon": "https://icc.utm.my/wp-content/uploads/sites/2/2023/03/cropped-cropped-UTMsiteicon-1-32x32.png",
+  "title": "Services | ICC",
+  "scrapeId": "54a6023d-a44c-4056-a341-197a0e3aa430",
+  "sourceURL": "https://icc.utm.my/services",
+  "url": "https://icc.utm.my/services",
+  "statusCode": 200
+}

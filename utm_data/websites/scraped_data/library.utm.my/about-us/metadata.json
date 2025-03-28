@@ -1,0 +1,16 @@
+{
+  "title": "About Us | UTM Library",
+  "msapplication-TileImage": "https://library.utm.my/wp-content/uploads/2021/09/cropped-UTMsiteicon-270x270.png",
+  "language": "en-US",
+  "generator": [
+    "Divi v.4.27.4",
+    "WordPress 6.7.2"
+  ],
+  "robots": "max-image-preview:large",
+  "favicon": "https://library.utm.my/wp-content/uploads/2021/09/cropped-UTMsiteicon-32x32.png",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "scrapeId": "cbc88dc5-bd78-4a7e-91ad-99c80767675d",
+  "sourceURL": "https://library.utm.my/about-us",
+  "url": "https://library.utm.my/about-us",
+  "statusCode": 200
+}
