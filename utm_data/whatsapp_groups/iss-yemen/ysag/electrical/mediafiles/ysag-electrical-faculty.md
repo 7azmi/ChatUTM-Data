@@ -11,6 +11,7 @@ Someone mentioned someone took a class with her and said she is very kind to int
 ### Date
 2021-03-15
 
+
 ### Lecturer Information
 - **Name**: Che Lokman Bin Jaafar
 - **Courses**: Mechanics
@@ -25,6 +26,7 @@ Multiple people strongly advise against taking his class, citing terrible explan
 
 ### Date
 2021-03-18
+
 
 ### Lecturer Information
 - **Name**: Mohd Fua'ad Bin Rahmat
@@ -41,6 +43,7 @@ He is considered a good advisor, provides good explanations, and is fair in grad
 ### Date
 2021-03-18
 
+
 ### Lecturer Information
 - **Name**: Dr. Zahra
 
@@ -53,6 +56,7 @@ A user is looking for her videos related to electronic systems.
 ### Date
 2021-03-18
 
+
 ### Lecturer Information
 - **Name**: Noor Aireen Binti Ibrahim
 
@@ -61,6 +65,7 @@ Someone requested information about her, but no reviews were provided.
 
 ### Date
 2021-03-17
+
 
 ### Lecturer Information
 - **Name**: Unknown Numerical lecturer
@@ -77,6 +82,7 @@ A user claimed this lecturer doesn't explain well. However, the lecturer replace
 
 ---
 
+
 ### Lecturer Information
 - **Name**: Abu Sahmah bin Mohd Supaat
 
@@ -91,6 +97,7 @@ No review content provided.
 
 ### Date
 2021-03-20
+
 
 ### Lecturer Information
 - **Name**: Arnidza
@@ -107,6 +114,7 @@ No review content provided.
 ### Date
 2021-03-23
 
+
 ### Lecturer Information
 - **Name**: Siti Khadijah
 
@@ -122,6 +130,7 @@ Considered a good lecturer for English 3.
 ### Date
 2021-03-30
 
+
 ### Lecturer Information
 - **Name**: Razman
 
@@ -136,6 +145,7 @@ Considered very respectful as a supervisor.
 
 ### Date
 2021-03-31
+
 ### Lecturer Information
 - **Name**: زهرة (Zahra)
 
@@ -144,6 +154,7 @@ Someone is asking about electronic systems with Dr. Zahra.
 
 ### Date
 2021-04-04
+
 
 ### Lecturer Information
 - **Name**: حفيظ (Hafez)
@@ -154,6 +165,7 @@ Someone is asking for Dr. Hafez's email and phone number. The email and phone nu
 
 ### Date
 2021-04-05
+
 
 ### Lecturer Information
 - **Name**: Rashidah Arsat
@@ -167,6 +179,7 @@ Contact card attachment
 ### Date
 2021-04-05
 
+
 ### Lecturer Information
 - **Name**: Mohammad Saiful Azimi
 - **Name**: Khairul Hamimah Bit Abbas
@@ -177,6 +190,7 @@ Someone is asking for Dr. Mohammad Saiful Azimi's number but clarifies it's not 
 ### Date
 2021-04-13
 
+
 ### Lecturer Information
 - **Name**: Zulfikri
 
@@ -185,6 +199,7 @@ Someone is asking for Dr. Zulfikri's number.
 
 ### Date
 2021-04-28
+
 ### Lecturer Information
 - **Name**: Tarun Sukhani
 
@@ -200,6 +215,7 @@ YSAG is publishing a series of videos to help students.
 
 ### Date
 2021-05-23
+
 
 ### Lecturer Information
 - **Name**: Omar Mohsen
@@ -220,6 +236,7 @@ YSAG is publishing a series of videos.
 2021-05-28
 No reviews found.
 Skipping due to lack of review content and lecturer name.
+
 ### Lecturer Information
 - **Name**: Herman
 - **Contact**: herman@utm.my
@@ -234,6 +251,7 @@ Someone is asking for Dr. Herman's email. Another person provided the email addr
 ### Date
 2024-01-06
 
+
 ### Lecturer Information
 - **Name**: Mohd Ridzuan bin Ahmad (Assoc. Prof Ir. Dr. )
 
@@ -246,6 +264,7 @@ Someone is asking for the email address of Dr. Mohd Ridzuan bin Ahmad and someon
 
 ### Date
 2024-01-08
+
 
 ### Lecturer Information
 - **Name**: Labeeb Al-Sayyad
@@ -262,6 +281,7 @@ YSAG in the Yemeni Union and the Academic Committee in the Sudanese Union at UTM
 ### Date
 2024-01-30
 
+
 ### Lecturer Information
 - **Name**: Dr Wan
 
@@ -273,6 +293,7 @@ Someone is asking for numerical videos besides Dr Wan's.
 
 ### Date
 2024-01-27
+
 
 ### Lecturer Information
 - **Name**: Nurzal Effiyana Ghazali
@@ -286,6 +307,7 @@ The attachment is a photo with names of lecturers.
 
 ### Date
 2024-01-07
+
 ### Lecturer Information
 - **Name**: شكري (Shukri)
 
@@ -297,6 +319,7 @@ A student is requesting Dr. Shukri's number.
 
 ### Date
 2024-02-27
+
 ### Lecturer Information
 - **Name**: Mohd Saiful
 - **Courses**: Mechatronics System Design
@@ -307,6 +330,7 @@ Preferred over Mohd Shukri for Mechatronics System Design.
 ### Date
 2024-03-13
 
+
 ### Lecturer Information
 - **Name**: Sharul Kamal bin Abdul Rahim
 
@@ -315,6 +339,7 @@ Unknown.
 
 ### Date
 2024-03-15
+
 
 ### Lecturer Information
 - **Name**: Machine Vision System lecturer (name not provided)
@@ -330,6 +355,7 @@ Strict on attendance, requires theoretical answers to be exactly as in the slide
 ### Date
 2024-03-15
 
+
 ### Lecturer Information
 - **Name**: Unknown
 
@@ -342,6 +368,7 @@ Bad lecturer with bad marking. Avoid him.
 
 ### Date
 2024-03-15
+
 
 ### Lecturer Information
 - **Name**: Numerical lecturer (name not provided)
@@ -357,6 +384,7 @@ Good lecturer, excellent explanation, fair marking, tries to help.
 ### Date
 2024-03-16
 
+
 ### Lecturer Information
 - **Name**: Amirjan
 
@@ -370,6 +398,7 @@ Good explanation and good grades.
 ### Date
 2024-03-17
 
+
 ### Lecturer Information
 - **Name**: Mohamad bin Rijal
 
@@ -378,6 +407,7 @@ Question about whether he is good.
 
 ### Date
 2024-03-17
+
 
 ### Lecturer Information
 - **Name**: DSP Lecturer (name not provided)
@@ -388,6 +418,7 @@ Question about the lecturer's quality.
 ### Date
 2024-03-17
 
+
 ### Lecturer Information
 - **Name**: Zeid Bin Omar
 
@@ -396,6 +427,7 @@ Considered the best DSP lecturer.
 
 ### Date
 2024-03-17
+
 
 ### Lecturer Information
 - **Name**: Zuhrah Junaida Husny Hamid
@@ -412,6 +444,7 @@ Strict on attendance, firm with grades, doesn't tolerate late submissions, very 
 ### Date
 2024-03-18
 
+
 ### Lecturer Information
 - **Name**: C Programming Lecturers (Zaharuddin, Mohammed Fouad, Hariman)
 
@@ -420,6 +453,7 @@ Hariman is preferred.
 
 ### Date
 2024-03-18
+
 
 ### Lecturer Information
 - **Name**: Nurul Adilla
@@ -430,6 +464,7 @@ Recommended.
 ### Date
 2024-03-18
 
+
 ### Lecturer Information
 - **Name**: Muhamad Fadli bin Ghani
 
@@ -438,6 +473,7 @@ Recommended
 
 ### Date
 2024-03-18
+
 
 ### Lecturer Information
 - **Name**: New BioMedical Lecturer (name not provided)
@@ -452,6 +488,7 @@ First semester teaching. Previously taught digital electronics. Not reliable for
 
 ### Date
 2024-03-18
+
 
 ### Lecturer Information
 - **Name**: Badlihisham Mohd Nasir
@@ -468,6 +505,7 @@ Strict on attendance, but understanding. Good with assignments and gives fair gr
 ### Date
 2024-03-18
 
+
 ### Lecturer Information
 - **Name**: Lecturers Teaching Math (name not provided)
 
@@ -482,6 +520,7 @@ Spoke Malaysian at first but then changed. Explanation is normal and acceptable.
 ### Date
 2024-03-18
 
+
 ### Lecturer Information
 - **Name**: EMT Lecturer (name not provided)
 
@@ -490,6 +529,7 @@ Not good.
 
 ### Date
 2024-03-19
+
 
 ### Lecturer Information
 - **Name**: EMT Lecturer (name not provided)
@@ -504,6 +544,7 @@ Kind lecturer and good explanation, gives fair grades.
 
 ### Date
 2024-03-19
+
 
 ### Lecturer Information
 - **Name**: Microprocessor Lecturer (name not provided)
@@ -522,6 +563,7 @@ Very good, kind and easy to deal with. Good grades and lenient with assignments.
 ### Date
 2024-03-19
 
+
 ### Lecturer Information
 - **Name**: New Circuit Analysis Lecturer (name not provided)
 
@@ -537,6 +579,7 @@ Very respectful, helps, good explanation and understanding.
 ### Date
 2024-03-19
 
+
 ### Lecturer Information
 - **Name**: Nur Arina
 
@@ -550,6 +593,7 @@ Focuses on attendance. Bad explanation. Good grades.
 
 ### Date
 2024-03-20
+
 
 ### Lecturer Information
 - **Name**: Siti Mariam
@@ -567,6 +611,7 @@ Excellent explanation, kind, very attentive to attendance, fair and helpful grad
 ### Date
 2024-03-20
 
+
 ### Lecturer Information
 - **Name**: Adina Najwa Kamarudin
 
@@ -575,6 +620,7 @@ Question about lecturer's quality.
 
 ### Date
 2024-03-20
+
 
 ### Lecturer Information
 - **Name**: Unknown Signal lecturer (name not provided)
@@ -590,6 +636,7 @@ Kind lecturer but doesn't know how to explain, doesn't care about the course.
 ### Date
 2024-03-20
 
+
 ### Lecturer Information
 - **Name**: Unknown lecturer
 
@@ -604,6 +651,7 @@ Does not know how to explain, previously taught hydraulics where exams are copy-
 ### Date
 2024-03-21
 
+
 ### Lecturer Information
 - **Name**: Ken K.Y. Wong
 
@@ -612,6 +660,7 @@ Recommended for excel.
 
 ### Date
 2024-03-24
+
 
 ### Lecturer Information
 - **Name**: Dr. Khadijah
@@ -622,6 +671,7 @@ excel doctor
 ### Date
 2024-03-24
 
+
 ### Lecturer Information
 - **Name**: Nor Azman bin Ismail
 
@@ -630,6 +680,7 @@ Excellent.
 
 ### Date
 2024-03-24
+
 
 ### Lecturer Information
 - **Name**: Abdul Rashid
@@ -641,6 +692,7 @@ Good explanation and grades.
 2024-03-20
 
 ---
+
 
 ### Lecturer Information
 - **Name**: Abdelrahman Eltayeb
@@ -657,6 +709,7 @@ Not Available
 ### Date
 2024-03-24
 
+
 ### Lecturer Information
 - **Name**: Zaid
 
@@ -671,6 +724,7 @@ Not Available
 
 ### Date
 2024-03-24
+
 
 ### Lecturer Information
 - **Name**: Shazirawati Mohd Puzi
@@ -691,6 +745,7 @@ Not Available
 ### Date
 2024-03-25
 
+
 ### Lecturer Information
 - **Name**: EN NASARUDIN BIN AHMAD
 
@@ -705,6 +760,7 @@ Contact card attached
 
 ### Date
 2024-03-25
+
 
 ### Lecturer Information
 - **Name**: Unknown
@@ -722,6 +778,7 @@ Course: circuit analysis
 ### Date
 2024-03-25
 
+
 ### Lecturer Information
 - **Name**: Osman Bin Ayop
 
@@ -736,6 +793,7 @@ Not Available
 
 ### Date
 2024-03-27
+
 
 ### Lecturer Information
 - **Name**: Unknown
@@ -756,6 +814,7 @@ Course: Microprocessor
 ### Date
 2024-03-27
 
+
 ### Lecturer Information
 - **Name**: Unknown
 
@@ -773,6 +832,7 @@ Course: Introduction to Electrical Engineering, elective
 ### Date
 2024-03-27
 
+
 ### Lecturer Information
 - **Name**: Unknown
 
@@ -788,6 +848,7 @@ Course: devices electronic
 
 ### Date
 2024-03-27
+
 
 ### Lecturer Information
 - **Name**: Unknown
@@ -806,6 +867,7 @@ Not Available
 ### Date
 2024-03-26
 
+
 ### Lecturer Information
 - **Name**: Unknown
 
@@ -822,6 +884,7 @@ Taking lab
 
 ### Date
 2024-03-27
+
 
 ### Lecturer Information
 - **Name**: Unknown
@@ -841,6 +904,7 @@ Statistics
 ### Date
 2024-03-28
 
+
 ### Lecturer Information
 - **Name**: Unknown
 
@@ -855,6 +919,7 @@ Not Available
 
 ### Date
 2024-03-29
+
 
 ### Lecturer Information
 - **Name**: rohaya
@@ -872,6 +937,7 @@ English 2
 
 ### Date
 2024-03-30
+
 
 ### Lecturer Information
 - **Name**: Unknown
@@ -894,6 +960,7 @@ English 2
 ### Date
 2024-03-30
 
+
 ### Lecturer Information
 - **Name**: siti rahma
 
@@ -908,6 +975,7 @@ Not Available
 
 ### Date
 2024-03-30
+
 
 ### Lecturer Information
 - **Name**: Abid
@@ -924,6 +992,7 @@ Not Available
 ### Date
 2024-03-31
 
+
 ### Lecturer Information
 - **Name**: Shalini
 
@@ -939,6 +1008,7 @@ Not Available
 ### Date
 2024-03-31
 
+
 ### Lecturer Information
 - **Name**: Ts. Dr. Noor Azlinda Binti Ahmad
 
@@ -953,6 +1023,7 @@ Not Available
 
 ### Date
 2024-03-31
+
 ### Lecturer Information
 - **Name**: Dr. Mohamed Amir bin Shamsudin
 
@@ -962,12 +1033,14 @@ Someone is asking for Dr. Mohamed Amir bin Shamsudin's contact number.
 ### Date
 2024-01-04
 
+
 ### Lecturer Information
 - **Name**: Nur Arina
 - **Contact**: +60176962029
 
 ### Date
 2024-01-04
+
 
 ### Lecturer Information
 - **Name**: محمد شكري عبدالمناف (Mohamed Shukri Abdul Manaf)
@@ -979,6 +1052,7 @@ Someone is asking for Dr. Mohamed Shukri Abdul Manaf's contact number, who teach
 ### Date
 2024-01-04
 
+
 ### Lecturer Information
 - **Name**: Amirjan
 
@@ -988,6 +1062,7 @@ Someone is asking for Amirjan's contact number.
 ### Date
 2024-03-04
 
+
 ### Lecturer Information
 - **Name**: PROF. IR. DR. ZAHARUDDIN BIN MOHAMED
 
@@ -996,6 +1071,7 @@ Someone is asking for PROF. IR. DR. ZAHARUDDIN BIN MOHAMED's contact number.
 
 ### Date
 2024-04-04
+
 
 ### Lecturer Information
 - **Name**: لقمان (Luqman)
@@ -1007,6 +1083,7 @@ Some people heard Luqman is good. Zayed is also mentioned.
 ### Date
 2024-07-04
 
+
 ### Lecturer Information
 - **Name**: نعيمة (Naima)
 - **Courses**: Professional Communication Skills
@@ -1016,6 +1093,7 @@ Someone is asking for Naima's number or email. Naima engages students a lot, but
 
 ### Date
 2024-07-04
+
 
 ### Lecturer Information
 - **Name**: DR. MOHAMAD RIJAL BIN HAMID
@@ -1027,6 +1105,7 @@ Someone is asking for DR. MOHAMAD RIJAL BIN HAMID's number, who teaches signals 
 ### Date
 2024-07-04
 
+
 ### Lecturer Information
 - **Name**: Hazlina Selamat
 
@@ -1035,6 +1114,7 @@ Someone is looking for Hazlina Selamat's contact number. Someone else only has h
 
 ### Date
 2024-09-04
+
 
 ### Lecturer Information
 - **Name**: DR. MUHAMMAD AL-FARABI BIN BAHARUDIN
@@ -1046,6 +1126,7 @@ Someone is asking about Dr. Muhammad Al-Farabi Bin Baharudin's explanation and g
 ### Date
 2024-04-15
 
+
 ### Lecturer Information
 - **Name**: Mohamed Rijal Hammid
 
@@ -1055,12 +1136,14 @@ Someone is asking for Mohamed Rijal Hammid's number.
 ### Date
 2024-04-17
 
+
 ### Lecturer Information
 - **Name**: Dr Zuraimy
 - **Contact**: +6012-7535244
 
 ### Date
 2024-04-18
+
 
 ### Lecturer Information
 - **Name**: HAZLINA BINTI SELAMAT
@@ -1071,6 +1154,7 @@ Someone is asking for DR HAZLINA BINTI SELAMAT's number.
 ### Date
 2024-04-22
 
+
 ### Lecturer Information
 - **Name**: Prof. Madya Ir. Ts. Dr. Nasrul Humaimi Bin Mahmood
 - **Contact**: 019-701 3268
@@ -1080,6 +1164,7 @@ Someone is asking for Prof. Madya Ir. Ts. Dr. Nasrul Humaimi Bin Mahmood's email
 
 ### Date
 2024-04-29
+
 ### Lecturer Information
 - **Name**: Dr. Zaharah Binti Johari
 
@@ -1088,6 +1173,7 @@ Someone is asking for Dr. Zaharah Binti Johari's contact number.
 
 ### Date
 2024-05-04
+
 
 ### Lecturer Information
 - **Name**: Dr. Ahmed Ridhwan
@@ -1101,6 +1187,7 @@ Someone is asking for Dr. Ahmed Ridhwan's contact number and someone mentions th
 ### Date
 2024-05-04
 
+
 ### Lecturer Information
 - **Name**: Dr. kumaresan
 
@@ -1109,6 +1196,7 @@ Someone is asking for Dr. Kumaresan's contact number.
 
 ### Date
 2024-05-09
+
 
 ### Lecturer Information
 - **Name**: Dr. Herman
@@ -1122,6 +1210,7 @@ Someone recommends watching Dr. Herman's videos for control systems explanations
 
 ### Date
 2024-05-13
+
 ### Lecturer Information
 - **Name**: Abdullah Al-Shateri
 - **Courses**: Not mentioned
@@ -1139,6 +1228,7 @@ The discussion is regarding whether there is a holiday or if classes will be onl
 
 ### Date
 2024-11-30
+
 ### Lecturer Information
 - **Name**: Dr. Norazmein Bin Abdul Raman (En)
 - **Contact**: Number requested
@@ -1149,6 +1239,7 @@ A student is looking for Dr. Norazmein's contact number.
 ### Date
 2024-12-10
 
+
 ### Lecturer Information
 - **Name**: Dr. Siti Ruzita Binti Mahmod
 
@@ -1157,6 +1248,7 @@ A student is looking for Dr. Siti Ruzita's number, another student provided it.
 
 ### Date
 2024-12-11
+
 
 ### Lecturer Information
 - **Name**: Dr. Noorhazira Binti Sunar
@@ -1168,6 +1260,7 @@ A student is looking for the location of Dr. Noorhazira's office, another studen
 2024-12-23
 
 ---
+
 
 ### Lecturer Information
 - **Name**: انس عامر
@@ -1182,6 +1275,7 @@ Review session for Digital Electronics Systems by انس عامر is happening o
 
 ### Date
 2024-12-31
+
 ### Lecturer Information
 - **Name**: Shahidatul
 - **Courses**: SKEE3223
@@ -1191,6 +1285,7 @@ Solution to SKEE3223 20202021 TEST2 by Shahidatul is available.
 
 ### Date
 2023-01-04
+
 
 ### Lecturer Information
 - **Name**: Mohammed Rashidi
@@ -1204,6 +1299,7 @@ Dr. Mohammed Rashidi will conduct a review session before the final exam for EMT
 ### Date
 2023-01-11
 
+
 ### Lecturer Information
 - **Name**: ذو الفقار (Zulfakar)
 
@@ -1213,6 +1309,7 @@ Avoid Zulfakar.
 ### Date
 2023-01-13
 
+
 ### Lecturer Information
 - **Name**: منعم (Muneam)
 
@@ -1221,6 +1318,7 @@ Uncertain about Muneam.
 
 ### Date
 2023-01-13
+
 
 ### Lecturer Information
 - **Name**: Asaad
@@ -1234,6 +1332,7 @@ Asaad is okay for Micro, somewhat lenient in grading. His explanation is okay.
 
 ### Date
 2023-01-13
+
 
 ### Lecturer Information
 - **Name**: Tarek Alsaid
@@ -1249,6 +1348,7 @@ Tarek is kind but confusing in his explanations. Grades are based on the answer 
 ### Date
 2023-01-13
 
+
 ### Lecturer Information
 - **Name**: SITI MARIAM
 - **Courses**: SSCE 2193 Statistics
@@ -1259,6 +1359,7 @@ Seeking info about SITI MARIAM for SSCE 2193 Statistics.
 ### Date
 2023-01-14
 
+
 ### Lecturer Information
 - **Name**: NORAZLINA BT ISMAIL
 - **Courses**: SSCE 2193 Statistics
@@ -1268,6 +1369,7 @@ Seeking info about NORAZLINA BT ISMAIL for SSCE 2193 Statistics.
 
 ### Date
 2023-01-14
+
 
 ### Lecturer Information
 - **Name**: HALIZA BT ABD RAHMAN
@@ -1282,6 +1384,7 @@ Haliza is nice but experience with her in differential equations and statistics 
 
 ### Date
 2023-01-14
+
 
 ### Lecturer Information
 - **Name**: SITI ROHANI BINTI MOHD NOR
@@ -1299,6 +1402,7 @@ Avoid Siti Rohani. She is terrible in correcting and teaching. She is also drama
 ### Date
 2023-01-14
 
+
 ### Lecturer Information
 - **Name**: Ain Sabri
 - **Courses**: Statistics
@@ -1308,6 +1412,7 @@ Ain Sabri is good.
 
 ### Date
 2023-01-14
+
 
 ### Lecturer Information
 - **Name**: Herman
@@ -1319,6 +1424,7 @@ For control, look for Dr. Herman.
 ### Date
 2023-01-14
 
+
 ### Lecturer Information
 - **Name**: Fouad
 - **Courses**: Control
@@ -1328,6 +1434,7 @@ For control, look for Dr. Fouad.
 
 ### Date
 2023-01-14
+
 
 ### Lecturer Information
 - **Name**: DR KHAIRUL HAMIMAH BIN ABAS
@@ -1343,6 +1450,7 @@ Dr. Khairul Hamimah is teaching AI. She is nice but doesn't give good grades. Ex
 ### Date
 2023-01-15
 
+
 ### Lecturer Information
 - **Name**: Haniff
 - **Courses**: EMT
@@ -1357,6 +1465,7 @@ Haniff is good at explaining EMT. His correction is very bad.
 ### Date
 2023-01-15
 
+
 ### Lecturer Information
 - **Name**: Siful
 - **Courses**: Engineering Mechanics
@@ -1366,6 +1475,7 @@ Siful is good for Engineering Mechanics.
 
 ### Date
 2023-01-15
+
 
 ### Lecturer Information
 - **Name**: زهير الدين (Zaharuddin)
@@ -1380,6 +1490,7 @@ Zaharuddin's explanation is excellent and fair in grading. He is the best for en
 
 ### Date
 2023-01-15
+
 
 ### Lecturer Information
 - **Name**: Shaharin
@@ -1397,6 +1508,7 @@ Shaharin is the best and should be chosen without hesitation. He is excellent in
 ### Date
 2023-01-15
 
+
 ### Lecturer Information
 - **Name**: Noor Hazirah
 
@@ -1410,6 +1522,7 @@ Noor Hazirah is good in grading but her explanation is weak.
 ### Date
 2023-01-15
 
+
 ### Lecturer Information
 - **Name**: Muhammad Munim
 
@@ -1418,6 +1531,7 @@ Explanation is not good.
 
 ### Date
 2023-01-15
+
 
 ### Lecturer Information
 - **Name**: Fazilah
@@ -1434,6 +1548,7 @@ Fazilah is good. An advisor. Excellent character and good in explanation and cor
 ### Date
 2023-01-15
 
+
 ### Lecturer Information
 - **Name**: Naif
 
@@ -1447,6 +1562,7 @@ Naif is respectable but doesn't seem to know how to explain.
 ### Date
 2023-01-15
 
+
 ### Lecturer Information
 - **Name**: Ismail Bin Ariffin
 
@@ -1455,6 +1571,7 @@ Not recommended.
 
 ### Date
 2023-01-15
+
 
 ### Lecturer Information
 - **Name**: Abu Sahmah Bin Mohd Supa'at
@@ -1469,6 +1586,7 @@ Okay, but his explanation is not that good.
 ### Date
 2023-01-15
 
+
 ### Lecturer Information
 - **Name**: Norlina Binti Paraman
 
@@ -1480,6 +1598,7 @@ Avoid, very strict.
 
 ### Date
 2023-01-15
+
 
 ### Lecturer Information
 - **Name**: Mona Riza Binti Mohd Esa
@@ -1495,6 +1614,7 @@ Great. She is probably the best for this subject. She explains and gives good gr
 ### Date
 2023-01-15
 
+
 ### Lecturer Information
 - **Name**: Chua Tien Han
 
@@ -1509,6 +1629,7 @@ Not good at explaining but nice and lenient in grading.
 2023-01-15
 
 ---
+
 
 ### Lecturer Information
 - **Name**: Shaharin Mad Ayob
@@ -1527,6 +1648,7 @@ Considered a legend. It's recommended to take the course with him and attendance
 ### Date
 2023-01-15
 
+
 ### Lecturer Information
 - **Name**: Noor Al-Asyikin
 
@@ -1540,6 +1662,7 @@ Helpful with grades, but the explanations are not very good.
 ### Date
 2023-01-15
 
+
 ### Lecturer Information
 - **Name**: Zuulfakar
 
@@ -1552,6 +1675,7 @@ Avoid him.
 ### Date
 2023-01-15
 
+
 ### Lecturer Information
 - **Name**: Rahima
 
@@ -1563,6 +1687,7 @@ Kind.
 
 ### Date
 2023-01-15
+
 
 ### Lecturer Information
 - **Name**: Ahmed Atef Nasr El-Din
@@ -1578,6 +1703,7 @@ Recommended due to explanation, treatment, and grades, very excellent.
 ### Date
 2023-01-15
 
+
 ### Lecturer Information
 - **Name**: Redha
 
@@ -1591,6 +1717,7 @@ It's suggested to avoid him. His explanation may be good in power.
 ### Date
 2023-01-15
 
+
 ### Lecturer Information
 - **Name**: Shahdan
 
@@ -1603,6 +1730,7 @@ Good explanation and grades, although inconsistent.
 
 ### Date
 2023-01-15
+
 
 ### Lecturer Information
 - **Name**: Cik
@@ -1619,6 +1747,7 @@ Very, very, very kind. One student found him unpleasant, racist, and spoke Malay
 ### Date
 2023-01-15
 
+
 ### Lecturer Information
 - **Name**: Dr Khairul Hamimah Abas
 - **Contact**: +60 12-700 5316
@@ -1631,6 +1760,7 @@ Contact number provided.
 
 ### Date
 2023-01-16
+
 
 ### Lecturer Information
 - **Name**: Anita
@@ -1647,6 +1777,7 @@ Considered the best and recommended for cooperation and grades. Is sweet, with e
 ### Date
 2023-01-16
 
+
 ### Lecturer Information
 - **Name**: Salahuddin
 
@@ -1658,6 +1789,7 @@ Mentioned as an alternative to Anita.
 
 ### Date
 2023-01-17
+
 
 ### Lecturer Information
 - **Name**: Lio
@@ -1671,6 +1803,7 @@ Mentioned as an alternative to Anita and Salahuddin.
 ### Date
 2023-01-17
 
+
 ### Lecturer Information
 - **Name**: Zaher Eldin
 
@@ -1682,6 +1815,7 @@ Legend.
 
 ### Date
 2023-01-17
+
 
 ### Lecturer Information
 - **Name**: Dr Yusmeeeraz Binti Yusof
@@ -1700,6 +1834,7 @@ Excellent, kind, and moral.
 ### Date
 2023-01-16
 
+
 ### Lecturer Information
 - **Name**: Norlina Binti Paraman
 - **Contact**: 075535893, pnorlina@utm.my
@@ -1715,6 +1850,7 @@ She is kind, but speaks Malaysian often. Grades are unknown (as they haven't bee
 ### Date
 2023-01-18
 
+
 ### Lecturer Information
 - **Name**: Hazlina
 
@@ -1729,6 +1865,7 @@ Explanation is almost zero, but she is very kind. Some say she's great and good 
 ### Date
 2023-01-18
 
+
 ### Lecturer Information
 - **Name**: Ts. Ahmad Ridhwan Bin Wahap
 
@@ -1740,6 +1877,7 @@ He has a bad personality, based on multiple reports.
 
 ### Date
 2023-01-19
+
 
 ### Lecturer Information
 - **Name**: Mr Zaki
@@ -1756,6 +1894,7 @@ Mentioned as a friend.
 
 ---
 
+
 ### Lecturer Information
 - **Name**: Dr Ang Tau Keong
 - **Courses**: Engineering Mathematics I
@@ -1768,6 +1907,7 @@ Dr. Ang Tau Keong is mentioned as a lecturer for Engineering Mathematics I, for 
 
 ### Date
 2023-01-29
+
 
 ### Lecturer Information
 - **Name**: Dr Lim Yeou Jiann
@@ -1782,6 +1922,7 @@ Dr. Lim Yeou Jiann is mentioned as a lecturer for Engineering Mathematics II, fo
 ### Date
 2023-01-29
 
+
 ### Lecturer Information
 - **Name**: Dr Mohd Ariff Admon
 - **Courses**: Differential Equations
@@ -1794,6 +1935,7 @@ Dr. Mohd Ariff Admon is mentioned as a lecturer for Differential Equations, for 
 
 ### Date
 2023-01-29
+
 
 ### Lecturer Information
 - **Name**: [Lecturer name not provided]
@@ -1816,6 +1958,7 @@ The lecturer is considered kind, lenient in grading, and has a good attitude. Ea
 
 ### Date
 2023-01-24
+
 ### Lecturer Information
 - **Name**: Ahmad Ridhwan Wahap
 
@@ -1824,6 +1967,7 @@ Someone is asking for Ahmad Ridhwan Wahap's email.
 
 ### Date
 2023-02-08
+
 
 ### Lecturer Information
 - **Name**: Encik Izam Bin Kamisian
@@ -1836,6 +1980,7 @@ Includes a picture of Encik Izam Bin Kamisian.
 
 ### Date
 2023-02-28
+
 ### Lecturer Information
 - **Name**: Di
 - **Name**: Advisor (mentioned in attached image)
@@ -1852,6 +1997,7 @@ Comments refer to FYP advisor. Picture included with message, shows list of lect
 ### Date
 2023-03-12
 
+
 ### Lecturer Information
 - **Name**: BADLIHISHAM BIN MOHD NASIR
 
@@ -1866,6 +2012,7 @@ He was considered good and doesn't bother with the material. He is also lenient 
 ### Date
 2023-03-15
 
+
 ### Lecturer Information
 - **Name**: Tuan Haji Mohamad Shukri Abdul Manaf
 
@@ -1877,6 +2024,7 @@ One person mentioned "lost in another planet".
 
 ### Date
 2023-03-17
+
 
 ### Lecturer Information
 - **Name**: Jafri
@@ -1892,6 +2040,7 @@ Someone mentioned he is bio-medical and has moments, so it is better to avoid hi
 ### Date
 2023-03-17
 
+
 ### Lecturer Information
 - **Name**: Zaid bin Omar
 
@@ -1905,6 +2054,7 @@ He has a good explanation and doesn't mistreat you on grades.
 ### Date
 2023-03-17
 
+
 ### Lecturer Information
 - **Name**: (Unnamed female lecturer, for Signal course)
 
@@ -1917,6 +2067,7 @@ Explanation is good, but strict in grading. It is advised to take the Statistics
 
 ### Date
 2023-03-16
+
 
 ### Lecturer Information
 - **Name**: (Unnamed female lecturer, for Signal course)
@@ -1934,6 +2085,7 @@ Someone also needed a signature and she made it difficult.
 ### Date
 2023-03-17
 
+
 ### Lecturer Information
 - **Name**:
 
@@ -1946,6 +2098,7 @@ The lecturer is described as legendary and highly recommended. Students should n
 
 ### Date
 2023-03-17
+
 
 ### Lecturer Information
 - **Name**: (Unknown Lecturer)
@@ -1960,6 +2113,7 @@ Described as someone to run away from. If you choose to be with them, you might 
 ### Date
 2023-03-17
 
+
 ### Lecturer Information
 - **Name**: (Entrepreneurship lecturer)
 
@@ -1971,6 +2125,7 @@ One is wearing a tie and seems like a respectable person. He is actually very re
 
 ### Date
 2023-03-17
+
 
 ### Lecturer Information
 - **Name**: (Unnamed Lecturer for UKQT 1001)
@@ -1985,6 +2140,7 @@ One person mentioned that his explanation is non-existent, at the end of the sem
 ### Date
 2023-03-18
 
+
 ### Lecturer Information
 - **Name**: (Another Unnamed Lecturer for UKQT 1001)
 
@@ -1998,6 +2154,7 @@ Kind, but dry and doesn't fix the grades and sometimes brings the festival in th
 
 ### Date
 2023-03-18
+
 
 ### Lecturer Information
 - **Name**: (Yet Another Unnamed Lecturer for UKQT 1001)
@@ -2016,6 +2173,7 @@ Legendary! He gives you the test. He doesn't explain or do classes. He comes bef
 
 ---
 
+
 ### Lecturer Information
 - **Name**: SHAHARIN
 - **Courses**: Digital Systems
@@ -2029,6 +2187,7 @@ Shaharin is the best option for Digital Systems.
 ### Date
 2023-03-18
 
+
 ### Lecturer Information
 - **Name**: حنيف (Haneef)
 
@@ -2040,6 +2199,7 @@ Haneef is very professional.
 
 ### Date
 2023-03-18
+
 
 ### Lecturer Information
 - **Name**: Khairul hamimah
@@ -2053,6 +2213,7 @@ Khairul hamimah is a great lecturer.
 ### Date
 2023-03-18
 
+
 ### Lecturer Information
 - **Name**: Herman
 
@@ -2064,6 +2225,7 @@ Herman is good in treatment, but the explanation is unknown.
 
 ### Date
 2023-03-19
+
 
 ### Lecturer Information
 - **Name**: محمد فؤاد (Mohammed Fouad)
@@ -2078,6 +2240,7 @@ Mohammed Fouad is good in explanation and grades.
 ### Date
 2023-03-19
 
+
 ### Lecturer Information
 - **Name**: Anita
 - **Courses**: Instru
@@ -2090,6 +2253,7 @@ Anita is recommended for Instru.
 
 ### Date
 2023-03-19
+
 
 ### Lecturer Information
 - **Name**: Sallahudin
@@ -2104,6 +2268,7 @@ Sallahudin is recommended for Instru.
 ### Date
 2023-03-19
 
+
 ### Lecturer Information
 - **Name**: بيلنق (Billing)
 
@@ -2117,6 +2282,7 @@ Billing gives rights and is fair.
 ### Date
 2023-03-19
 
+
 ### Lecturer Information
 - **Name**: Salahudin and Nasr Al-Din
 
@@ -2128,6 +2294,7 @@ Salahudin and Nasr Al-Din are good with grades, but for excellent explanation, t
 
 ### Date
 2023-03-19
+
 
 ### Lecturer Information
 - **Name**: Dr. Raihana Binti Ridzuan
@@ -2142,6 +2309,7 @@ She is very good; someone took Communication Principles with her. She used to ex
 ### Date
 2023-03-19
 
+
 ### Lecturer Information
 - **Name**: Dr. Zul-hilmi bin Che Daud
 
@@ -2155,6 +2323,7 @@ His explanation is good, and he gives the rights.
 ### Date
 2023-03-19
 
+
 ### Lecturer Information
 - **Name**: Dr. Nurul Mu'azzah Abdul Latiff
 
@@ -2166,6 +2335,7 @@ Good, take with her.
 
 ### Date
 2023-03-19
+
 
 ### Lecturer Information
 - **Name**: Dr. Raihana Binti Ridzuan
@@ -2181,6 +2351,7 @@ Avoid her by any means possible. Very bad at explaining; you will not understand
 ### Date
 2023-03-19
 
+
 ### Lecturer Information
 - **Name**: رشيدة (Rashida)
 
@@ -2194,6 +2365,7 @@ She skips lectures and does not bother you, gives assignments at the end of the 
 
 ### Date
 2023-03-19
+
 
 ### Lecturer Information
 - **Name**: Dr Ahmad Shahidan bin Abdullah
@@ -2210,6 +2382,7 @@ Does not explain well but is good with grades.
 
 ---
 
+
 ### Lecturer Information
 - **Name**: First Lecturer
 - **Courses**: Statistics
@@ -2223,6 +2396,7 @@ Many students have complained about this lecturer, not only in statistics but al
 ### Date
 2023-03-20
 
+
 ### Lecturer Information
 - **Name**: Second Lecturer
 
@@ -2235,6 +2409,7 @@ Some recommend avoiding this lecturer. Someone else mentioned this lecturer is f
 
 ### Date
 2023-03-20
+
 
 ### Lecturer Information
 - **Name**: Third Lecturer
@@ -2251,6 +2426,7 @@ One person warns to avoid this lecturer, citing bad treatment, bad grading, and 
 ### Date
 2023-03-20
 
+
 ### Lecturer Information
 - **Name**: Fourth Lecturer
 
@@ -2265,6 +2441,7 @@ Described as "dirty" and "malicious in grades", even though her explanations are
 ### Date
 2023-03-20
 
+
 ### Lecturer Information
 - **Name**: Fifth Lecturer
 
@@ -2276,6 +2453,7 @@ One person described the lecturer as sweet until halfway through the semester an
 
 ### Date
 2023-03-20
+
 
 ### Lecturer Information
 - **Name**: Sixth Lecturer
@@ -2290,6 +2468,7 @@ Someone who took Philosophy with this lecturer said she was great and kind and g
 ### Date
 2023-03-20
 
+
 ### Lecturer Information
 - **Name**: Seventh Lecturer
 
@@ -2301,6 +2480,7 @@ Someone says this lecturer is bad in every aspect.
 
 ### Date
 2023-03-20
+
 
 ### Lecturer Information
 - **Name**: First Lecturer (Entrepreneurship)
@@ -2316,6 +2496,7 @@ Helps and is lenient with submissions, gives feedback for corrections before sub
 ### Date
 2023-03-20
 
+
 ### Lecturer Information
 - **Name**: Unknown Lecturer (French)
 
@@ -2330,6 +2511,7 @@ Someone recommends avoiding this lecturer, describing their English as poor and 
 ### Date
 2023-03-20
 
+
 ### Lecturer Information
 - **Name**: First Lecturer (Statistics)
 
@@ -2341,6 +2523,7 @@ Someone advises to stay away from this lecturer.
 
 ### Date
 2023-03-22
+
 
 ### Lecturer Information
 - **Name**: Unknown Lecturer
@@ -2355,6 +2538,7 @@ A person advises to stay away from this lecturer, another person strongly disagr
 ### Date
 2023-03-22
 
+
 ### Lecturer Information
 - **Name**: First Lecturer (Statistics)
 
@@ -2366,6 +2550,7 @@ Someone advises to avoid her completely.
 
 ### Date
 2023-03-22
+
 
 ### Lecturer Information
 - **Name**: AP Dr Ahmed Athif Faudzi
@@ -2383,6 +2568,7 @@ One person asks if he gives good grades, another describes him as excellent and 
 
 ---
 
+
 ### Lecturer Information
 - **Name**: محمد يوسف
 
@@ -2391,6 +2577,7 @@ He is the best option.
 
 ### Date
 2023-03-27
+
 
 ### Lecturer Information
 - **Name**: PROF MOHD KAMAL BIN RAHIM
@@ -2405,6 +2592,7 @@ Someone who studied communication with him does not recommend him. He was strict
 ### Date
 2023-03-27
 
+
 ### Lecturer Information
 - **Name**: Dr. Mukhtar
 - **Courses**: SKEE4012 ST 22/23 - II
@@ -2413,11 +2601,13 @@ Someone who studied communication with him does not recommend him. He was strict
 ### Date
 2023-03-27
 
+
 ### Lecturer Information
 - **Name**: Yeong che fai
 
 ### Date
 2023-03-29
+
 
 ### Lecturer Information
 - **Name**: Kumeresen
@@ -2433,11 +2623,13 @@ He is a funny person, likes to joke, tell stories, and give advice, so he is a g
 ### Date
 2023-03-29
 
+
 ### Lecturer Information
 - **Name**: Hazlina selamat
 
 ### Date
 2023-03-30
+
 
 ### Lecturer Information
 - **Name**: Shaharin Mad Ayob
@@ -2445,11 +2637,13 @@ He is a funny person, likes to joke, tell stories, and give advice, so he is a g
 ### Date
 2023-03-30
 
+
 ### Lecturer Information
 - **Name**: Dr. Rohani Binti Othman
 
 ### Date
 2023-04-02
+
 ### Lecturer Information
 - **Name**: Zaid Omar
 - **Courses**: DSP (Digital Signal Processing)
@@ -2462,6 +2656,7 @@ Zaid Omar's teaching materials for DSP are available online.
 
 ### Date
 2023-05-05
+
 
 ### Lecturer Information
 - **Name**: Mohamed Sultan Mohamed Ali
@@ -2476,6 +2671,7 @@ Someone requested his phone number and it was provided.
 ### Date
 2023-05-05
 
+
 ### Lecturer Information
 - **Name**: Dr. Afzan
 
@@ -2488,11 +2684,13 @@ Recommended over another unnamed lecturer for test and final exam preparation.
 ### Date
 2023-07-04
 
+
 ### Lecturer Information
 - **Name**: Prof Dr. Yeong Che Fai
 
 ### Date
 2023-04-11
+
 
 ### Lecturer Information
 - **Name**: خالد خليل
@@ -2505,6 +2703,7 @@ Engineering Mathematics 1 review session being held by خالد خليل.
 
 ### Date
 2023-04-30
+
 ### Lecturer Information
 - **Name**: Dr. Nordin
 
@@ -2517,6 +2716,7 @@ A student is asking for help with an EMT assignment, taught by Dr. Nordin.
 
 ### Date
 2023-05-25
+
 ### Lecturer Information
 - **Name**: Dr Zuraimy
 
@@ -2529,6 +2729,7 @@ Someone is asking for Dr Zuraimy's phone number. Another person provided the num
 ### Date
 2023-06-27
 
+
 ### Lecturer Information
 - **Name**: نور هاليزه
 
@@ -2540,6 +2741,7 @@ norhaliza@utm.my
 
 ### Date
 2023-06-19
+
 ### Lecturer Information
 - **Name**: Mohd Amri Md. Yunus (Dr.)
 
@@ -2551,6 +2753,7 @@ Someone is asking for Dr. Mohd Amri Md. Yunus's contact number.
 
 ### Date
 2023-07-25
+
 
 ### Lecturer Information
 - **Name**: Dr. Noordini
@@ -2571,6 +2774,7 @@ Files shared include: Final Exam (Dr. Nor Asniza).pdf, Final revision class (Dr.
 ### Date
 2023-07-31
 
+
 ### Lecturer Information
 - **Name**: Salahuddin
 
@@ -2582,6 +2786,7 @@ Someone is looking for tips for the final exam from students taking Instro secti
 
 ### Date
 2023-07-21
+
 ### Lecturer Information
 - **Name**: Prof. Madya Dr Razali bin Ngah
 - **Contact**: razalingah@utm.my
@@ -2600,6 +2805,7 @@ Staff directory profile screenshot from utm.my.
 
 ### Date
 2023-08-25
+
 ### Lecturer Information
 - **Name**: Dr. Mohd Afzan bin Othman
 - **Courses**: Microprocessor
@@ -2614,6 +2820,7 @@ Dr. Afzan's explanation is good and he gives you your rights in grading.
 ### Date
 2023-09-26
 
+
 ### Lecturer Information
 - **Name**: Unknown (Referenced by phone number +60 13‑385 4888)
 
@@ -2625,6 +2832,7 @@ The doctor is very knowledgeable in his specialization.
 
 ### Date
 2023-09-12
+
 
 ### Lecturer Information
 - **Name**: Unknown
@@ -2639,6 +2847,7 @@ The lecturer's explanation is good for digital systems but his marking is strict
 
 ### Date
 2023-09-27
+
 ### Lecturer Information
 - **Name**: MBS
 
@@ -2653,6 +2862,7 @@ MBS is good at explaining, treats students with respect, and gives you your due 
 ### Date
 2023-10-02
 
+
 ### Lecturer Information
 - **Name**: Zaid Bin Omar
 - **Courses**: DSP
@@ -2665,6 +2875,7 @@ Taking DSP with Zaid Bin Omar is recommended.
 
 ### Date
 2023-10-02
+
 
 ### Lecturer Information
 - **Name**: Fasial Alwazir
@@ -2679,6 +2890,7 @@ One person found her helpful in AI and in the graduation project. However, she i
 ### Date
 2023-10-02
 
+
 ### Lecturer Information
 - **Name**: KHAIRUL HAMIMAH
 
@@ -2691,6 +2903,7 @@ Someone is looking for her contact number, which was shared as +60127005316.
 ### Date
 2023-10-02
 
+
 ### Lecturer Information
 - **Name**: Salah Al-Din
 
@@ -2702,6 +2915,7 @@ His system in FYP depends on what the student wants.
 
 ### Date
 2023-10-02
+
 
 ### Lecturer Information
 - **Name**: Mohammed Kamal
@@ -2717,6 +2931,7 @@ He is good at giving grades but his lectures are not good. He sleeps during pres
 ### Date
 2023-10-03
 
+
 ### Lecturer Information
 - **Name**: Nadiatulhuda
 
@@ -2731,6 +2946,7 @@ Avoid her, as she was terminated in the last two semesters. People complained ab
 ### Date
 2023-10-03
 
+
 ### Lecturer Information
 - **Name**: Abdulrahman Alawi
 
@@ -2744,6 +2960,7 @@ His explanations are poor, but he grades the tests fairly.
 ### Date
 2023-10-03
 
+
 ### Lecturer Information
 - **Name**: Nur Najhatul Huda
 
@@ -2756,6 +2973,7 @@ She is worse than Nadiatulhuda for Communication Principles. Her lectures are on
 
 ### Date
 2023-10-03
+
 
 ### Lecturer Information
 - **Name**: Nik Rumzi bin Nik Idris
@@ -2773,6 +2991,7 @@ He is very bad and you will fail the course. He is stubborn and racist. His expl
 ### Date
 2023-10-03
 
+
 ### Lecturer Information
 - **Name**: French Lecturer
 
@@ -2784,6 +3003,7 @@ He is good. If you attend his class, you'll get an A.
 
 ### Date
 2023-10-03
+
 
 ### Lecturer Information
 - **Name**: Robotics Lecturer
@@ -2800,6 +3020,7 @@ One lecturer will fail you even if you get perfect scores. Another is very quali
 ### Date
 2023-10-03
 
+
 ### Lecturer Information
 - **Name**: Had
 
@@ -2813,6 +3034,7 @@ His explanations are okay and his correction is good. However, it is best to avo
 
 ### Date
 2023-10-04
+
 
 ### Lecturer Information
 - **Name**: Mohammed Hanif
@@ -2828,6 +3050,7 @@ His explanations are legendary, but the grades are your own responsibility. His 
 ### Date
 2023-10-04
 
+
 ### Lecturer Information
 - **Name**: Rashid
 
@@ -2841,6 +3064,7 @@ He is better than Hanif and gives you what you deserve.
 ### Date
 2023-10-04
 
+
 ### Lecturer Information
 - **Name**: Abdulrahman Alawi
 
@@ -2853,6 +3077,7 @@ The worst lecturer and a butcher in grading.
 
 ### Date
 2023-10-04
+
 
 ### Lecturer Information
 - **Name**: Mohammed Fuad
@@ -2869,6 +3094,7 @@ His explanations are average, his class is fun and he is very kind, but he does 
 ### Date
 2023-10-04
 
+
 ### Lecturer Information
 - **Name**: Salinda Binti Buyamin
 
@@ -2882,6 +3108,7 @@ Her explanations are not the best but her grading is good and she is kind in dea
 
 ### Date
 2023-10-04
+
 
 ### Lecturer Information
 - **Name**: Instructor in the Instro
@@ -2899,6 +3126,7 @@ He doesn't explain well or give lectures, but he does revisions before the tests
 ### Date
 2023-10-06
 
+
 ### Lecturer Information
 - **Name**: Unknown Lecturer (Studied 4 years ago)
 
@@ -2913,6 +3141,7 @@ The lecturer provides good explanations and gives fair grades. The lectures were
 ### Date
 2023-10-07
 
+
 ### Lecturer Information
 - **Name**: Unknown Lecturer
 
@@ -2926,6 +3155,7 @@ Said to distribute grades randomly. Explanations are poor.
 ### Date
 2023-10-05
 
+
 ### Lecturer Information
 - **Name**: Digital Lecturer
 
@@ -2937,6 +3167,7 @@ An ordinary lecturer and did not mention anything negative about her.
 
 ### Date
 2023-10-05
+
 
 ### Lecturer Information
 - **Name**: Signal Lecturer
@@ -2951,6 +3182,7 @@ Respectful but a very strict grader.
 ### Date
 2023-10-05
 
+
 ### Lecturer Information
 - **Name**: Unknown Lecturer
 
@@ -2962,6 +3194,7 @@ Has good manners.
 
 ### Date
 2023-10-06
+
 
 ### Lecturer Information
 - **Name**: Herman
@@ -2977,6 +3210,7 @@ Very good at explaining, interacting, and giving grades.
 ### Date
 2023-10-06
 
+
 ### Lecturer Information
 - **Name**: Unknown Lecturer
 
@@ -2989,6 +3223,7 @@ Her explanations are good, but her personality is bad.
 
 ### Date
 2023-10-06
+
 
 ### Lecturer Information
 - **Name**: Unknown Lecturer
@@ -3007,6 +3242,7 @@ Has bad explanations and behavior. However, the grades are good. The lecturer fo
 
 ---
 
+
 ### Lecturer Information
 - **Name**: محمد فؤاد (Mohammad Fouad)
 
@@ -3022,6 +3258,7 @@ His explanation is good but not great. He is nice and his class is enjoyable. He
 ### Date
 2023-10-07
 
+
 ### Lecturer Information
 - **Name**: زايد (Zayed)
 
@@ -3034,6 +3271,7 @@ He is excellent. However, for FYP, his explanation and grading are bad.
 
 ### Date
 2023-10-07
+
 
 ### Lecturer Information
 - **Name**: Farhana bt Johor
@@ -3055,6 +3293,7 @@ Wan Ibrahim is a nice doctor and probably will sign you if you contact him. Howe
 ### Date
 2023-10-07
 
+
 ### Lecturer Information
 - **Name**: Shalini
 
@@ -3069,6 +3308,7 @@ Her classes were mostly online. She is nice and lenient in grades and gives many
 
 ### Date
 2023-10-07
+
 
 ### Lecturer Information
 - **Name**: Siti Mariam
@@ -3086,6 +3326,7 @@ She is very kind and respectful with an amazing teaching style. Assignments are 
 ### Date
 2023-10-07
 
+
 ### Lecturer Information
 - **Name**: Haliza
 
@@ -3101,6 +3342,7 @@ Her explanation is bad but very helpful with assignments and the material is mos
 ### Date
 2023-10-07
 
+
 ### Lecturer Information
 - **Name**: PM Dr Mohd Ridzuan bin Ahmad
 
@@ -3109,6 +3351,7 @@ Someone asked for his contact number.
 
 ### Date
 2023-10-08
+
 
 ### Lecturer Information
 - **Name**: Dr. Adina Najwa Bt Kamarudin
@@ -3123,6 +3366,7 @@ One student advises to avoid her if possible, because you never know how she gra
 ### Date
 2023-10-08
 
+
 ### Lecturer Information
 - **Name**: Afzan
 
@@ -3131,6 +3375,7 @@ Someone is asking for his number.
 
 ### Date
 2023-10-08
+
 
 ### Lecturer Information
 - **Name**: Sallehuddin bin Ibrahim
@@ -3141,6 +3386,7 @@ Someone is asking for his contact number.
 
 ### Date
 2023-10-08
+
 
 ### Lecturer Information
 - **Name**: Noor Ain Kamsani
@@ -3156,6 +3402,7 @@ Also described as an excellent explainer.
 ### Date
 2023-10-08
 
+
 ### Lecturer Information
 - **Name**: Shaharin
 
@@ -3167,6 +3414,7 @@ See his explanations on devices (using the YSAG channel on Youtube).
 
 ### Date
 2023-10-08
+
 
 ### Lecturer Information
 - **Name**: Abdulhadi
@@ -3180,6 +3428,7 @@ See his explanations on digital (using the YSAG channel on Youtube).
 ### Date
 2023-10-08
 
+
 ### Lecturer Information
 - **Name**: Mohamad Kamal B. A. Rahim
 
@@ -3192,6 +3441,7 @@ Avoid and beware of him.
 ### Date
 2023-10-08
 
+
 ### Lecturer Information
 - **Name**: Azme Khamis
 
@@ -3203,6 +3453,7 @@ Good at explaining and grades.
 
 ### Date
 2023-10-08
+
 
 ### Lecturer Information
 - **Name**: Izham
@@ -3218,6 +3469,7 @@ Azhani is good, but doesn't know how to grade or explain.
 ### Date
 2023-10-08
 
+
 ### Lecturer Information
 - **Name**: Nurul Ashikin Abdul-Kadir
 
@@ -3230,6 +3482,7 @@ She was good in devices in terms of dealing with students but had personal issue
 
 ### Date
 2023-10-08
+
 
 ### Lecturer Information
 - **Name**: Wan Rohaizad bin Wan Ibrahim
@@ -3244,6 +3497,7 @@ He doesn't know how to explain, but he fixes your grades and attendance is not i
 
 ### Date
 2023-10-08
+
 
 ### Lecturer Information
 - **Name**: Mohd Fadli bin Rahmat
@@ -3260,6 +3514,7 @@ He is bad, doesn't know how to give good grades and his explanation is unknown b
 
 ---
 
+
 ### Lecturer Information
 - **Name**: Azhar
 - **Courses**: Devices (previously)
@@ -3275,6 +3530,7 @@ Avoid Azhar, as his teaching performance is very poor, with no explanation or gr
 ### Date
 2023-10-09
 
+
 ### Lecturer Information
 - **Name**: Hazlina Binti Selamat
 - **Contact**: Location of her office
@@ -3284,6 +3540,7 @@ Someone is looking for Dr. Hazlina Binti Selamat's office location.
 
 ### Date
 2023-10-09
+
 
 ### Lecturer Information
 - **Name**: Muhammad Arif Bin Abdul Rahim
@@ -3295,6 +3552,7 @@ Someone is looking for Dr. Muhammad Arif Bin Abdul Rahim's number.
 ### Date
 2023-10-09
 
+
 ### Lecturer Information
 - **Name**: Izwyn Zulkapri
 
@@ -3304,6 +3562,7 @@ Asking about the quality of Dr. Izwyn Zulkapri.
 ### Date
 2023-10-10
 
+
 ### Lecturer Information
 - **Name**: DE
 ### Review Summary
@@ -3311,6 +3570,7 @@ Someone is asking about DE
 
 ### Date
 2023-10-10
+
 
 ### Lecturer Information
 - **Name**: Zuhra Junaida Binti Ir Mohamad Husny Hamid
@@ -3325,6 +3585,7 @@ She taught Graduation Success Attributes before. She was good and gave extension
 ### Date
 2023-10-10
 
+
 ### Lecturer Information
 - **Name**: Hazlina
 
@@ -3333,6 +3594,7 @@ Hazlina is mentioned.
 
 ### Date
 2023-10-09
+
 
 ### Lecturer Information
 - **Name**: Shahidatul Sadiah binti Abdul Manan
@@ -3347,6 +3609,7 @@ Email is best for contacting her.
 
 ### Date
 2023-10-11
+
 
 ### Lecturer Information
 - **Name**: Unknown Lecturer (Electronic Devices)
@@ -3363,6 +3626,7 @@ The lecturer cancels lectures and uploads recorded videos on i-Learning. The tea
 ### Date
 2023-10-11
 
+
 ### Lecturer Information
 - **Name**: CIK NOR ANITA FAIROS BINTI ISMAIL
 
@@ -3371,6 +3635,7 @@ Someone is looking for the office location of Dr. Cik Nor Anita Fairos Binti Ism
 
 ### Date
 2023-10-12
+
 
 ### Lecturer Information
 - **Name**: Mohd Haniff bin Ibrahim
@@ -3385,6 +3650,7 @@ While his explanations are excellent and he has great YouTube videos, his gradin
 
 ### Date
 2023-10-12
+
 
 ### Lecturer Information
 - **Name**: Ismahani binti Ismail
@@ -3401,6 +3667,7 @@ Her explanation is good and she is very cooperative but her quizzes are difficul
 ### Date
 2023-10-13
 
+
 ### Lecturer Information
 - **Name**: Khadija
 ### Review Summary
@@ -3412,6 +3679,7 @@ She is described as someone who makes students work hard, but ultimately gives g
 
 ### Date
 2023-10-15
+
 
 ### Lecturer Information
 - **Name**: Zaid
@@ -3428,6 +3696,7 @@ Zaid doesn't hold classes or care about attendance. Students just need to submit
 ### Date
 2023-10-15
 
+
 ### Lecturer Information
 - **Name**: Rika
 
@@ -3436,6 +3705,7 @@ Avoid Rika.
 
 ### Date
 2023-10-15
+
 
 ### Lecturer Information
 - **Name**: Adina Najwa Bt Kamarudin
@@ -3453,6 +3723,7 @@ She is excellent in everything (grades, explanation, and correction/grading). Bu
 ### Date
 2023-10-15
 
+
 ### Lecturer Information
 - **Name**: Unknown lecturer
 ### Review Summary
@@ -3462,6 +3733,7 @@ He is very respectable and treats his students well.
 2023-10-10
 
 ---
+
 
 ### Lecturer Information
 - **Name**: Isra
@@ -3473,6 +3745,7 @@ Isra and Labeeb Alsayad were added to the group.
 ### Date
 2023-10-15
 
+
 ### Lecturer Information
 - **Name**: Unknown
 
@@ -3481,6 +3754,7 @@ Someone suggested that this doctor is good and one should register for their cou
 
 ### Date
 2023-10-15
+
 
 ### Lecturer Information
 - **Name**: Unknown
@@ -3491,6 +3765,7 @@ People asked about this doctor.
 ### Date
 2023-10-16
 
+
 ### Lecturer Information
 - **Name**: Unknown
 
@@ -3499,6 +3774,7 @@ One person reported that this communication lecturer prevents communication.
 
 ### Date
 2023-10-16
+
 
 ### Lecturer Information
 - **Name**: Unknown
@@ -3509,6 +3785,7 @@ A user asked about this doctor in general for the Engineering management course.
 ### Date
 2023-10-17
 
+
 ### Lecturer Information
 - **Name**: Unknown
 
@@ -3517,6 +3794,7 @@ Someone says that as an interaction the doctor is very good but as for the grade
 
 ### Date
 2023-10-17
+
 
 ### Lecturer Information
 - **Name**: Dr. Nurul Adilla Mohd Subha
@@ -3527,6 +3805,7 @@ Someone asked for opinions on Dr. Nurul Adilla Mohd Subha.
 ### Date
 2023-10-17
 
+
 ### Lecturer Information
 - **Name**: Unknown
 
@@ -3535,6 +3814,7 @@ Some students took communication with the doctor and reported it was good.
 
 ### Date
 2023-10-17
+
 
 ### Lecturer Information
 - **Name**: Unknown
@@ -3545,6 +3825,7 @@ Someone is asking about this doctor.
 ### Date
 2023-10-17
 
+
 ### Lecturer Information
 - **Name**: Unknown
 
@@ -3553,6 +3834,7 @@ Someone is asking about these two doctors.
 
 ### Date
 2023-10-17
+
 
 ### Lecturer Information
 - **Name**: Unknown
@@ -3563,6 +3845,7 @@ Someone is asking who is better for excel.
 ### Date
 2023-10-18
 
+
 ### Lecturer Information
 - **Name**: Unknown
 
@@ -3571,6 +3854,7 @@ Someone is asking for this doctor’s number.
 
 ### Date
 2023-10-29
+
 
 ### Lecturer Information
 - **Name**: Ahmed Assagaf
@@ -3586,6 +3870,7 @@ Ahmed Assagaf took Digital with this doctor, and said that they are good at expl
 ### Date
 2023-10-16
 
+
 ### Lecturer Information
 - **Name**: Unknown
 
@@ -3594,6 +3879,7 @@ One person needed to register for the class with the doctor, and were told they 
 
 ### Date
 2023-10-15
+
 
 ### Lecturer Information
 - **Name**: Unknown
@@ -3606,6 +3892,7 @@ A user expressed love for this doctor.
 
 ### Date
 2023-10-16
+
 
 ### Lecturer Information
 - **Name**: Unknown
@@ -3622,6 +3909,7 @@ Someone is asking for an opinion on this doctor.
 
 ### Date
 2023-10-17
+
 ### Lecturer Information
 - **Name**: هرمان (Herman)
 
@@ -3634,6 +3922,7 @@ Dr. Herman is described as an artist when it comes to explaining.
 ### Date
 2023-11-07
 
+
 ### Lecturer Information
 - **Name**: موسى (Musa)
 
@@ -3642,6 +3931,7 @@ Someone was looking for Musa's DE (Differential Equations) solved exams and foun
 
 ### Date
 2023-11-15
+
 
 ### Lecturer Information
 - **Name**: افزان (Afzan)
@@ -3652,6 +3942,7 @@ Someone was looking for Dr. Afzan's Microprocessor explanations.
 ### Date
 2023-11-16
 
+
 ### Lecturer Information
 - **Name**: Madihah
 
@@ -3660,6 +3951,7 @@ Someone was looking for old tests of Electrical circuits for Dr. Madihah, prefer
 
 ### Date
 2023-11-16
+
 ### Lecturer Information
 - **Name**: Mohammed Nadzir Marsono
 
@@ -3669,6 +3961,7 @@ A lecturer is mentioned by name with a prayer emoji.
 ### Date
 2023-12-10
 
+
 ### Lecturer Information
 - **Name**: DR. MOHAMAD AMIR BIN SHAMSUDIN
 
@@ -3677,6 +3970,7 @@ Someone is asking for the contact information of Dr. Mohamad Amir Bin Shamsudin.
 
 ### Date
 2023-12-14
+
 ### Lecturer Information
 - **Name**: Dr. leow pei ling
 - **Contact**: +60 19-779 3884
@@ -3689,6 +3983,7 @@ Someone requested Dr. Leow Pei Ling's number, which was subsequently provided.
 
 ### Date
 2025-01-08
+
 
 ### Lecturer Information
 - **Name**: عمر باتيس
@@ -3706,6 +4001,7 @@ Omar Batis is announced as the lecturer for the YSAG review sessions for SIGNALS
 
 ---
 
+
 ### Lecturer Information
 - **Name**: Mohanad Alsabari
 
@@ -3720,6 +4016,7 @@ No context available.
 
 ### Date
 2025-01-30
+
 ### Lecturer Information
 - **Name**: فريد زوبير (Farid Zubair)
 - **Contact**: رقم دكتور فريد زوبير (Dr. Farid Zubair's number requested)
@@ -3734,6 +4031,7 @@ Someone is asking for Dr. Farid Zubair's phone number.
 ### Date
 2025-02-22
 
+
 ### Lecturer Information
 - **Name**: YASSER MOHAMMED GAMALALDEEN ELSAYED MOHAMMED ALKHAWWAS
 
@@ -3746,6 +4044,7 @@ Someone named YASSER MOHAMMED GAMALALDEEN ELSAYED MOHAMMED ALKHAWWAS is wanted b
 
 ### Date
 2025-02-26
+
 ### Lecturer Information
 - **Name**: Abdullah Alyafei
 
@@ -3758,6 +4057,7 @@ Someone said the lecturer is bad and makes the students lost. Another person ask
 
 ### Date
 2025-03-05
+
 
 ### Lecturer Information
 - **Name**: Hau Wen
@@ -3775,6 +4075,7 @@ Highly recommended if you want to learn the material. Her explanations and gradi
 ### Date
 2025-03-05
 
+
 ### Lecturer Information
 - **Name**: Mohd Shukri
 
@@ -3788,6 +4089,7 @@ His explanations are average, but his grading is excellent, and he doesn't focus
 ### Date
 2025-03-05
 
+
 ### Lecturer Information
 - **Name**:  Ir. Dr. Shafishuhaza Sahlan
 
@@ -3800,6 +4102,7 @@ Took scientific programming with him. He is a good doctor, his explanation is go
 
 ### Date
 2025-03-05
+
 
 ### Lecturer Information
 - **Name**: Dr. Jasmine Hau Yuan Wen
@@ -3816,6 +4119,7 @@ Strict in attendance and submissions. Her correction is strict and gives zero in
 ### Date
 2025-03-05
 
+
 ### Lecturer Information
 - **Name**: يونس (Younis)
 
@@ -3829,6 +4133,7 @@ His explanations are excellent, but his correction is very accurate and sometime
 
 ### Date
 2025-03-05
+
 
 ### Lecturer Information
 - **Name**: Rashidi
@@ -3846,6 +4151,7 @@ He is the best doctor 10000000/10. Choose him blindly. He is the best doctor in 
 ### Date
 2025-03-05
 
+
 ### Lecturer Information
 - **Name**: Hanif
 
@@ -3858,6 +4164,7 @@ Excellent in explaining.
 ### Date
 2025-03-06
 
+
 ### Lecturer Information
 - **Name**: نورازمين (Norazmeen) and اخوان كوري (Akhwan Kuri)
 
@@ -3869,6 +4176,7 @@ They are not the best. But if comparing the two, Akhwan has more advantages.
 
 ### Date
 2025-03-06
+
 
 ### Lecturer Information
 - **Name**: Nurazmeen
@@ -3883,6 +4191,7 @@ Took a lab with her. The best doctor I have ever met. Very cooperative and under
 ### Date
 2025-03-06
 
+
 ### Lecturer Information
 - **Name**: Akhwan Kuri
 
@@ -3894,6 +4203,7 @@ He is well known in his field and always mentioned after Dr. Hanif. Good in his 
 
 ### Date
 2025-03-06
+
 
 ### Lecturer Information
 - **Name**: فوزي (Fawzi)
@@ -3909,6 +4219,7 @@ It is expected that this is his first time teaching. Important is that the docto
 ### Date
 2025-03-06
 
+
 ### Lecturer Information
 - **Name**: مستوره (Mastura) and عبدالرزاق ازهر (Abdul Razzaq Azhar)
 
@@ -3920,6 +4231,7 @@ Stay away from them
 
 ### Date
 2025-03-05
+
 
 ### Lecturer Information
 - **Name**:
@@ -3935,6 +4247,7 @@ Does give the student their right.
 2025-03-05
 
 ---
+
 
 ### Lecturer Information
 - **Name**: Haliza BT Abd Rahman
@@ -3955,6 +4268,7 @@ Photo of Haliza BT Abd Rahman's contact information is included.
 ### Date
 2025-03-11
 
+
 ### Lecturer Information
 - **Name**: Norma Aqilah Mohamad
 
@@ -3970,6 +4284,7 @@ The name is from a list of names.
 
 ### Date
 2025-03-11
+
 
 ### Lecturer Information
 - **Name**: Rasyidah Idris
@@ -3987,6 +4302,7 @@ The name is from a list of names.
 ### Date
 2025-03-11
 
+
 ### Lecturer Information
 - **Name**: LIM
 
@@ -4000,6 +4316,7 @@ LIM is described as having an excellent explanation style but is not easy to dea
 ### Date
 2025-03-11
 
+
 ### Lecturer Information
 - **Name**: Anita
 
@@ -4011,6 +4328,7 @@ Anita is considered excellent for ELECTRONIC INSTRUMENTATION & MEASUREMENT.
 
 ### Date
 2025-03-11
+
 
 ### Lecturer Information
 - **Name**: Nasarudin bin ahmad
@@ -4028,6 +4346,7 @@ Nasarudin doesn't focus on attendance, doesn't explain well, but gives excellent
 ### Date
 2025-03-11
 
+
 ### Lecturer Information
 - **Name**: Shukri
 
@@ -4043,6 +4362,7 @@ Opinions on Shukri are mixed. Some consider him excellent and an artist, others 
 ### Date
 2025-03-11
 
+
 ### Lecturer Information
 - **Name**: Jaysuman
 - **Name**: Hau
@@ -4052,6 +4372,7 @@ Two doctors are mentioned: Jaysuman and Hau.
 
 ### Date
 2025-03-11
+
 
 ### Lecturer Information
 - **Name**: Fozan
@@ -4064,6 +4385,7 @@ Fozan is good at grading for devices.
 
 ### Date
 2025-03-11
+
 
 ### Lecturer Information
 - **Name**: Azli
@@ -4079,6 +4401,7 @@ Contact information (VCF file) attached.
 
 ### Date
 2025-03-11
+
 
 ### Lecturer Information
 - **Name**: Shalini Srika A/p Bala
@@ -4100,6 +4423,7 @@ Photo of Shalini Srika A/p Bala's contact information is included.
 
 ---
 
+
 ### Lecturer Information
 - **Name**: Prof. Madya Dr Mohamad Hafis Izran bin Ishak
 
@@ -4114,6 +4438,7 @@ No review content provided for this lecturer.
 
 ### Date
 2025-03-11
+
 
 ### Lecturer Information
 - **Name**: Dr mohd fauzee
@@ -4130,6 +4455,7 @@ Considered a legend.
 ### Date
 2025-03-11
 
+
 ### Lecturer Information
 - **Name**: Dr mohd fauzee
 
@@ -4142,6 +4468,7 @@ His explanations and interactions are good.
 
 ### Date
 2025-03-12
+
 
 ### Lecturer Information
 - **Name**: Dr mohd fauzee
@@ -4156,6 +4483,7 @@ Okay with explanations but overall recommended and correction is good.
 
 ### Date
 2025-03-12
+
 
 ### Lecturer Information
 - **Name**: Hussein Alkhafaji
@@ -4176,6 +4504,7 @@ Business-minded, not focused on teaching, jokes often, good at grading, helps du
 ### Date
 2025-03-12
 
+
 ### Lecturer Information
 - **Name**: Mohammed
 
@@ -4187,6 +4516,7 @@ Take him without hesitation.
 
 ### Date
 2025-03-12
+
 
 ### Lecturer Information
 - **Name**: دكتور (A doctor)
@@ -4202,6 +4532,7 @@ Better to avoid female lecturers in English.
 
 ### Date
 2025-03-12
+
 
 ### Lecturer Information
 - **Name**: (Lecturer of) EMT
@@ -4222,6 +4553,7 @@ Explanation is bad, attendance not important, might give good grades, helps duri
 ### Date
 2025-03-12
 
+
 ### Lecturer Information
 - **Name**: Rashid (رشيدي)
 - **Name**: Noordini (نورديني)
@@ -4235,6 +4567,7 @@ Recommended to stick with Rashid and Noordini
 ### Date
 2025-03-12
 
+
 ### Lecturer Information
 - **Name**: Ani
 
@@ -4247,6 +4580,7 @@ Strict on corrections and assignments, takes extra 10 minutes during the class.
 
 ### Date
 2025-03-12
+
 
 ### Lecturer Information
 - **Name**: Yosry
@@ -4264,6 +4598,7 @@ His explanations are bad, but grades are fine. Don't expect too much.
 ### Date
 2025-03-13
 
+
 ### Lecturer Information
 - **Name**: Yousri
 
@@ -4276,6 +4611,7 @@ You can take the class with Yousri but will need to depend on self-learning and 
 
 ### Date
 2025-03-13
+
 
 ### Lecturer Information
 - **Name**: Dr. [Not Specified]
@@ -4291,6 +4627,7 @@ Her explanation is normal, gives examples in lectures, excellent in correction o
 ### Date
 2025-03-13
 
+
 ### Lecturer Information
 - **Name**: Dr. Chua Tien
 
@@ -4304,6 +4641,7 @@ Knows how to supervise and help, and focuses on attendance.
 
 ### Date
 2025-03-13
+
 
 ### Lecturer Information
 - **Name**: محمد فوزي (Mohammad Fauzi)
@@ -4320,6 +4658,7 @@ No content review
 ### Date
 2025-03-13
 
+
 ### Lecturer Information
 - **Name**: عبدالناصر (Abdul Nasser)
 - **Name**: محمد فيصل (Mohammad Faisal)
@@ -4333,6 +4672,7 @@ Abdul Nasser is very good, especially in dealing with students. Mohammad Faisal 
 
 ### Date
 2025-03-13
+
 
 ### Lecturer Information
 - **Name**: Abdul Nasser
@@ -4352,6 +4692,7 @@ Doesn't explain well. Gives many assignments. Interested in trading. The subject
 ### Date
 2025-03-13
 
+
 ### Lecturer Information
 - **Name**: [Statistics Lecturer - Male]
 
@@ -4363,6 +4704,7 @@ Recommended to take statistics with a male lecturer.
 
 ### Date
 2025-03-13
+
 
 ### Lecturer Information
 - **Name**: غاني (Ghani)
@@ -4379,6 +4721,7 @@ A respected doctor, understands his subject, and will never wrong you in grades.
 ### Date
 2025-03-13
 
+
 ### Lecturer Information
 - **Name**: Ghani
 
@@ -4394,6 +4737,7 @@ His personality is amazing and he never wrongs you in grades, he corrects fairly
 ### Date
 2025-03-13
 
+
 ### Lecturer Information
 - **Name**: Dr. [Not Specified]
 
@@ -4408,6 +4752,7 @@ Doesn't explain well, sometimes gives a good grade, doesn't care about attendanc
 
 ### Date
 2025-03-13
+
 
 ### Lecturer Information
 - **Name**: Ani
@@ -4425,6 +4770,7 @@ Average at explaining, focuses on attendance, gives surprise quizzes. If you att
 ### Date
 2025-03-13
 
+
 ### Lecturer Information
 - **Name**: Lim Yeou Jiann
 - **Courses**: Math II
@@ -4439,6 +4785,7 @@ Explanation quick, not focused on attendance, but be careful of the large number
 
 ### Date
 2025-03-13
+
 
 ### Lecturer Information
 - **Name**: Doctor [Not Specified]
@@ -4458,6 +4805,7 @@ The doctor is great and was very lenient with grades when teaching a philosophy 
 
 ---
 
+
 ### Lecturer Information
 - **Name**: Abdullah 
 - **Courses**: Devices (mentioned indirectly)
@@ -4473,6 +4821,7 @@ One person highly recommends dropping the course rather than taking it with this
 
 ### Date
 2025-03-13
+
 
 ### Lecturer Information
 - **Name**: Lím
@@ -4493,6 +4842,7 @@ Lím is considered flexible with grading and lenient with corrections, allowing 
 ### Date
 2025-03-13
 
+
 ### Lecturer Information
 - **Name**: (Possibly Mohammed Abdulmonem)
 
@@ -4508,6 +4858,7 @@ This lecturer is considered laid-back and easy-going. They previously taught com
 ### Date
 2025-03-13
 
+
 ### Lecturer Information
 - **Name**: Abdul Nasser
 
@@ -4516,6 +4867,7 @@ Highly recommended.
 
 ### Date
 2025-03-13
+
 
 ### Lecturer Information
 - **Name**: Fauzee
@@ -4528,6 +4880,7 @@ Considered excellent and highly recommended.
 
 ### Date
 2025-03-14
+
 
 ### Lecturer Information
 - **Name**: Muhammad Fauzee bin Hamdan
@@ -4544,6 +4897,7 @@ Generally considered good in teaching and interaction. Quizzes and assignments a
 ### Date
 2025-03-14
 
+
 ### Lecturer Information
 - **Name**: Ani
 
@@ -4557,6 +4911,7 @@ Ani is considered similar to other lecturers. The course is expected to be simpl
 
 ### Date
 2025-03-14
+
 
 ### Lecturer Information
 - **Name**: Siti Mariam
@@ -4572,6 +4927,7 @@ Siti Mariam has a good teaching style with quick class examples. She focuses on 
 
 ### Date
 2025-03-14
+
 
 ### Lecturer Information
 - **Name**: IR. DR. Fauzan Khairi Bin Che Harun
@@ -4590,6 +4946,7 @@ Fauzan is not a good teacher but might give good grades. The micro course is dif
 
 ---
 
+
 ### Lecturer Information
 - **Name**: Anwar
 ### Review Summary
@@ -4600,6 +4957,7 @@ Dr. Anwar is generally easygoing in all aspects. Consider him as an option if yo
 
 ### Date
 2025-03-14
+
 
 ### Lecturer Information
 - **Name**: Amirjan
@@ -4612,6 +4970,7 @@ Amirjan is preferred over Norlali.
 
 ### Date
 2025-03-14
+
 
 ### Lecturer Information
 - **Name**: Dr. Saiful Azimi
@@ -4627,6 +4986,7 @@ Contact card provided for Dr. Saiful Azimi.
 ### Date
 2025-03-14
 
+
 ### Lecturer Information
 - **Name**: Halima
 ### Review Summary
@@ -4639,6 +4999,7 @@ Halima is a good choice for Malay. Although someone heard she became strict, oth
 ### Date
 2025-03-14
 
+
 ### Lecturer Information
 - **Name**: Mohamed Fairus Bin Mohd Yousof
 ### Review Summary
@@ -4646,6 +5007,7 @@ Someone is asking for opinions from those who studied with Dr. Mohamed Fairus Bi
 
 ### Date
 2025-03-15
+
 
 ### Lecturer Information
 - **Name**: اخوان كوري (Ikhwan Korean)
@@ -4659,6 +5021,7 @@ Avoid a specific unnamed doctor and take course with the Korean Ikhwan.
 ### Date
 2025-03-15
 
+
 ### Lecturer Information
 - **Name**: Leow Pei Ling
 ### Review Summary
@@ -4669,6 +5032,7 @@ Contact number for Leow Pei Ling is provided: 012-2657315
 
 ### Date
 2025-03-15
+
 
 ### Lecturer Information
 - **Name**: Shukri
@@ -4682,6 +5046,7 @@ Shukri doesn't explain well, but is nice regarding grades and doesn't care about
 
 ### Date
 2025-03-15
+
 
 ### Lecturer Information
 - **Name**: Zahra
@@ -4699,6 +5064,7 @@ Dr. Zahra is considered the best, with good handling, explanations, and grades. 
 ### Date
 2025-03-15
 
+
 ### Lecturer Information
 - **Name**: Nasrul
 ### Review Summary
@@ -4710,6 +5076,7 @@ Nasrul doesn't care about the subject, students didn't attend class, and most go
 
 ### Date
 2025-03-15
+
 
 ### Lecturer Information
 - **Name**: Fatin Nadiah Binti Mohamed Youssof
@@ -4725,6 +5092,7 @@ Someone is asking for contact numbers of Fatin Nadiah Binti Mohamed Youssof, Nur
 ### Date
 2025-03-15
 
+
 ### Lecturer Information
 - **Name**: Mohd Fuaad Rahmat
 ### Review Summary
@@ -4739,6 +5107,7 @@ Contact card provided for Prof. Dr Mohd Fuaad Rahmat.
 ### Date
 2025-03-15
 
+
 ### Lecturer Information
 - **Name**: Aqila
 ### Review Summary
@@ -4752,6 +5121,7 @@ Aqila has bad explanation, unfair grading and strict attendance.
 ### Date
 2025-03-15
 
+
 ### Lecturer Information
 - **Name**: Hau
 - **Name**: Adib
@@ -4764,6 +5134,7 @@ Hau is the #1 choice; Adib is another option, but Hau is better.
 ### Date
 2025-03-15
 
+
 ### Lecturer Information
 - **Name**: Noor Asmawati Samsuri
 ### Review Summary
@@ -4775,6 +5146,7 @@ Someone is asking for Dr. Noor Asmawati Samsuri's contact number.
 ### Date
 2025-03-15
 
+
 ### Lecturer Information
 - **Name**: Nur Dalilah
 ### Review Summary
@@ -4783,6 +5155,7 @@ Image containing Dr. Nur Dalilah is attached.
 ### Date
 2025-03-15
 
+
 ### Lecturer Information
 - **Name**: Nur Aqilah Mohamad
 ### Review Summary
@@ -4790,6 +5163,7 @@ Image containing Nur Aqilah Mohamad is attached.
 
 ### Date
 2025-03-15
+
 
 ### Lecturer Information
 - **Name**: Nurhanah Binti Rosmin
@@ -4805,6 +5179,7 @@ Contact card provided for Dr. Norhana.
 ### Date
 2025-03-16
 
+
 ### Lecturer Information
 - **Name**: Norzanah Binti Rosmin
 ### Review Summary
@@ -4819,6 +5194,7 @@ Good in grades, gave most students A, didn't care about attendance much but doin
 ### Date
 2025-03-16
 
+
 ### Lecturer Information
 - **Name**: Halima
 ### Review Summary
@@ -4830,6 +5206,7 @@ Good. Halima is better.
 
 ### Date
 2025-03-16
+
 
 ### Lecturer Information
 - **Name**: Nur Faizal bin Kasri
@@ -4844,11 +5221,13 @@ Someone is asking for Dr. Nur Faizal bin Kasri's contact number.
 
 ---
 
+
 ### Lecturer Information
 - **Name**: DR NORHAFEZAIDI BIN MAT SAMAN
 
 ### Date
 2025-03-16
+
 
 ### Lecturer Information
 - **Name**: عبدالرشيد
@@ -4861,6 +5240,7 @@ His explanation is strict.
 ### Date
 2025-03-16
 
+
 ### Lecturer Information
 - **Name**: عرفينان
 ### Review Summary
@@ -4872,6 +5252,7 @@ His explanation is bad but lenient.
 
 ### Date
 2025-03-16
+
 
 ### Lecturer Information
 - **Name**: محمد حافظ
@@ -4886,6 +5267,7 @@ He is excellent.
 
 ### Date
 2025-03-16
+
 
 ### Lecturer Information
 - **Name**: أحمد
@@ -4902,12 +5284,14 @@ He is very bad, his correction is very bad, not understanding, needs exact answe
 ### Date
 2025-03-16
 
+
 ### Lecturer Information
 - **Name**: سيفول
 ### Courses**: Mechanics
 
 ### Date
 2025-03-16
+
 
 ### Lecturer Information
 - **Name**: أبو امين
@@ -4924,11 +5308,13 @@ Legend, no explanation, no language, nothing, just grades and doesn't focus on a
 ### Date
 2025-03-16
 
+
 ### Lecturer Information
 - **Name**: زيد عمر
 
 ### Date
 2025-03-16
+
 
 ### Lecturer Information
 - **Name**: Sti Maryam
@@ -4942,6 +5328,7 @@ Good choice for statistics if Fawzi doesn't teach it.
 ### Date
 2025-03-16
 
+
 ### Lecturer Information
 - **Name**: Fawzi
 ### Courses**: Statistics
@@ -4954,11 +5341,13 @@ Good choice for statistics if he teaches it.
 ### Date
 2025-03-16
 
+
 ### Lecturer Information
 - **Name**: DR. MOHD. RODHI BIN SAHID
 
 ### Date
 2025-03-17
+
 
 ### Lecturer Information
 - **Name**: BADLIHISHAM NASIR
@@ -4966,11 +5355,13 @@ Good choice for statistics if he teaches it.
 ### Date
 2025-03-17
 
+
 ### Lecturer Information
 - **Name**: Nur Najhatul Huda Saris
 
 ### Date
 2025-03-17
+
 
 ### Lecturer Information
 - **Name**: Intro to scientific programming
@@ -4986,17 +5377,20 @@ Nice, very kind, lenient, will help if you work hard. Explanation is hard to jud
 ### Date
 2025-03-17
 
+
 ### Lecturer Information
 - **Name**:電子系統
 
 ### Date
 2025-03-17
 
+
 ### Lecturer Information
 - **Name**: MALAY
 
 ### Date
 2025-03-17
+
 
 ### Lecturer Information
 - **Name**:  Dr. Mohd Ariffanan bin Mohd Basri
@@ -5011,6 +5405,7 @@ He is not good in explanation or dealing. He has project in Putrajaya and this w
 - No choice for only this section
 ### Date
 2025-03-17
+
 
 ### Lecturer Information
 - **Name**: Norlaili Binti Mat Safri
@@ -5027,12 +5422,14 @@ She is very kind and cooperative, her dealing is good. Assignment doesn't take m
 
 ---
 
+
 ### Lecturer Information
 - **Name**: Dr. Asrul Izam Bin Azmi
 - **Contact**: @971564898122
 
 ### Date
 2025-03-17
+
 
 ### Lecturer Information
 - **Name**: Dr. Nik Noordini
@@ -5046,6 +5443,7 @@ The lecturer is difficult to reach via WhatsApp and may not respond to messages.
 
 ### Date
 2025-03-17
+
 
 ### Lecturer Information
 - **Name**: PROF IR DR SHARUL KAMAL BIN ABDUL RAHIM
@@ -5061,6 +5459,7 @@ Conflicting opinions exist about this lecturer. One student found him to be one 
 ### Date
 2025-03-17
 
+
 ### Lecturer Information
 - **Name**: Dr. Lukman Hafiz
 
@@ -5072,6 +5471,7 @@ It is recommended to avoid taking classes with this lecturer.
 
 ### Date
 2025-03-17
+
 
 ### Lecturer Information
 - **Name**: Dr. Nor Aini
@@ -5086,11 +5486,13 @@ The lecturer is responsive on WhatsApp. Going to her office is recommended for s
 ### Date
 2025-03-17
 
+
 ### Lecturer Information
 - **Name**: Dr. Abdul Nasser Ishaq
 
 ### Date
 2025-03-17
+
 
 ### Lecturer Information
 - **Name**: Zaid
@@ -5104,6 +5506,7 @@ Taking a class with Zaid may lead to forgetting about the course, as he might al
 
 ### Date
 2025-03-17
+
 
 ### Lecturer Information
 - **Name**: Fatin Nadiah Binti Mohamed Yussof
@@ -5120,6 +5523,7 @@ The lecturer is good at explaining, doesn't focus heavily on attendance, and hel
 ### Date
 2025-03-17
 
+
 ### Lecturer Information
 - **Name**: Mohamad Saiful Azimi Mahmud
 - **Name**: Noorhazirah Sunar
@@ -5127,6 +5531,7 @@ The lecturer is good at explaining, doesn't focus heavily on attendance, and hel
 
 ### Date
 2025-03-17
+
 
 ### Lecturer Information
 - **Name**: Siti Rahmah Binti Abdullah
@@ -5140,6 +5545,7 @@ Considered a good lecturer.
 ### Date
 2025-03-17
 
+
 ### Lecturer Information
 - **Name**: Norlaili
 
@@ -5152,6 +5558,7 @@ Highly recommended.
 ### Date
 2025-03-17
 
+
 ### Lecturer Information
 - **Name**: Mohd Azhar
 
@@ -5163,6 +5570,7 @@ Recommended.
 
 ### Date
 2025-03-17
+
 
 ### Lecturer Information
 - **Name**: Arnidza
@@ -5179,6 +5587,7 @@ Considered average in digital electronics. Her grading is okay, explanation is w
 ### Date
 2025-03-17
 
+
 ### Lecturer Information
 - **Name**: Tan Chee Wei
 
@@ -5192,6 +5601,7 @@ A well-respected and good lecturer in circuit analysis.
 
 ### Date
 2025-03-17
+
 
 ### Lecturer Information
 - **Name**:  Mawaddah Binti Salleh
@@ -5207,6 +5617,7 @@ Good explanations and focuses on attendance at the beginning but is good overall
 ### Date
 2025-03-17
 
+
 ### Lecturer Information
 - **Name**: [Lecturer in attached image - unknown name]
 
@@ -5221,6 +5632,7 @@ His assignment and quizzes give you a good chance to get full marks. He is a nic
 
 ### Date
 2025-03-17
+
 
 ### Lecturer Information
 - **Name**: [Lecturer in attached image - unknown name]
@@ -5240,6 +5652,7 @@ The lecture was boring, there's no WhatsApp group or contact number. Assignments
 
 ---
 
+
 ### Lecturer Information
 - **Name**: ABID ZULFADHLI BIN RAZALI
 - **Contact**: abidzufadhli.razali@utm.my
@@ -5256,6 +5669,7 @@ Guru Bahasa (DG9F) at Fakulti Sains Sosial dan Kemanusiaan @ Akademi Bahasa
 ### Date
 2025-03-18
 
+
 ### Lecturer Information
 - **Name**: LIM CHENG SIONG
 
@@ -5268,6 +5682,7 @@ LIM is a great explainer, but not easy to get along with. Others have said this 
 
 ### Date
 2025-03-18
+
 
 ### Lecturer Information
 - **Name**: Noorehan Yaacob
@@ -5282,6 +5697,7 @@ The lecturer's explanation of the material is very good and the correction is go
 
 ### Date
 2025-03-18
+
 
 ### Lecturer Information
 - **Name**: Dr.Izat emir
@@ -5300,6 +5716,7 @@ Considered the best in the Numerical methods and provides the best explanation. 
 ### Date
 2025-03-18
 
+
 ### Lecturer Information
 - **Name**: Abdul Rashid Bin Husain
 
@@ -5309,6 +5726,7 @@ Heard to be a good doctor.
 ### Date
 2025-03-18
 
+
 ### Lecturer Information
 - **Name**: HAU
 
@@ -5317,6 +5735,7 @@ Considered better than another unnamed lecturer.
 
 ### Date
 2025-03-18
+
 
 ### Lecturer Information
 - **Name**: Dr. Arnidza Ramli
@@ -5333,6 +5752,7 @@ Material needs to be followed up. Good at explaining and dedicated.
 ### Date
 2025-03-18
 
+
 ### Lecturer Information
 - **Name**: Wan
 
@@ -5344,6 +5764,7 @@ Looking for contact information.
 ### Date
 2025-03-18
 
+
 ### Lecturer Information
 - **Name**: Nurul Najiha
 
@@ -5354,6 +5775,7 @@ Compared to Lim, she is considered good and easier to deal with
 2025-03-18
 
 ---
+
 
 ### Lecturer Information
 - **Name**: Norazlina Ismail
@@ -5377,6 +5799,7 @@ Review relates to teaching style and grading of Signals and Systems course.
 ### Date
 2025-03-18
 
+
 ### Lecturer Information
 - **Name**: Dr Fatin Nadiah Mohamed Yussof
 
@@ -5390,6 +5813,7 @@ She is considered good, but if you neglect the material, it is important not to 
 ### Date
 2025-03-18
 
+
 ### Lecturer Information
 - **Name**: Dr. Nur Hazira
 
@@ -5401,6 +5825,7 @@ Her videos can be helpful for studying Differential Equations.
 
 ### Date
 2025-03-19
+
 
 ### Lecturer Information
 - **Name**: Anita Ali
@@ -5416,6 +5841,7 @@ Her explanation is good and gives you what you deserve, doesn't focus on attenda
 ### Date
 2025-03-19
 
+
 ### Lecturer Information
 - **Name**: Leow Pei Ling
 - **Name**: Nasarudin Ahmad
@@ -5429,6 +5855,7 @@ Advised to pay attention to these lecturers.
 
 ### Date
 2025-03-18
+
 
 ### Lecturer Information
 - **Name**: Dr. Fong
@@ -5445,6 +5872,7 @@ The lecturer is praised for explaining the material very well and giving right o
 ### Date
 2025-03-19
 
+
 ### Lecturer Information
 - **Name**: En Ahmad Ridhwan Abdul Wahap
 
@@ -5457,6 +5885,7 @@ Requesting the contact information for the lecturer.
 ### Date
 2025-03-19
 
+
 ### Lecturer Information
 - **Name**: Dr.jamaluddin bin zakaria
 
@@ -5468,6 +5897,7 @@ Requesting and providing contact information for the lecturer.
 
 ### Date
 2025-03-19
+
 
 ### Lecturer Information
 - **Name**: Mohd Anuar bin Md Ali
@@ -5485,6 +5915,7 @@ The lecturer in sections 9 and 10 is described as legendary, with excellent teac
 ### Date
 2025-03-18
 
+
 ### Lecturer Information
 - **Name**: Siti Mariam
 
@@ -5500,6 +5931,7 @@ The lecturer reads from solved slides, has a very soft voice, the explanations a
 ### Date
 2025-03-19
 
+
 ### Lecturer Information
 - **Name**: SITI RAHMAH BINTI ABDULLAH
 - **Courses**: English 2
@@ -5514,6 +5946,7 @@ Requesting the contact information for the lecturer.
 2025-03-19
 
 ---
+
 
 ### Lecturer Information
 - **Name**: Assoc. Prof. Dr Sallehuddin
@@ -5535,6 +5968,7 @@ Sallehuddin is very kind, cooperative, and lenient if you don't go around in cir
 ### Date
 2025-03-19
 
+
 ### Lecturer Information
 - **Name**: Dr. Nur اخوان (Nur Ikhwan)
 
@@ -5549,6 +5983,7 @@ Nur Ikhwan is good in terms of treatment and is lenient in quizzes and tests. Gi
 ### Date
 2025-03-20
 
+
 ### Lecturer Information
 - **Name**: Dr. Jamaluddin Bin Zakaria
 
@@ -5560,6 +5995,7 @@ Avoid Jamaluddin.
 
 ### Date
 2025-03-20
+
 
 ### Lecturer Information
 - **Name**: Dr. Hau Yuan Wen
@@ -5574,6 +6010,7 @@ Dr. Hau is good, described as similar to Rania.
 ### Date
 2025-03-20
 
+
 ### Lecturer Information
 - **Name**: Mohd Adib Sarijari
 
@@ -5585,6 +6022,7 @@ Mohd Adib Sarijari is also good.
 
 ### Date
 2025-03-20
+
 
 ### Lecturer Information
 - **Name**: Anita
@@ -5603,6 +6041,7 @@ Anita is a great lecturer. She explains well, is very kind, cooperative, and ver
 ### Date
 2025-03-20
 
+
 ### Lecturer Information
 - **Name**: Salah Al-Din
 
@@ -5615,6 +6054,7 @@ It is recommended to study from slides and past papers to prepare for Electronic
 
 ### Date
 2025-03-20
+
 
 ### Lecturer Information
 - **Name**: Shazirawati Binti Mohd Puzi
@@ -5631,6 +6071,7 @@ Shazirawati is strict in grading and attendance, but she is very good at explain
 2025-03-20
 
 ---
+
 
 ### Lecturer Information
 - **Name**: Muhammad Amin Abdul Wahab
@@ -5666,6 +6107,7 @@ Discussion includes advice on which lecturers to choose.
 
 ---
 
+
 ### Lecturer Information
 - **Name**: نورهازيرا
 - **Courses**: [If mentioned]
@@ -5685,6 +6127,7 @@ The lecturer is good, but her explanation is not great. She gives good grades an
 ### Date
 2025-03-20
 
+
 ### Lecturer Information
 - **Name**: رضوان
 - **Courses**: [If mentioned]
@@ -5701,6 +6144,7 @@ Radwan is scary.
 
 ### Date
 2025-03-20
+
 
 ### Lecturer Information
 - **Name**: شكري
@@ -5719,6 +6163,7 @@ One person suggested running away from him. Someone else stated there are two di
 ### Date
 2025-03-20
 
+
 ### Lecturer Information
 - **Name**:  Siti khadijah
 - **Courses**: [If mentioned]
@@ -5735,6 +6180,7 @@ Coordinator of a course.
 
 ### Date
 2025-03-20
+
 
 ### Lecturer Information
 - **Name**: [Lecturer - Unnamed]
@@ -5755,6 +6201,7 @@ High attendance requirements, acceptable grading, and average explanation.
 ### Date
 2025-03-20
 
+
 ### Lecturer Information
 - **Name**: [Lecturer - Unnamed]
 - **Courses**: Math 1
@@ -5772,6 +6219,7 @@ Explanation is great, but grading is difficult.
 
 ### Date
 2025-03-20
+
 
 ### Lecturer Information
 - **Name**: [Lecturer - Unnamed]
@@ -5793,6 +6241,7 @@ Explanation is very good (10/10), but grading is very bad. Two quizzes only, one
 
 ### Date
 2025-03-20
+
 
 ### Lecturer Information
 - **Name**: [Lecturer - Unnamed]
@@ -5816,6 +6265,7 @@ Doesn't care about attendance, can't explain well, finishes lecture quickly, gra
 ### Date
 2025-03-20
 
+
 ### Lecturer Information
 - **Name**: [Lecturer - Unnamed]
 - **Courses**: [If mentioned]
@@ -5835,6 +6285,7 @@ Knows how to explain, but focuses on attendance and dress code. Bad interaction 
 
 ### Date
 2025-03-20
+
 
 ### Lecturer Information
 - **Name**: [Lecturer - Unnamed]
@@ -5857,6 +6308,7 @@ Good explanation, gives you your rights in grading, gives quizzes at the end of 
 ### Date
 2025-03-21
 
+
 ### Lecturer Information
 - **Name**: DR. MUHAMMAD AFIQ NURUDIN BIN HAMZAH
 - **Courses**: [If mentioned]
@@ -5876,6 +6328,7 @@ Good explanation, gives you your rights in grading, gives quizzes at the end of 
 
 ---
 
+
 ### Lecturer Information
 - **Name**: Dr. Noraindah Binti Abdullah Fahim
 - **Name**: Dr. Nabilah Ripin
@@ -5894,6 +6347,7 @@ The reviews are for lecturers teaching courses in the university, with specific 
 
 ### Date
 2025-03-21
+
 
 ### Lecturer Information
 - **Name**: Undisclosed lecturer
@@ -5915,6 +6369,7 @@ The discussion is in the context of course registration issues and inquiries abo
 ### Date
 2025-03-21
 
+
 ### Lecturer Information
 - **Name**: How
 
@@ -5933,13 +6388,16 @@ No additional context.
 
 ---
 
+
 ### Lecturer Information
 - **Name**: Zaliza Mohamed Nasir
 - **Contact**: +60 13-740 3995
 
+
 ### Lecturer Information
 - **Name**: Suhaila
 - **Contact**: +60 19-8833087
+
 
 ### Lecturer Information
 - **Name**: ABID
@@ -5950,6 +6408,7 @@ ABID's classes involve going through the material twice, but overall, he is easy
 ### Key Points
 - Easy class
 - Class reviewed twice
+
 
 ### Lecturer Information
 - **Name**: Mohd Zaki Bin Daud
@@ -5962,6 +6421,7 @@ He is considered a good and kind doctor, but strict with attendance. If you atte
 - Good
 - Strict with attendance
 
+
 ### Lecturer Information
 - **Name**: Rohde
 
@@ -5971,11 +6431,13 @@ Strongly advised against taking Rohde.
 ### Key Points
 - Very bad
 
+
 ### Lecturer Information
 - **Name**: NURUL ASHIKIN DAUD
 
 ### Review Summary
 Seeking review for Devices course.
+
 
 ### Lecturer Information
 - **Name**: Anita
@@ -5990,6 +6452,7 @@ Anita is an excellent and respectful lecturer. She explains well and focuses mor
 - Exams have problems
 - Understanding more important than memorization
 
+
 ### Lecturer Information
 - **Name**: NORHAFEZAIDI
 
@@ -6000,11 +6463,13 @@ It is strongly recommended to avoid taking this lecturer. You may get an E grade
 - Bad lecturer
 - May get an E
 
+
 ### Lecturer Information
 - **Name**: Noraihan Afiqah Rawi
 
 ### Review Summary
 Try to avoid taking her.
+
 
 ### Lecturer Information
 - **Name**: Wan Ibrahim
@@ -6012,6 +6477,7 @@ Try to avoid taking her.
 
 ### Review Summary
 Both are okay.
+
 
 ### Lecturer Information
 - **Name**: Herlina Abdul Rahim
@@ -6021,6 +6487,7 @@ Both are okay.
 2025-03-21
 
 ---
+
 
 ### Lecturer Information
 - **Name**: Ahmed
@@ -6040,6 +6507,7 @@ Ahmed and Mimi are the only two lecturers for French. Both are good, and student
 ### Date
 2025-03-22
 
+
 ### Lecturer Information
 - **Name**: NUR SYAMIMI ALWANI BINTI YUSHALANI
 
@@ -6049,6 +6517,7 @@ Someone is asking about this lecturer for Philosophy but there is no information
 ### Date
 2025-03-22
 Skipped. No review content.
+
 ### Lecturer Information
 - **Name**: Jasrul Jamani Bin Jamian
 
@@ -6064,6 +6533,7 @@ Workshop details: TROPV 2.0 WORKSHOP, November 25th 2022, DK 4, P19, 8am-5pm. Re
 
 ### Date
 2022-11-14
+
 ### Lecturer Information
 - **Name**: Dr Noor Asmawati Binti Samsuri
 - **Contact**: asmawati@utm.my
@@ -6080,6 +6550,7 @@ Attached image with the lecturer's information and specialization.
 ### Date
 2022-12-31
 
+
 ### Lecturer Information
 - **Name**: Prof. Madya Dr Mohamad Hafis Izran Bin Ishak
 - **Contact**: hafis@utm.my
@@ -6095,6 +6566,7 @@ Attached image with the lecturer's information and specialization.
 
 ### Date
 2022-12-31
+
 
 ### Lecturer Information
 - **Name**: Hamima
