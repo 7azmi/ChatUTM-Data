@@ -80,8 +80,6 @@ A user claimed this lecturer doesn't explain well. However, the lecturer replace
 ### Date
 2021-03-17
 
----
-
 
 ### Lecturer Information
 - **Name**: Abu Sahmah bin Mohd Supaat
@@ -691,8 +689,6 @@ Good explanation and grades.
 ### Date
 2024-03-20
 
----
-
 
 ### Lecturer Information
 - **Name**: Abdelrahman Eltayeb
@@ -1259,8 +1255,6 @@ A student is looking for the location of Dr. Noorhazira's office, another studen
 ### Date
 2024-12-23
 
----
-
 
 ### Lecturer Information
 - **Name**: انس عامر
@@ -1628,8 +1622,6 @@ Not good at explaining but nice and lenient in grading.
 ### Date
 2023-01-15
 
----
-
 
 ### Lecturer Information
 - **Name**: Shaharin Mad Ayob
@@ -1891,8 +1883,6 @@ Mentioned as a friend.
 
 ### Date
 2023-01-21
-
----
 
 
 ### Lecturer Information
@@ -2171,8 +2161,6 @@ Legendary! He gives you the test. He doesn't explain or do classes. He comes bef
 ### Date
 2023-03-18
 
----
-
 
 ### Lecturer Information
 - **Name**: SHAHARIN
@@ -2380,8 +2368,6 @@ Does not explain well but is good with grades.
 ### Date
 2023-03-19
 
----
-
 
 ### Lecturer Information
 - **Name**: First Lecturer
@@ -2565,8 +2551,6 @@ One person asks if he gives good grades, another describes him as excellent and 
 
 ### Date
 2023-03-27
-
----
 
 
 ### Lecturer Information
@@ -3240,8 +3224,6 @@ Has bad explanations and behavior. However, the grades are good. The lecturer fo
 ### Date
 2023-10-06
 
----
-
 
 ### Lecturer Information
 - **Name**: محمد فؤاد (Mohammad Fouad)
@@ -3512,8 +3494,6 @@ He is bad, doesn't know how to give good grades and his explanation is unknown b
 ### Date
 2023-10-08
 
----
-
 
 ### Lecturer Information
 - **Name**: Azhar
@@ -3731,8 +3711,6 @@ He is very respectable and treats his students well.
 
 ### Date
 2023-10-10
-
----
 
 
 ### Lecturer Information
@@ -3999,8 +3977,6 @@ Omar Batis is announced as the lecturer for the YSAG review sessions for SIGNALS
 ### Date
 2025-01-22
 
----
-
 
 ### Lecturer Information
 - **Name**: Mohanad Alsabari
@@ -4246,8 +4222,6 @@ Does give the student their right.
 ### Date
 2025-03-05
 
----
-
 
 ### Lecturer Information
 - **Name**: Haliza BT Abd Rahman
@@ -4420,8 +4394,6 @@ Photo of Shalini Srika A/p Bala's contact information is included.
 
 ### Date
 2025-03-11
-
----
 
 
 ### Lecturer Information
@@ -4803,8 +4775,6 @@ The doctor is great and was very lenient with grades when teaching a philosophy 
 ### Date
 2025-03-13
 
----
-
 
 ### Lecturer Information
 - **Name**: Abdullah 
@@ -4943,8 +4913,6 @@ Fauzan is not a good teacher but might give good grades. The micro course is dif
 
 ### Date
 2025-03-14
-
----
 
 
 ### Lecturer Information
@@ -5219,8 +5187,6 @@ Someone is asking for Dr. Nur Faizal bin Kasri's contact number.
 ### Date
 2025-03-16
 
----
-
 
 ### Lecturer Information
 - **Name**: DR NORHAFEZAIDI BIN MAT SAMAN
@@ -5419,8 +5385,6 @@ She is very kind and cooperative, her dealing is good. Assignment doesn't take m
 - Easy assignments
 - Ok correction
 - Doesn't explain well
-
----
 
 
 ### Lecturer Information
@@ -5650,8 +5614,6 @@ The lecture was boring, there's no WhatsApp group or contact number. Assignments
 ### Date
 2025-03-17
 
----
-
 
 ### Lecturer Information
 - **Name**: ABID ZULFADHLI BIN RAZALI
@@ -5773,8 +5735,6 @@ Compared to Lim, she is considered good and easier to deal with
 
 ### Date
 2025-03-18
-
----
 
 
 ### Lecturer Information
@@ -5945,8 +5905,6 @@ Requesting the contact information for the lecturer.
 ### Date
 2025-03-19
 
----
-
 
 ### Lecturer Information
 - **Name**: Assoc. Prof. Dr Sallehuddin
@@ -6070,8 +6028,6 @@ Shazirawati is strict in grading and attendance, but she is very good at explain
 ### Date
 2025-03-20
 
----
-
 
 ### Lecturer Information
 - **Name**: Muhammad Amin Abdul Wahab
@@ -6104,8 +6060,6 @@ Discussion includes advice on which lecturers to choose.
 
 ### Date
 2025-03-20
-
----
 
 
 ### Lecturer Information
@@ -6326,8 +6280,6 @@ Good explanation, gives you your rights in grading, gives quizzes at the end of 
 ### Date
 2025-03-21
 
----
-
 
 ### Lecturer Information
 - **Name**: Dr. Noraindah Binti Abdullah Fahim
@@ -6385,8 +6337,6 @@ No additional context.
 
 ### Date
 2025-03-21
-
----
 
 
 ### Lecturer Information
@@ -6485,8 +6435,6 @@ Both are okay.
 
 ### Date
 2025-03-21
-
----
 
 
 ### Lecturer Information
