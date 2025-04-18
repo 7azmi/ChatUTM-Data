@@ -27,9 +27,9 @@ GEMINI_API_KEYS = [
 # Filter out any None values
 GEMINI_API_KEYS = [key for key in GEMINI_API_KEYS if key]
 
-MESSAGES_PER_CHUNK = 200  # Number of messages per chunk
-CHAT_FOLDER = "mediafiles/2024/"  # Replace with your folder path
-OUTPUT_CSV_FILE = "lecturer_reviews_consolidated.csv"
+MESSAGES_PER_CHUNK = 500  # Number of messages per chunk
+CHAT_FOLDER = "iss-yemen/ysag/computing/2024/"  # Replace with your folder path
+OUTPUT_CSV_FILE = "electrical-lecturer-review2.csv"
 CSV_HEADERS = [
     'Name', 'Courses', 'Contact', 'Review Summary',
     'Key Points', 'Context', 'Date', 'Source File'
@@ -100,7 +100,7 @@ def call_gemini_api(chat_text, media_files=[]):
         api_key = get_next_api_key()
         genai.configure(api_key=api_key)
         # Use a model that supports multimodal input if media is present
-        model_name = "gemini-1.5-flash" # Or gemini-pro-vision if needed, check availability and pricing
+        model_name = "gemini-2.5-flash-preview-04-17" # Or gemini-pro-vision if needed, check availability and pricing
         model = genai.GenerativeModel(model_name)
 
         logging.info(f"Calling Gemini with {len(media_files)} media files using key index {current_key_index-1}") # Log key index used
