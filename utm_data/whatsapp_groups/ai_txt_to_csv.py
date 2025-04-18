@@ -28,11 +28,11 @@ GEMINI_API_KEYS = [
 GEMINI_API_KEYS = [key for key in GEMINI_API_KEYS if key]
 
 MESSAGES_PER_CHUNK = 400  # Number of messages per chunk
-CHAT_FOLDER = "iss-yemen/ysag/computing/2024/"  # Replace with your folder path
-OUTPUT_CSV_FILE = "electrical-lecturer-review2.csv"
+CHAT_FOLDER = "iss-yemen/ysag/computing/2025/"  # Replace with your folder path
+OUTPUT_CSV_FILE = "computing-lecturer-review.csv"
 CSV_HEADERS = [
     'Name', 'Courses', 'Contact', 'Review Summary',
-    'Key Points', 'Context', 'Date', 'Source File'
+    'Key Points', 'Context', 'Date',
 ]
 
 SYSTEM_PROMPT = """
